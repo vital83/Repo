@@ -1,0 +1,59 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.ab_tooltips_enabled,event_properties.reaction,event_properties.title
+review_engage,1710893018605000,1a245283-7ad3-46b9-9bd5-7b6ebe6580e8,1a245283-7ad3-46b9-9bd5-7b6ebe6580e8_1710893012023,/,subscribed,monthly_1_999_nt,False,yes,Вам нравится Humanify?
+review_engage,1710893019849000,1a245283-7ad3-46b9-9bd5-7b6ebe6580e8,1a245283-7ad3-46b9-9bd5-7b6ebe6580e8_1710893012023,/,subscribed,monthly_1_999_nt,False,no,Тогда поставьте нам оценку!
+review_engage,1710893021958000,1a245283-7ad3-46b9-9bd5-7b6ebe6580e8,1a245283-7ad3-46b9-9bd5-7b6ebe6580e8_1710893012023,/,subscribed,monthly_1_999_nt,False,no,"Расскажите, что не так?"
+review_engage,1710898307682000,84171659-7142-4aff-beb8-342060c4c481,84171659-7142-4aff-beb8-342060c4c481_1710898302704,/,subscribed,6month_1_1999,False,yes,Вам нравится Humanify?
+review_engage,1710898309099000,84171659-7142-4aff-beb8-342060c4c481,84171659-7142-4aff-beb8-342060c4c481_1710898302704,/,subscribed,6month_1_1999,False,no,Тогда поставьте нам оценку!
+review_engage,1710898311665000,84171659-7142-4aff-beb8-342060c4c481,84171659-7142-4aff-beb8-342060c4c481_1710898302704,/,subscribed,6month_1_1999,False,no,"Расскажите, что не так?"
+review_engage,1710897995903000,71e72f3d-ca37-4a6d-aba8-35c9c970411c,71e72f3d-ca37-4a6d-aba8-35c9c970411c_1710897986770,/,subscribed,yearly_t_2,False,yes,Вам нравится Humanify?
+review_engage,1710928823148000,09aa675e-0707-4f57-b7b3-400206ee0622,09aa675e-0707-4f57-b7b3-400206ee0622_1710928817297,/,subscribed,yearly_t_2,False,yes,Вам нравится Humanify?
+review_engage,1710928824484000,09aa675e-0707-4f57-b7b3-400206ee0622,09aa675e-0707-4f57-b7b3-400206ee0622_1710928817297,/,subscribed,yearly_t_2,False,no,Тогда поставьте нам оценку!
+review_engage,1710928828104000,09aa675e-0707-4f57-b7b3-400206ee0622,09aa675e-0707-4f57-b7b3-400206ee0622_1710928817297,/,subscribed,yearly_t_2,False,no,"Расскажите, что не так?"
+review_engage,1710936068330000,8dde66e1-cf11-4fb9-8773-afd6156f3fff,8dde66e1-cf11-4fb9-8773-afd6156f3fff_1710936061125,/,subscribed,yearly_t_2,False,yes,Вам нравится Humanify?
+review_engage,1710936070566000,8dde66e1-cf11-4fb9-8773-afd6156f3fff,8dde66e1-cf11-4fb9-8773-afd6156f3fff_1710936061125,/,subscribed,yearly_t_2,False,yes,Тогда поставьте нам оценку!
+review_engage,1710936028593000,f5649dce-9bfb-409e-9b82-fdf43ea9fa5b,f5649dce-9bfb-409e-9b82-fdf43ea9fa5b_1710936020629,/,subscribed,yearly_t_2,False,yes,Вам нравится Humanify?
+review_engage,1710936063703000,f5649dce-9bfb-409e-9b82-fdf43ea9fa5b,f5649dce-9bfb-409e-9b82-fdf43ea9fa5b_1710936020629,/,subscribed,yearly_t_2,False,no,Тогда поставьте нам оценку!
+review_engage,1710936065435000,f5649dce-9bfb-409e-9b82-fdf43ea9fa5b,f5649dce-9bfb-409e-9b82-fdf43ea9fa5b_1710936020629,/,subscribed,yearly_t_2,False,no,"Расскажите, что не так?"
+review_engage,1710941643383000,0fb8a64e-e21d-4659-8492-b18885d7313e,0fb8a64e-e21d-4659-8492-b18885d7313e_1710941627624,/,subscribed,yearly_t_2,False,yes,Вам нравится Humanify?
+review_engage,1710941645063000,0fb8a64e-e21d-4659-8492-b18885d7313e,0fb8a64e-e21d-4659-8492-b18885d7313e_1710941627624,/,subscribed,yearly_t_2,False,no,Тогда поставьте нам оценку!
+review_engage,1710941647722000,0fb8a64e-e21d-4659-8492-b18885d7313e,0fb8a64e-e21d-4659-8492-b18885d7313e_1710941627624,/,subscribed,yearly_t_2,False,no,"Расскажите, что не так?"
+review_engage,1710939668249000,ce6c13e1-80b6-4d61-a247-e639bc21d6e8,ce6c13e1-80b6-4d61-a247-e639bc21d6e8_1710939617896,/,subscribed,yearly_t_2,False,yes,Вам нравится Humanify?
+review_engage,1710939671377000,ce6c13e1-80b6-4d61-a247-e639bc21d6e8,ce6c13e1-80b6-4d61-a247-e639bc21d6e8_1710939617896,/,subscribed,yearly_t_2,False,no,Тогда поставьте нам оценку!
+review_engage,1710939674167000,ce6c13e1-80b6-4d61-a247-e639bc21d6e8,ce6c13e1-80b6-4d61-a247-e639bc21d6e8_1710939617896,/,subscribed,yearly_t_2,False,no,"Расскажите, что не так?"
+review_engage,1710944369026000,d0830ab8-0c23-4dcb-9463-514321a72a22,d0830ab8-0c23-4dcb-9463-514321a72a22_1710944358365,/,subscribed,yearly_t_2,False,no,Вам нравится Humanify?
+review_engage,1710944370800000,d0830ab8-0c23-4dcb-9463-514321a72a22,d0830ab8-0c23-4dcb-9463-514321a72a22_1710944358365,/,subscribed,yearly_t_2,False,no,"Расскажите, что не так?"
+review_engage,1710944160606000,f3cdadb3-e986-4270-8585-50e8ef61c514,f3cdadb3-e986-4270-8585-50e8ef61c514_1710944149890,/,subscribed,weekly_1299_intro_promo_discount,False,no,Вам нравится Humanify?
+review_engage,1710944162522000,f3cdadb3-e986-4270-8585-50e8ef61c514,f3cdadb3-e986-4270-8585-50e8ef61c514_1710944149890,/,subscribed,weekly_1299_intro_promo_discount,False,no,"Расскажите, что не так?"
+review_engage,1710943693338000,e1d7ee59-4d30-45e0-8d38-de49a10fd876,e1d7ee59-4d30-45e0-8d38-de49a10fd876_1710943686463,/,subscribed,yearly_t_2,False,yes,Вам нравится Humanify?
+review_engage,1710943695411000,e1d7ee59-4d30-45e0-8d38-de49a10fd876,e1d7ee59-4d30-45e0-8d38-de49a10fd876_1710943686463,/,subscribed,yearly_t_2,False,yes,Тогда поставьте нам оценку!
+review_engage,1710952521911000,71e72f3d-ca37-4a6d-aba8-35c9c970411c,71e72f3d-ca37-4a6d-aba8-35c9c970411c_1710952514883,/,subscribed,yearly_t_2,False,yes,Вам нравится Humanify?
+review_engage,1710952525603000,71e72f3d-ca37-4a6d-aba8-35c9c970411c,71e72f3d-ca37-4a6d-aba8-35c9c970411c_1710952514883,/,subscribed,yearly_t_2,False,yes,Тогда поставьте нам оценку!
+review_engage,1710955787706000,edebe0d1-06a6-40a2-97a0-3c51afe16b93,edebe0d1-06a6-40a2-97a0-3c51afe16b93_1710955782931,/,subscribed,6month_1_1999,False,no,Вам нравится Humanify?
+review_engage,1710955789557000,edebe0d1-06a6-40a2-97a0-3c51afe16b93,edebe0d1-06a6-40a2-97a0-3c51afe16b93_1710955782931,/,subscribed,6month_1_1999,False,no,"Расскажите, что не так?"
+review_engage,1710957870720000,edb1880a-d89c-4a48-8b77-1711182bd917,edb1880a-d89c-4a48-8b77-1711182bd917_1710957860501,/,subscribed,6month_1_1999,False,no,Вам нравится Humanify?
+review_engage,1710957890464000,edb1880a-d89c-4a48-8b77-1711182bd917,edb1880a-d89c-4a48-8b77-1711182bd917_1710957860501,/,subscribed,6month_1_1999,False,yes,"Расскажите, что не так?"
+review_engage,1710961621702000,91ee287d-6545-463a-bf7b-4324b709d025,91ee287d-6545-463a-bf7b-4324b709d025_1710961563536,/,subscribed,6month_1_1999,False,yes,Вам нравится Humanify?
+review_engage,1710961623601000,91ee287d-6545-463a-bf7b-4324b709d025,91ee287d-6545-463a-bf7b-4324b709d025_1710961563536,/,subscribed,6month_1_1999,False,no,Тогда поставьте нам оценку!
+review_engage,1710961624302000,91ee287d-6545-463a-bf7b-4324b709d025,91ee287d-6545-463a-bf7b-4324b709d025_1710961563536,/,subscribed,6month_1_1999,False,no,"Расскажите, что не так?"
+review_engage,1710963291989000,d429f7aa-1bdf-4318-a70c-8a6850394f7c,d429f7aa-1bdf-4318-a70c-8a6850394f7c_1710963236740,/,subscribed,yearly_t_2,False,yes,Вам нравится Humanify?
+review_engage,1710961711911000,87dd0e95-a2b7-4820-bf1b-3fef227b6509,87dd0e95-a2b7-4820-bf1b-3fef227b6509_1710961677076,/,subscribed,yearly_t_2,False,yes,Вам нравится Humanify?
+review_engage,1710961713045000,87dd0e95-a2b7-4820-bf1b-3fef227b6509,87dd0e95-a2b7-4820-bf1b-3fef227b6509_1710961677076,/,subscribed,yearly_t_2,False,no,Тогда поставьте нам оценку!
+review_engage,1710961715328000,87dd0e95-a2b7-4820-bf1b-3fef227b6509,87dd0e95-a2b7-4820-bf1b-3fef227b6509_1710961677076,/,subscribed,yearly_t_2,False,no,"Расскажите, что не так?"
+review_engage,1710964858954000,d3945c2d-3e1a-47cb-9f38-58a574f6ce52,d3945c2d-3e1a-47cb-9f38-58a574f6ce52_1710964815071,/,subscribed,yearly_t_2,False,no,Вам нравится Humanify?
+review_engage,1710972110950000,d629c975-7e48-411a-b3ea-a750f6ac2377,d629c975-7e48-411a-b3ea-a750f6ac2377_1710972015108,/,subscribed,yearly_t_2,False,yes,Вам нравится Humanify?
+review_engage,1710972112517000,d629c975-7e48-411a-b3ea-a750f6ac2377,d629c975-7e48-411a-b3ea-a750f6ac2377_1710972015108,/,subscribed,yearly_t_2,False,no,Тогда поставьте нам оценку!
+review_engage,1710972113915000,d629c975-7e48-411a-b3ea-a750f6ac2377,d629c975-7e48-411a-b3ea-a750f6ac2377_1710972015108,/,subscribed,yearly_t_2,False,no,"Расскажите, что не так?"
+review_engage,1710908648872000,8fa46858-ed2b-4f2e-b331-a8c0d1ea1ded,8fa46858-ed2b-4f2e-b331-a8c0d1ea1ded_1710908514942,/,subscribed,yearly_t_2,False,yes,Вам нравится Humanify?
+review_engage,1710908650474000,8fa46858-ed2b-4f2e-b331-a8c0d1ea1ded,8fa46858-ed2b-4f2e-b331-a8c0d1ea1ded_1710908514942,/,subscribed,yearly_t_2,False,yes,Тогда поставьте нам оценку!
+review_engage,1710914783844000,df1f1346-4fb9-406a-89a3-c2d8da3fa6f5,df1f1346-4fb9-406a-89a3-c2d8da3fa6f5_1710914777754,/,subscribed,Yearly_30_b_var3,False,yes,Вам нравится Humanify?
+review_engage,1710914786334000,df1f1346-4fb9-406a-89a3-c2d8da3fa6f5,df1f1346-4fb9-406a-89a3-c2d8da3fa6f5_1710914777754,/,subscribed,Yearly_30_b_var3,False,no,Тогда поставьте нам оценку!
+review_engage,1710914789419000,df1f1346-4fb9-406a-89a3-c2d8da3fa6f5,df1f1346-4fb9-406a-89a3-c2d8da3fa6f5_1710914777754,/,subscribed,Yearly_30_b_var3,False,no,"Расскажите, что не так?"
+review_engage,1710916000918000,0a0c5d31-608c-45fd-9efa-c8e8dca1afba,0a0c5d31-608c-45fd-9efa-c8e8dca1afba_1710915902325,/,subscribed,weekly_1299_intro_promo_discount,False,yes,Вам нравится Humanify?
+review_engage,1710916003819000,0a0c5d31-608c-45fd-9efa-c8e8dca1afba,0a0c5d31-608c-45fd-9efa-c8e8dca1afba_1710915902325,/,subscribed,weekly_1299_intro_promo_discount,False,yes,Тогда поставьте нам оценку!
+review_engage,1710920459170000,a88e76e4-d3c1-495d-b320-88d687952d2a,a88e76e4-d3c1-495d-b320-88d687952d2a_1710920452795,/,subscribed,Yearly_30_b_var3,False,yes,Вам нравится Humanify?
+review_engage,1710920460625000,a88e76e4-d3c1-495d-b320-88d687952d2a,a88e76e4-d3c1-495d-b320-88d687952d2a_1710920452795,/,subscribed,Yearly_30_b_var3,False,no,Тогда поставьте нам оценку!
+review_engage,1710920463641000,a88e76e4-d3c1-495d-b320-88d687952d2a,a88e76e4-d3c1-495d-b320-88d687952d2a_1710920452795,/,subscribed,Yearly_30_b_var3,False,no,"Расскажите, что не так?"
+review_engage,1710923782541000,5636b84e-de8a-4c61-9ff1-303e7874e056,5636b84e-de8a-4c61-9ff1-303e7874e056_1710923677696,/,subscribed,yearly_t_2,False,yes,Вам нравится Humanify?
+review_engage,1710923783721000,5636b84e-de8a-4c61-9ff1-303e7874e056,5636b84e-de8a-4c61-9ff1-303e7874e056_1710923677696,/,subscribed,yearly_t_2,False,no,Тогда поставьте нам оценку!
+review_engage,1710923785078000,5636b84e-de8a-4c61-9ff1-303e7874e056,5636b84e-de8a-4c61-9ff1-303e7874e056_1710923677696,/,subscribed,yearly_t_2,False,no,"Расскажите, что не так?"
+review_engage,1710927487481000,93862eae-9958-4a61-919d-e2918561cb32,93862eae-9958-4a61-919d-e2918561cb32_1710927386760,/,subscribed,yearly_t_2,False,yes,Вам нравится Humanify?

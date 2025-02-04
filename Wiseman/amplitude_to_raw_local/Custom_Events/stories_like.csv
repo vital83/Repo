@@ -1,0 +1,16 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled,event_properties.type,event_properties.id
+stories_like,1710933350225000,c14dc39b-4442-433e-8a0c-4aba53a9397f,c14dc39b-4442-433e-8a0c-4aba53a9397f_1710933257990,/,subscribed,Yearly_30_b_var3,en,False,False,affirmation,75
+stories_like,1710938249797000,3a3728c3-6317-46a1-80d9-41736bfdcc8e,3a3728c3-6317-46a1-80d9-41736bfdcc8e_1710938241444,/,subscribed,yearly_t_2,en,False,False,fact,10
+stories_like,1710938259509000,3a3728c3-6317-46a1-80d9-41736bfdcc8e,3a3728c3-6317-46a1-80d9-41736bfdcc8e_1710938241444,/,subscribed,yearly_t_2,en,False,False,daily_tip,29
+stories_like,1710939914640000,e758cc20-22aa-464f-8c8d-c5f57392e87f,e758cc20-22aa-464f-8c8d-c5f57392e87f_1710939891620,/,subscribed,Yearly_1_nt_hd,en,False,False,daily_tip,15
+stories_like,1710950073310000,7f6316bd-4b02-4d30-93e1-83c92720fad9,7f6316bd-4b02-4d30-93e1-83c92720fad9_1710950029761,/,subscribed,yearly_t_2,en,False,False,daily_tip,43
+stories_like,1710950084028000,7f6316bd-4b02-4d30-93e1-83c92720fad9,7f6316bd-4b02-4d30-93e1-83c92720fad9_1710950029761,/,subscribed,yearly_t_2,en,False,False,fact,52
+stories_like,1710950096820000,7f6316bd-4b02-4d30-93e1-83c92720fad9,7f6316bd-4b02-4d30-93e1-83c92720fad9_1710950029761,/,subscribed,yearly_t_2,en,False,False,question,151
+stories_like,1710950730941000,4bedb137-69bd-43bc-a40e-8181d55b6d91,4bedb137-69bd-43bc-a40e-8181d55b6d91_1710950721558,/,subscribed,monthly_t_2,en,True,False,affirmation,59
+stories_like,1710950783940000,4bedb137-69bd-43bc-a40e-8181d55b6d91,4bedb137-69bd-43bc-a40e-8181d55b6d91_1710950721558,/,subscribed,monthly_t_2,en,True,False,daily_tip,31
+stories_like,1710950808903000,4bedb137-69bd-43bc-a40e-8181d55b6d91,4bedb137-69bd-43bc-a40e-8181d55b6d91_1710950721558,/,subscribed,monthly_t_2,en,True,False,question,310
+stories_like,1710956083280000,7f6316bd-4b02-4d30-93e1-83c92720fad9,7f6316bd-4b02-4d30-93e1-83c92720fad9_1710956050661,/,subscribed,yearly_t_2,en,False,False,fact,50
+stories_like,1710956680497000,620b972d-6c49-4f09-9398-b17e29d2f801,620b972d-6c49-4f09-9398-b17e29d2f801_1710956650994,/,subscribed,yearly_t_2,es,False,False,daily_tip,152
+stories_like,1710954074099000,c066a67b-1f82-4083-8563-307a164a6d0a,c066a67b-1f82-4083-8563-307a164a6d0a_1710954040986,/,subscribed,yearly_t_2,en,False,False,question,309
+stories_like,1710961595967000,91ee287d-6545-463a-bf7b-4324b709d025,91ee287d-6545-463a-bf7b-4324b709d025_1710961563536,/,subscribed,6month_1_1999,en,True,False,affirmation,163
+stories_like,1710961605575000,91ee287d-6545-463a-bf7b-4324b709d025,91ee287d-6545-463a-bf7b-4324b709d025_1710961563536,/,subscribed,6month_1_1999,en,True,False,daily_tip,37

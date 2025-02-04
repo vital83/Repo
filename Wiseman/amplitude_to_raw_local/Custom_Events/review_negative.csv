@@ -1,0 +1,2 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled
+review_negative,1710957890463000,edb1880a-d89c-4a48-8b77-1711182bd917,edb1880a-d89c-4a48-8b77-1711182bd917_1710957860501,/,subscribed,6month_1_1999,en,False,False

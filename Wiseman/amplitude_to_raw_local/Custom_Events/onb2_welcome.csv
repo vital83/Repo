@@ -1,0 +1,2 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled
+onb2_welcome,1710896753669000,241e112a-d9b2-4eb9-b681-27f7852fe58e,241e112a-d9b2-4eb9-b681-27f7852fe58e_1710896750832,/,en,True,False

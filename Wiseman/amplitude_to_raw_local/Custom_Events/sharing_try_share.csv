@@ -1,0 +1,3 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled,event_properties.source
+sharing_try_share,1710896773124000,a98684e1-6ff5-452f-bd2b-42c31fc125ca,a98684e1-6ff5-452f-bd2b-42c31fc125ca_1710896707788,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,article
+sharing_try_share,1710897707483000,7e6cd814-5f9c-42ea-8343-f75461368b10,7e6cd814-5f9c-42ea-8343-f75461368b10_1710897517833,/,subscribed,yearly_t_2,en,False,False,compatibility

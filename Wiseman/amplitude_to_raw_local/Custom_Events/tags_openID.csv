@@ -1,0 +1,121 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.ab_tooltips_enabled,event_properties.id,event_properties.title
+tags_openID,1710892930136000,4bc6e579-cbcf-4eeb-9acf-871de6a9589f,4bc6e579-cbcf-4eeb-9acf-871de6a9589f_1710892813626,/,subscribed,yearly_t_2,False,38,Course for beginners
+tags_openID,1710892950451000,4bc6e579-cbcf-4eeb-9acf-871de6a9589f,4bc6e579-cbcf-4eeb-9acf-871de6a9589f_1710892813626,/,subscribed,yearly_t_2,False,38,Course for beginners
+tags_openID,1710896305753000,a98684e1-6ff5-452f-bd2b-42c31fc125ca,a98684e1-6ff5-452f-bd2b-42c31fc125ca_1710895583684,/,subscribed,weekly_1299_intro_promo_discount,False,38,Course for beginners
+tags_openID,1710896719182000,a98684e1-6ff5-452f-bd2b-42c31fc125ca,a98684e1-6ff5-452f-bd2b-42c31fc125ca_1710896707788,/,subscribed,weekly_1299_intro_promo_discount,False,38,Course for beginners
+tags_openID,1710896723851000,a98684e1-6ff5-452f-bd2b-42c31fc125ca,a98684e1-6ff5-452f-bd2b-42c31fc125ca_1710896707788,/,subscribed,weekly_1299_intro_promo_discount,False,38,Course for beginners
+tags_openID,1710931356981000,daef8c28-7eca-459e-a4e8-30824742d67d,daef8c28-7eca-459e-a4e8-30824742d67d_1710931338827,/,subscribed,yearly_t_2,False,20,Love
+tags_openID,1710931061329000,18ee9ae6-6757-4dfd-b1cd-821f30bf2f19,18ee9ae6-6757-4dfd-b1cd-821f30bf2f19_1710931022077,/,subscribed,yearly_t_2,False,10,Generator
+tags_openID,1710938624359000,d4f3a9fe-5309-41f5-b855-1d8a8102419c,d4f3a9fe-5309-41f5-b855-1d8a8102419c_1710938491936,/,subscribed,6month_1_1999,False,20,Love
+tags_openID,1710938644382000,d4f3a9fe-5309-41f5-b855-1d8a8102419c,d4f3a9fe-5309-41f5-b855-1d8a8102419c_1710938491936,/,subscribed,6month_1_1999,False,20,Love
+tags_openID,1710936848131000,a26cefc9-13c6-44e5-b436-dc3a40844eb0,a26cefc9-13c6-44e5-b436-dc3a40844eb0_1710936351431,/,subscribed,weekly_1299_intro_promo_discount,False,7,Basics
+tags_openID,1710936861635000,a26cefc9-13c6-44e5-b436-dc3a40844eb0,a26cefc9-13c6-44e5-b436-dc3a40844eb0_1710936351431,/,subscribed,weekly_1299_intro_promo_discount,False,1,Personality
+tags_openID,1710936868101000,a26cefc9-13c6-44e5-b436-dc3a40844eb0,a26cefc9-13c6-44e5-b436-dc3a40844eb0_1710936351431,/,subscribed,weekly_1299_intro_promo_discount,False,34,Gates
+tags_openID,1710937186157000,a26cefc9-13c6-44e5-b436-dc3a40844eb0,a26cefc9-13c6-44e5-b436-dc3a40844eb0_1710936351431,/,subscribed,weekly_1299_intro_promo_discount,False,34,Gates
+tags_openID,1710937466953000,a26cefc9-13c6-44e5-b436-dc3a40844eb0,a26cefc9-13c6-44e5-b436-dc3a40844eb0_1710936351431,/,subscribed,weekly_1299_intro_promo_discount,False,34,Gates
+tags_openID,1710939932204000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710939811478,/,subscribed,yearly_t_2,False,32,Bodygraph
+tags_openID,1710940016323000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710939811478,/,subscribed,yearly_t_2,False,32,Bodygraph
+tags_openID,1710945515409000,e4d967f7-a907-4b27-896f-606de88180aa,e4d967f7-a907-4b27-896f-606de88180aa_1710945391253,/,subscribed,yearly_t_2,False,32,Bodygraph
+tags_openID,1710943235087000,f3f75a05-e7d7-4dee-844c-fdba6e4f4db5,f3f75a05-e7d7-4dee-844c-fdba6e4f4db5_1710942669644,/,subscribed,weekly_3,False,20,Love
+tags_openID,1710943378984000,f3f75a05-e7d7-4dee-844c-fdba6e4f4db5,f3f75a05-e7d7-4dee-844c-fdba6e4f4db5_1710942669644,/,subscribed,weekly_3,False,20,Love
+tags_openID,1710950177047000,1b63ea8c-91b7-4149-9ee6-f85eff6c3168,1b63ea8c-91b7-4149-9ee6-f85eff6c3168_1710950137033,/,subscribed,yearly_t_2,False,38,Course for beginners
+tags_openID,1710950266798000,1b63ea8c-91b7-4149-9ee6-f85eff6c3168,1b63ea8c-91b7-4149-9ee6-f85eff6c3168_1710950137033,/,subscribed,yearly_t_2,False,38,Course for beginners
+tags_openID,1710950426836000,1b63ea8c-91b7-4149-9ee6-f85eff6c3168,1b63ea8c-91b7-4149-9ee6-f85eff6c3168_1710950137033,/,subscribed,yearly_t_2,False,38,Course for beginners
+tags_openID,1710950552877000,1b63ea8c-91b7-4149-9ee6-f85eff6c3168,1b63ea8c-91b7-4149-9ee6-f85eff6c3168_1710950137033,/,subscribed,yearly_t_2,False,38,Course for beginners
+tags_openID,1710950567998000,a8742e46-674e-4e48-9c55-a30d6c80c9f8,a8742e46-674e-4e48-9c55-a30d6c80c9f8_1710950529740,/,subscribed,yearly_t_2,False,11,Manifesting Generator
+tags_openID,1710950743527000,a8742e46-674e-4e48-9c55-a30d6c80c9f8,a8742e46-674e-4e48-9c55-a30d6c80c9f8_1710950529740,/,subscribed,yearly_t_2,False,11,Manifesting Generator
+tags_openID,1710954372537000,9463ea66-a85a-48d4-b0ee-f5645a24f913,9463ea66-a85a-48d4-b0ee-f5645a24f913_1710954358364,/,subscribed,yearly_t_2,False,20,Love
+tags_openID,1710960171137000,545b4924-81c5-4ea4-be94-ac41790c6707,545b4924-81c5-4ea4-be94-ac41790c6707_1710959885219,/,subscribed,yearly_t_2,False,32,Bodygraph
+tags_openID,1710960191991000,545b4924-81c5-4ea4-be94-ac41790c6707,545b4924-81c5-4ea4-be94-ac41790c6707_1710959885219,/,subscribed,yearly_t_2,False,11,Manifesting Generator
+tags_openID,1710960204680000,545b4924-81c5-4ea4-be94-ac41790c6707,545b4924-81c5-4ea4-be94-ac41790c6707_1710959885219,/,subscribed,yearly_t_2,False,20,Love
+tags_openID,1710960240816000,545b4924-81c5-4ea4-be94-ac41790c6707,545b4924-81c5-4ea4-be94-ac41790c6707_1710959885219,/,subscribed,yearly_t_2,False,20,Love
+tags_openID,1710960264957000,545b4924-81c5-4ea4-be94-ac41790c6707,545b4924-81c5-4ea4-be94-ac41790c6707_1710959885219,/,subscribed,yearly_t_2,False,8,Projector
+tags_openID,1710960270794000,545b4924-81c5-4ea4-be94-ac41790c6707,545b4924-81c5-4ea4-be94-ac41790c6707_1710959885219,/,subscribed,yearly_t_2,False,32,Bodygraph
+tags_openID,1710960277226000,545b4924-81c5-4ea4-be94-ac41790c6707,545b4924-81c5-4ea4-be94-ac41790c6707_1710959885219,/,subscribed,yearly_t_2,False,32,Bodygraph
+tags_openID,1710960286240000,545b4924-81c5-4ea4-be94-ac41790c6707,545b4924-81c5-4ea4-be94-ac41790c6707_1710959885219,/,subscribed,yearly_t_2,False,34,Gates
+tags_openID,1710959190677000,049473c6-f18f-4e61-a85d-30009472ba20,049473c6-f18f-4e61-a85d-30009472ba20_1710959160829,/,subscribed,yearly_t_2,False,16,NotSelf
+tags_openID,1710959213801000,049473c6-f18f-4e61-a85d-30009472ba20,049473c6-f18f-4e61-a85d-30009472ba20_1710959160829,/,subscribed,yearly_t_2,False,16,NotSelf
+tags_openID,1710959250937000,049473c6-f18f-4e61-a85d-30009472ba20,049473c6-f18f-4e61-a85d-30009472ba20_1710959160829,/,subscribed,yearly_t_2,False,16,NotSelf
+tags_openID,1710957898566000,78fbfbba-4b08-497f-a3fd-a66e79097c05,78fbfbba-4b08-497f-a3fd-a66e79097c05_1710957422527,/,auto_renew_off,weekly_1299_intro_promo_discount,False,38,Course for beginners
+tags_openID,1710957915243000,78fbfbba-4b08-497f-a3fd-a66e79097c05,78fbfbba-4b08-497f-a3fd-a66e79097c05_1710957422527,/,auto_renew_off,weekly_1299_intro_promo_discount,False,38,Course for beginners
+tags_openID,1710963694804000,d429f7aa-1bdf-4318-a70c-8a6850394f7c,d429f7aa-1bdf-4318-a70c-8a6850394f7c_1710963236740,/,subscribed,yearly_t_2,False,11,Manifesting Generator
+tags_openID,1710963727898000,d429f7aa-1bdf-4318-a70c-8a6850394f7c,d429f7aa-1bdf-4318-a70c-8a6850394f7c_1710963236740,/,subscribed,yearly_t_2,False,11,Manifesting Generator
+tags_openID,1710963826166000,d429f7aa-1bdf-4318-a70c-8a6850394f7c,d429f7aa-1bdf-4318-a70c-8a6850394f7c_1710963236740,/,subscribed,yearly_t_2,False,11,Manifesting Generator
+tags_openID,1710963380485000,66b3ceab-543e-4864-9072-10bfceb2d3ef,66b3ceab-543e-4864-9072-10bfceb2d3ef_1710963357416,/,subscribed,yearly_t_2,False,20,Love
+tags_openID,1710957014931000,e3d05cd6-17d0-46b4-a0fb-c2e600ea1596,e3d05cd6-17d0-46b4-a0fb-c2e600ea1596_1710956311715,/,subscribed,weekly_3,False,20,Love
+tags_openID,1710957026662000,e3d05cd6-17d0-46b4-a0fb-c2e600ea1596,e3d05cd6-17d0-46b4-a0fb-c2e600ea1596_1710956311715,/,subscribed,weekly_3,False,19,Relationship
+tags_openID,1710962831530000,e3d05cd6-17d0-46b4-a0fb-c2e600ea1596,e3d05cd6-17d0-46b4-a0fb-c2e600ea1596_1710962657140,/,subscribed,weekly_3,False,7,Basics
+tags_openID,1710903261233000,d2b54ad0-dda0-4fe2-aab9-4663f5e86b54,d2b54ad0-dda0-4fe2-aab9-4663f5e86b54_1710902938133,/,subscribed,weekly_3,False,9,Manifestor
+tags_openID,1710965062789000,5bf91be4-5042-4ffb-8155-6d6e91750769,5bf91be4-5042-4ffb-8155-6d6e91750769_1710965013978,/,subscribed,yearly_t_2,False,10,Generator
+tags_openID,1710965349272000,0acf2fd2-0cff-4f6a-85ee-1f19824e91af,0acf2fd2-0cff-4f6a-85ee-1f19824e91af_1710965231052,/,subscribed,6month_1_1999,False,19,Relationship
+tags_openID,1710966664089000,ea05cd28-2199-4434-8d12-111e717bdd4e,ea05cd28-2199-4434-8d12-111e717bdd4e_1710965404973,/,subscribed,weekly_3,False,34,Gates
+tags_openID,1710966668012000,ea05cd28-2199-4434-8d12-111e717bdd4e,ea05cd28-2199-4434-8d12-111e717bdd4e_1710965404973,/,subscribed,weekly_3,False,22,Parenthood
+tags_openID,1710966682645000,ea05cd28-2199-4434-8d12-111e717bdd4e,ea05cd28-2199-4434-8d12-111e717bdd4e_1710965404973,/,subscribed,weekly_3,False,20,Love
+tags_openID,1710966714465000,ea05cd28-2199-4434-8d12-111e717bdd4e,ea05cd28-2199-4434-8d12-111e717bdd4e_1710965404973,/,subscribed,weekly_3,False,9,Manifestor
+tags_openID,1710966726201000,ea05cd28-2199-4434-8d12-111e717bdd4e,ea05cd28-2199-4434-8d12-111e717bdd4e_1710965404973,/,subscribed,weekly_3,False,16,NotSelf
+tags_openID,1710969401944000,00800c0d-8507-4972-850a-c34485d8187f,00800c0d-8507-4972-850a-c34485d8187f_1710969360349,/,subscribed,yearly_t_2,False,20,Love
+tags_openID,1710968474559000,a26cefc9-13c6-44e5-b436-dc3a40844eb0,a26cefc9-13c6-44e5-b436-dc3a40844eb0_1710967480730,/,subscribed,weekly_1299_intro_promo_discount,False,34,Gates
+tags_openID,1710968541201000,a26cefc9-13c6-44e5-b436-dc3a40844eb0,a26cefc9-13c6-44e5-b436-dc3a40844eb0_1710967480730,/,subscribed,weekly_1299_intro_promo_discount,False,34,Gates
+tags_openID,1710971671466000,ea494e5f-c230-4ff0-a871-a3358ce15f20,ea494e5f-c230-4ff0-a871-a3358ce15f20_1710969505916,/,subscribed,6month_1_1999,False,32,Bodygraph
+tags_openID,1710972089560000,088a3376-017b-4a81-a3a9-b8fb63629775,088a3376-017b-4a81-a3a9-b8fb63629775_1710972009207,/,subscribed,yearly_t_2,False,33,Channels
+tags_openID,1710972444907000,088a3376-017b-4a81-a3a9-b8fb63629775,088a3376-017b-4a81-a3a9-b8fb63629775_1710972009207,/,subscribed,yearly_t_2,False,33,Channels
+tags_openID,1710972511375000,088a3376-017b-4a81-a3a9-b8fb63629775,088a3376-017b-4a81-a3a9-b8fb63629775_1710972009207,/,subscribed,yearly_t_2,False,33,Channels
+tags_openID,1710975040064000,4c85c5f0-2b15-483f-b927-f9fb6962bc91,4c85c5f0-2b15-483f-b927-f9fb6962bc91_1710975036024,/,subscribed,yearly_t_2,False,8,Projector
+tags_openID,1710972525203000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710972226300,/,subscribed,weekly_1299_intro_promo_discount,False,17,Aura
+tags_openID,1710972534436000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710972226300,/,subscribed,weekly_1299_intro_promo_discount,False,19,Relationship
+tags_openID,1710972543201000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710972226300,/,subscribed,weekly_1299_intro_promo_discount,False,32,Bodygraph
+tags_openID,1710976084297000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,subscribed,yearly_t_2,False,17,Aura
+tags_openID,1710976696202000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,subscribed,yearly_t_2,False,19,Relationship
+tags_openID,1710977847907000,5d3a1992-4990-46a6-b7d2-b3d06a79d190,5d3a1992-4990-46a6-b7d2-b3d06a79d190_1710976575071,/,subscribed,weekly_3,False,9,Manifestor
+tags_openID,1710977897693000,5d3a1992-4990-46a6-b7d2-b3d06a79d190,5d3a1992-4990-46a6-b7d2-b3d06a79d190_1710976575071,/,subscribed,weekly_3,False,9,Manifestor
+tags_openID,1710977961017000,5d3a1992-4990-46a6-b7d2-b3d06a79d190,5d3a1992-4990-46a6-b7d2-b3d06a79d190_1710976575071,/,subscribed,weekly_3,False,9,Manifestor
+tags_openID,1710977971187000,5d3a1992-4990-46a6-b7d2-b3d06a79d190,5d3a1992-4990-46a6-b7d2-b3d06a79d190_1710976575071,/,subscribed,weekly_3,False,16,NotSelf
+tags_openID,1710913408451000,a76c541a-f967-451d-8fad-0712b6456b2b,a76c541a-f967-451d-8fad-0712b6456b2b_1710913398086,/,subscribed,yearly_t_2,False,9,Manifestor
+tags_openID,1710913519215000,a76c541a-f967-451d-8fad-0712b6456b2b,a76c541a-f967-451d-8fad-0712b6456b2b_1710913398086,/,subscribed,yearly_t_2,False,9,Manifestor
+tags_openID,1710915705439000,c1238419-f3d0-445f-a45f-be7fc7a36202,c1238419-f3d0-445f-a45f-be7fc7a36202_1710915671917,/,subscribed,yearly_t_2,False,32,Bodygraph
+tags_openID,1710915707598000,c1238419-f3d0-445f-a45f-be7fc7a36202,c1238419-f3d0-445f-a45f-be7fc7a36202_1710915671917,/,subscribed,yearly_t_2,False,7,Basics
+tags_openID,1710915923028000,6f9b1ffc-af77-42ec-8dc8-cd0932969e32,6f9b1ffc-af77-42ec-8dc8-cd0932969e32_1710915450780,/,subscribed,weekly_3,False,19,Relación
+tags_openID,1710915999966000,6f9b1ffc-af77-42ec-8dc8-cd0932969e32,6f9b1ffc-af77-42ec-8dc8-cd0932969e32_1710915450780,/,subscribed,weekly_3,False,19,Relación
+tags_openID,1710916068278000,6f9b1ffc-af77-42ec-8dc8-cd0932969e32,6f9b1ffc-af77-42ec-8dc8-cd0932969e32_1710915450780,/,subscribed,weekly_3,False,19,Relación
+tags_openID,1710916144565000,6f9b1ffc-af77-42ec-8dc8-cd0932969e32,6f9b1ffc-af77-42ec-8dc8-cd0932969e32_1710915450780,/,subscribed,weekly_3,False,19,Relación
+tags_openID,1710916259551000,6f9b1ffc-af77-42ec-8dc8-cd0932969e32,6f9b1ffc-af77-42ec-8dc8-cd0932969e32_1710915450780,/,subscribed,weekly_3,False,19,Relación
+tags_openID,1710916284713000,6f9b1ffc-af77-42ec-8dc8-cd0932969e32,6f9b1ffc-af77-42ec-8dc8-cd0932969e32_1710915450780,/,subscribed,weekly_3,False,19,Relación
+tags_openID,1710916377027000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,20,Love
+tags_openID,1710916601971000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,20,Love
+tags_openID,1710916666135000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,20,Love
+tags_openID,1710916680659000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,19,Relationship
+tags_openID,1710916844561000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,19,Relationship
+tags_openID,1710916972827000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,19,Relationship
+tags_openID,1710916978044000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,17,Aura
+tags_openID,1710917071542000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,17,Aura
+tags_openID,1710917300182000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,17,Aura
+tags_openID,1710917399925000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,17,Aura
+tags_openID,1710917399925000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,17,Aura
+tags_openID,1710917427181000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,36,Profile
+tags_openID,1710917589604000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,36,Profile
+tags_openID,1710917591055000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,36,Profile
+tags_openID,1710917612668000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,31,Authority
+tags_openID,1710917691921000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,31,Authority
+tags_openID,1710917703472000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,36,Profile
+tags_openID,1710917764819000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,36,Profile
+tags_openID,1710917781655000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,subscribed,yearly_t_2,False,32,Bodygraph
+tags_openID,1710814395522000,34622e44-b297-4871-9a53-e4bd7fee2348,34622e44-b297-4871-9a53-e4bd7fee2348_1710814287338,/,subscribed,yearly_t_2,False,34,Gates
+tags_openID,1710918405867000,34622e44-b297-4871-9a53-e4bd7fee2348,34622e44-b297-4871-9a53-e4bd7fee2348_1710918393743,/,subscribed,yearly_t_2,False,34,Gates
+tags_openID,1710922915285000,be1e8410-e9f2-4d31-bda5-d58753f892e4,be1e8410-e9f2-4d31-bda5-d58753f892e4_1710922423238,/,subscribed,monthly_t_2,False,10,Generator
+tags_openID,1710922930430000,be1e8410-e9f2-4d31-bda5-d58753f892e4,be1e8410-e9f2-4d31-bda5-d58753f892e4_1710922423238,/,subscribed,monthly_t_2,False,22,Parenthood
+tags_openID,1710925188381000,35b09107-4bc9-47b8-be9d-3acfadf549f2,35b09107-4bc9-47b8-be9d-3acfadf549f2_1710925117138,/,subscribed,yearly_t_2,False,20,Amor
+tags_openID,1710922575489000,540a8a57-48ab-4b57-90eb-103da4d5ea5b,540a8a57-48ab-4b57-90eb-103da4d5ea5b_1710922479318,/,subscribed,yearly_t_2,False,8,Projector
+tags_openID,1710922161182000,1b63ea8c-91b7-4149-9ee6-f85eff6c3168,1b63ea8c-91b7-4149-9ee6-f85eff6c3168_1710922147800,/,subscribed,yearly_t_2,False,38,Course for beginners
+tags_openID,1710923130232000,1b63ea8c-91b7-4149-9ee6-f85eff6c3168,1b63ea8c-91b7-4149-9ee6-f85eff6c3168_1710922593470,/,subscribed,yearly_t_2,False,38,Course for beginners
+tags_openID,1710923225478000,de9aac96-7e17-4168-9fac-0d8047867b1e,de9aac96-7e17-4168-9fac-0d8047867b1e_1710923051281,/,subscribed,yearly_t_2,False,9,Manifestor
+tags_openID,1710923299929000,de9aac96-7e17-4168-9fac-0d8047867b1e,de9aac96-7e17-4168-9fac-0d8047867b1e_1710923051281,/,subscribed,yearly_t_2,False,9,Manifestor
+tags_openID,1710923300519000,de9aac96-7e17-4168-9fac-0d8047867b1e,de9aac96-7e17-4168-9fac-0d8047867b1e_1710923051281,/,subscribed,yearly_t_2,False,9,Manifestor
+tags_openID,1710923329109000,de9aac96-7e17-4168-9fac-0d8047867b1e,de9aac96-7e17-4168-9fac-0d8047867b1e_1710923051281,/,subscribed,yearly_t_2,False,9,Manifestor
+tags_openID,1710923434279000,de9aac96-7e17-4168-9fac-0d8047867b1e,de9aac96-7e17-4168-9fac-0d8047867b1e_1710923051281,/,subscribed,yearly_t_2,False,9,Manifestor
+tags_openID,1710923526747000,de9aac96-7e17-4168-9fac-0d8047867b1e,de9aac96-7e17-4168-9fac-0d8047867b1e_1710923051281,/,subscribed,yearly_t_2,False,9,Manifestor
+tags_openID,1710923622202000,de9aac96-7e17-4168-9fac-0d8047867b1e,de9aac96-7e17-4168-9fac-0d8047867b1e_1710923051281,/,subscribed,yearly_t_2,False,9,Manifestor
+tags_openID,1710923780713000,de9aac96-7e17-4168-9fac-0d8047867b1e,de9aac96-7e17-4168-9fac-0d8047867b1e_1710923051281,/,subscribed,yearly_t_2,False,9,Manifestor
+tags_openID,1710923932565000,de9aac96-7e17-4168-9fac-0d8047867b1e,de9aac96-7e17-4168-9fac-0d8047867b1e_1710923051281,/,subscribed,yearly_t_2,False,9,Manifestor
+tags_openID,1710923942380000,de9aac96-7e17-4168-9fac-0d8047867b1e,de9aac96-7e17-4168-9fac-0d8047867b1e_1710923051281,/,subscribed,yearly_t_2,False,11,Manifesting Generator
+tags_openID,1708404588602000,7f982a14-328b-4db0-9606-af55ca05efac,7f982a14-328b-4db0-9606-af55ca05efac_1708404191749,/,subscription_cancelled,yearly_t_2,False,34,Gates
+tags_openID,1710927502516000,93862eae-9958-4a61-919d-e2918561cb32,93862eae-9958-4a61-919d-e2918561cb32_1710927386760,/,subscribed,yearly_t_2,False,38,Course for beginners

@@ -1,0 +1,1053 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,session_time,country,city,operating_system_version,mobile_model_name,source_name,source_medium,source_source,app_version
+session_start,1710894573316000,5a71fd5e-2269-448a-8a48-14de046f649d,5a71fd5e-2269-448a-8a48-14de046f649d_1710894572618,0,United States,Chicago,17,Apple iPhone 14 Pro Max,amplitude,,,2.12.0
+session_start,1710890234519000,c9f3b2d3-4580-4cad-a68a-6f6c5225791d,c9f3b2d3-4580-4cad-a68a-6f6c5225791d_1710889970171,0,United States,Bothell,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710892835827000,c9f3b2d3-4580-4cad-a68a-6f6c5225791d,c9f3b2d3-4580-4cad-a68a-6f6c5225791d_1710892821137,45,United States,Bothell,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710893471316000,78546929-5d64-4baf-be19-e2c6bf1b9315,78546929-5d64-4baf-be19-e2c6bf1b9315_1710893469679,12,United States,Sebastopol,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710895771026000,5c162d2c-14b1-4c18-b5e9-563eb3361d9c,5c162d2c-14b1-4c18-b5e9-563eb3361d9c_1710895765179,204,Australia,Adelaide,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710894647065000,369eb897-d9ac-455f-9cf0-3bec4cefe16a,369eb897-d9ac-455f-9cf0-3bec4cefe16a_1710894635517,0,Australia,Sydney,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710893861508000,30a0bbe6-7725-4a65-9b90-e85fbd906420,30a0bbe6-7725-4a65-9b90-e85fbd906420_1710893852537,0,Australia,Adelaide,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710893612760000,c9c609e6-a10d-4dd3-99a3-cc94f756948d,c9c609e6-a10d-4dd3-99a3-cc94f756948d_1710893570610,1204,United States,Milwaukee,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1708391730579000,120f5560-398d-4cbe-baa5-8e2f1075ab9e,120f5560-398d-4cbe-baa5-8e2f1075ab9e_1708391729583,0,Canada,Hamilton,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710894919352000,120f5560-398d-4cbe-baa5-8e2f1075ab9e,120f5560-398d-4cbe-baa5-8e2f1075ab9e_1710894918280,0,Canada,Hamilton,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1709313210373000,95985fb4-eff2-481d-8b28-71cea5a63c2b,95985fb4-eff2-481d-8b28-71cea5a63c2b_1709313208662,0,United States,Denver,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710561959556000,1f8654b9-8e75-4723-bd54-242492c3ef62,1f8654b9-8e75-4723-bd54-242492c3ef62_1710561536760,18,United States,Cincinnati,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710894759171000,1f8654b9-8e75-4723-bd54-242492c3ef62,1f8654b9-8e75-4723-bd54-242492c3ef62_1710894756356,3,United States,Cincinnati,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710892939362000,ca0a6b12-6fdc-4929-96f6-682e83fd2869,ca0a6b12-6fdc-4929-96f6-682e83fd2869_1710892938285,113,United States,Finksburg,16,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710894783052000,d0332af0-3800-4d1f-a485-d27d11babe86,d0332af0-3800-4d1f-a485-d27d11babe86_1710894775593,2,Australia,Sydney,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710893013856000,1a245283-7ad3-46b9-9bd5-7b6ebe6580e8,1a245283-7ad3-46b9-9bd5-7b6ebe6580e8_1710893012023,8,United States,San Francisco,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710895966595000,0fcaa460-4743-4f3a-974b-90daf63794cf,0fcaa460-4743-4f3a-974b-90daf63794cf_1710895965401,4,United States,Boston,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710895125635000,769fdfbe-e074-4596-bdd5-463dfaa155b3,769fdfbe-e074-4596-bdd5-463dfaa155b3_1710895117712,0,Canada,Montreal,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710893623930000,a757f031-2597-43fa-a629-a3983b5cf1bb,a757f031-2597-43fa-a629-a3983b5cf1bb_1710893616980,26,Spain,Vic,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710850128629000,1647ca27-ac8b-4f8a-bdd5-06efd51ad449,1647ca27-ac8b-4f8a-bdd5-06efd51ad449_1710850125907,0,Italy,Milan,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710892814902000,4bc6e579-cbcf-4eeb-9acf-871de6a9589f,4bc6e579-cbcf-4eeb-9acf-871de6a9589f_1710892813626,414,United States,Fresno,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710710175340000,d67c949b-e509-4865-bcfd-819353eb1cae,d67c949b-e509-4865-bcfd-819353eb1cae_1710709879102,6,United States,Coral Springs,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710894130017000,d67c949b-e509-4865-bcfd-819353eb1cae,d67c949b-e509-4865-bcfd-819353eb1cae_1710894128952,20,United States,Coral Springs,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710893389845000,4c48ab35-dad8-4fe4-8bf0-e9e80cc2b2a3,4c48ab35-dad8-4fe4-8bf0-e9e80cc2b2a3_1710893388440,3,United States,Oroville,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710894483242000,540a8a57-48ab-4b57-90eb-103da4d5ea5b,540a8a57-48ab-4b57-90eb-103da4d5ea5b_1710894469738,182,Australia,Sydney,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710894859524000,49c5653b-5c3f-4eb9-a2a8-cd94a52610f6,49c5653b-5c3f-4eb9-a2a8-cd94a52610f6_1710894858665,0,United States,Indianapolis,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710893936066000,0d1a5ed2-a2f2-474d-8149-c81591ee271e,0d1a5ed2-a2f2-474d-8149-c81591ee271e_1710893901774,0,Mexico,Mexico City,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710893357523000,cf1a3b7c-c2d3-4fba-9ca7-f199082b5c1f,cf1a3b7c-c2d3-4fba-9ca7-f199082b5c1f_1710893357482,58,United States,,17,Apple iPad Air (5th generation),amplitude,,,2.22.0
+session_start,1710893721965000,d7da3762-12f5-4a08-a710-22bba61eb155,d7da3762-12f5-4a08-a710-22bba61eb155_1710893720354,21,Spain,Ibiza Town,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710893710462000,a98684e1-6ff5-452f-bd2b-42c31fc125ca,a98684e1-6ff5-452f-bd2b-42c31fc125ca_1710893693592,0,Thailand,Bangkok,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710895589981000,a98684e1-6ff5-452f-bd2b-42c31fc125ca,a98684e1-6ff5-452f-bd2b-42c31fc125ca_1710895583684,746,Thailand,Bangkok,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710892948384000,823c8607-14df-4729-a8ad-e81656beffed,823c8607-14df-4729-a8ad-e81656beffed_1710892945030,391,Turkey,Istanbul,17,Apple iPhone XS Max,amplitude,,,2.22.0
+session_start,1710893727473000,6ff3c4e1-4eb6-48a2-b5e5-399ebec9aa8d,6ff3c4e1-4eb6-48a2-b5e5-399ebec9aa8d_1710893684725,107,Dominican Republic,Santo Domingo,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710893865598000,7010124d-4e1c-487c-9c51-f96f8e0d5dfa,7010124d-4e1c-487c-9c51-f96f8e0d5dfa_1710893863712,113,United States,Parkville,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710894049927000,d5597eb2-25d4-4424-ae70-5a7deba4b201,d5597eb2-25d4-4424-ae70-5a7deba4b201_1710894047110,413,United States,Pinetop-Lakeside,17,Apple iPhone XR,amplitude,,,2.22.0
+session_start,1710894096785000,d0b01eb8-d4b5-4f3d-97cb-f49a0d606e44,d0b01eb8-d4b5-4f3d-97cb-f49a0d606e44_1710894094523,125,United States,,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710894796268000,9a874124-8bf1-4070-8cca-68a006a36a37,9a874124-8bf1-4070-8cca-68a006a36a37_1710894794486,396,United States,Cypress,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710895087531000,d831fcaf-56ff-4263-b071-984c7fa847b8,d831fcaf-56ff-4263-b071-984c7fa847b8_1710895085616,0,United States,New Haven,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710895694533000,b901edde-75f7-4031-b346-dc4ebfb05e55,b901edde-75f7-4031-b346-dc4ebfb05e55_1710895690698,93,New Zealand,Auckland,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710716452432000,85f0f52e-e8c0-4cf0-82b9-aa009113f25f,85f0f52e-e8c0-4cf0-82b9-aa009113f25f_1710716447370,9,United States,Cedaredge,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710899931865000,85f0f52e-e8c0-4cf0-82b9-aa009113f25f,85f0f52e-e8c0-4cf0-82b9-aa009113f25f_1710899929313,0,United States,Cedaredge,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710896753408000,241e112a-d9b2-4eb9-b681-27f7852fe58e,241e112a-d9b2-4eb9-b681-27f7852fe58e_1710896750832,0,Philippines,Dumaguete,15,Apple iPhone XS Max,amplitude,,,2.22.0
+session_start,1710899673166000,46a1764a-85f2-4b3e-99c5-dbf622a66152,46a1764a-85f2-4b3e-99c5-dbf622a66152_1710899668189,29,Netherlands,The Hague,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710896600413000,c9c609e6-a10d-4dd3-99a3-cc94f756948d,c9c609e6-a10d-4dd3-99a3-cc94f756948d_1710896596302,477,United States,Milwaukee,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710899910753000,e0baec6e-754a-4736-9ac5-4258bd5fc704,e0baec6e-754a-4736-9ac5-4258bd5fc704_1710899900048,0,Philippines,Quezon City,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710868704406000,9f2c0985-53d9-40c7-bfcf-a04c170738d3,9f2c0985-53d9-40c7-bfcf-a04c170738d3_1710868700133,12,United States,San Francisco,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710899504457000,9f2c0985-53d9-40c7-bfcf-a04c170738d3,9f2c0985-53d9-40c7-bfcf-a04c170738d3_1710899497779,6,United States,San Francisco,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710843686670000,fb09ea80-bf43-4748-b8a4-d5fcfa9d486c,fb09ea80-bf43-4748-b8a4-d5fcfa9d486c_1710843675169,7,Singapore,Singapore,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710897998072000,fb09ea80-bf43-4748-b8a4-d5fcfa9d486c,fb09ea80-bf43-4748-b8a4-d5fcfa9d486c_1710897986512,7,Singapore,Singapore,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710899303122000,1dfc6c10-9903-41ce-8306-73a2879b1651,1dfc6c10-9903-41ce-8306-73a2879b1651_1710899298329,146,United States,Jensen Beach,17,Apple iPhone 11 Pro Max,amplitude,,,2.22.0
+session_start,1710897417497000,9353fc75-f6e0-4a0f-b937-d2b5bb15147c,9353fc75-f6e0-4a0f-b937-d2b5bb15147c_1710897400523,0,Australia,Elimbah,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1707614803251000,b3336ce4-fc89-461b-8532-9ae72e14a1d5,b3336ce4-fc89-461b-8532-9ae72e14a1d5_1707614799223,0,Australia,Sydney,17,"Apple iPad Pro 12.9"" (Wi-Fi Only - 6th Gen)",amplitude,,,2.22.0
+session_start,1709395222646000,001caa52-6f22-4c97-acbe-5d3eb1922080,001caa52-6f22-4c97-acbe-5d3eb1922080_1709395220779,3,United States,Port Saint Lucie,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710898787361000,001caa52-6f22-4c97-acbe-5d3eb1922080,001caa52-6f22-4c97-acbe-5d3eb1922080_1710898786133,94,United States,Port Saint Lucie,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710896984321000,11ac701a-75ac-4d48-b7b7-452d0e8ce0e9,11ac701a-75ac-4d48-b7b7-452d0e8ce0e9_1710896981628,0,Hong Kong,Central,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710897282450000,aeb1e736-6150-4418-8721-3f1dcd447144,aeb1e736-6150-4418-8721-3f1dcd447144_1710897279387,149,United States,Detroit,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710899395762000,c1e2c053-3d0b-4a6a-8ea4-59056cf23d5c,c1e2c053-3d0b-4a6a-8ea4-59056cf23d5c_1710899394300,0,United States,Katy,16,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710896392805000,2c636e63-a890-46f3-a5d8-6b5a92792e73,2c636e63-a890-46f3-a5d8-6b5a92792e73_1710896388473,7,Australia,Melbourne,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710787206857000,73b6a798-c6a9-44e8-bfa2-10c4b2c37f03,73b6a798-c6a9-44e8-bfa2-10c4b2c37f03_1710787205278,0,United States,Salt Lake City,16,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710898303497000,84171659-7142-4aff-beb8-342060c4c481,84171659-7142-4aff-beb8-342060c4c481_1710898302704,207,United States,Elmhurst,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710897762355000,c3af6863-35ba-44d6-a410-e3970853eaf6,c3af6863-35ba-44d6-a410-e3970853eaf6_1710897761021,18,United States,Lake Worth,16,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710897812860000,e4d967f7-a907-4b27-896f-606de88180aa,e4d967f7-a907-4b27-896f-606de88180aa_1710897803514,22,Australia,Perth,15,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710897989412000,71e72f3d-ca37-4a6d-aba8-35c9c970411c,71e72f3d-ca37-4a6d-aba8-35c9c970411c_1710897986770,7,United States,Salt Lake City,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710896601073000,9e816eef-6d69-4bc2-b51e-59562e2b6b54,9e816eef-6d69-4bc2-b51e-59562e2b6b54_1710896590067,26,Mexico,Guadalajara,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710898971875000,887668bb-2277-434d-ab11-f088b6af39e7,887668bb-2277-434d-ab11-f088b6af39e7_1710898962800,0,Mexico,Monterrey,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710899311967000,7d098ea4-1aa6-44c1-a24e-6436caa2c578,7d098ea4-1aa6-44c1-a24e-6436caa2c578_1710899311205,1,United States,Allen,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710898304978000,08d0be44-a87a-43ae-9a20-e5834c163172,08d0be44-a87a-43ae-9a20-e5834c163172_1710898198673,908,United States,Cedar Park,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710896718251000,a98684e1-6ff5-452f-bd2b-42c31fc125ca,a98684e1-6ff5-452f-bd2b-42c31fc125ca_1710896707788,93,Thailand,Bangkok,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710897541130000,7e6cd814-5f9c-42ea-8343-f75461368b10,7e6cd814-5f9c-42ea-8343-f75461368b10_1710897517833,169,Mexico,Mexico City,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710896699632000,b460aa60-c654-497a-bea9-2274355b31a5,b460aa60-c654-497a-bea9-2274355b31a5_1710896698273,72,United States,Chicago,16,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710897482915000,d71a5d5a-dd1a-47c4-9777-5ec0794c27d9,d71a5d5a-dd1a-47c4-9777-5ec0794c27d9_1710897480628,192,United States,Oakland,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710898248080000,048f1ff0-26ef-4f6c-8603-0e176aba4a2b,048f1ff0-26ef-4f6c-8603-0e176aba4a2b_1710898246855,99,United States,Quincy,15,Apple iPhone XS,amplitude,,,2.22.0
+session_start,1710898390801000,3db1b59d-2ff8-43c5-986e-e99dd2ac9dc4,3db1b59d-2ff8-43c5-986e-e99dd2ac9dc4_1710898389183,147,United States,New York,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710899191306000,485f1ffd-084e-4814-a16b-50148a2e63ec,485f1ffd-084e-4814-a16b-50148a2e63ec_1710899189604,186,United States,Atlanta,16,Apple iPhone 11 Pro Max,amplitude,,,2.22.0
+session_start,1710899344368000,8bbc3b6f-347c-4cd4-92f7-134a7569c454,8bbc3b6f-347c-4cd4-92f7-134a7569c454_1710899343094,254,Canada,Toronto,17,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710899444968000,28802c69-ad26-4184-acda-239f1349835d,28802c69-ad26-4184-acda-239f1349835d_1710899443108,131,United States,Syracuse,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710929012441000,bd88cd5d-17e7-4e66-9645-7cffcdbcce7e,bd88cd5d-17e7-4e66-9645-7cffcdbcce7e_1710929012075,15,Croatia,Zagreb,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710931132392000,803d11e9-b597-456c-b01c-3d13fed051bd,803d11e9-b597-456c-b01c-3d13fed051bd_1710931129609,21,Israel,Tel Aviv,17,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710931342839000,daef8c28-7eca-459e-a4e8-30824742d67d,daef8c28-7eca-459e-a4e8-30824742d67d_1710931338827,26,Zimbabwe,Harare,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710928849402000,d4e7f1e6-37f6-427e-b8c2-d5e17ad25428,d4e7f1e6-37f6-427e-b8c2-d5e17ad25428_1710928847432,34,France,,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710887902001000,41e53a76-7355-4445-866b-ae39f89319ec,41e53a76-7355-4445-866b-ae39f89319ec_1710887899533,0,United States,Pontiac,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710931447834000,41e53a76-7355-4445-866b-ae39f89319ec,41e53a76-7355-4445-866b-ae39f89319ec_1710931443573,97,United States,Pontiac,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710931711976000,8d92589e-610e-4e80-a017-6a8d74f4d7e9,8d92589e-610e-4e80-a017-6a8d74f4d7e9_1710931705184,0,Serbia,Belgrade,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1706636793036000,3f9530b0-47f4-4434-9d12-3f91db3d7443,3f9530b0-47f4-4434-9d12-3f91db3d7443_1706636731356,0,Croatia,Zagreb,16,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1708416276041000,3f9530b0-47f4-4434-9d12-3f91db3d7443,3f9530b0-47f4-4434-9d12-3f91db3d7443_1708416273196,0,Croatia,Zagreb,16,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710932252549000,3f9530b0-47f4-4434-9d12-3f91db3d7443,3f9530b0-47f4-4434-9d12-3f91db3d7443_1710932249992,0,Croatia,Zagreb,16,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710930293117000,5ebdbc5d-829f-439f-a6b4-6a6d2fe43e61,5ebdbc5d-829f-439f-a6b4-6a6d2fe43e61_1710930240085,0,Austria,Vienna,17,Apple iPhone XS,amplitude,,,2.22.0
+session_start,1710931156457000,5ebdbc5d-829f-439f-a6b4-6a6d2fe43e61,5ebdbc5d-829f-439f-a6b4-6a6d2fe43e61_1710931152389,19,Austria,Vienna,17,Apple iPhone XS,amplitude,,,2.22.0
+session_start,1710930357362000,049473c6-f18f-4e61-a85d-30009472ba20,049473c6-f18f-4e61-a85d-30009472ba20_1710930352381,0,United States,Washington,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710932317855000,049473c6-f18f-4e61-a85d-30009472ba20,049473c6-f18f-4e61-a85d-30009472ba20_1710932283554,0,United States,Silver Spring,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710929819498000,e0ab2ca1-2c93-4bc7-b0cd-3af9f89e7ef4,e0ab2ca1-2c93-4bc7-b0cd-3af9f89e7ef4_1710929818337,38,Sweden,Handen,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710930166427000,654be444-6cbc-4d58-b227-225b27db2996,654be444-6cbc-4d58-b227-225b27db2996_1710930166310,681,Germany,Essen,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710931953098000,654be444-6cbc-4d58-b227-225b27db2996,654be444-6cbc-4d58-b227-225b27db2996_1710931924333,10,Germany,Essen,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710290481852000,2041f020-2e3e-440f-af4e-e52f1334580a,2041f020-2e3e-440f-af4e-e52f1334580a_1710290449332,11,United States,Seminole,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710673660006000,2041f020-2e3e-440f-af4e-e52f1334580a,2041f020-2e3e-440f-af4e-e52f1334580a_1710673628936,0,United States,Seminole,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710929277996000,2041f020-2e3e-440f-af4e-e52f1334580a,2041f020-2e3e-440f-af4e-e52f1334580a_1710929276664,4,United States,Seminole,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710930004477000,eaba1ae1-1159-4db9-95de-99ee859f4c3f,eaba1ae1-1159-4db9-95de-99ee859f4c3f_1710929999204,37,Norway,Oslo,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710931294457000,0211c784-d8c0-4131-9fa8-2dc48687f008,0211c784-d8c0-4131-9fa8-2dc48687f008_1710931287467,0,Germany,Hamburg,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710928886818000,54bc6a57-f407-4895-9a42-79aa628e44c4,54bc6a57-f407-4895-9a42-79aa628e44c4_1710928858099,49,Germany,Berlin,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710928993800000,1d6e4178-4f58-465f-9122-452f6dc88c9b,1d6e4178-4f58-465f-9122-452f6dc88c9b_1710928991884,79,Germany,Heilbronn,17,Apple iPhone XS Max,amplitude,,,2.22.0
+session_start,1710931024927000,18ee9ae6-6757-4dfd-b1cd-821f30bf2f19,18ee9ae6-6757-4dfd-b1cd-821f30bf2f19_1710931022077,37,Netherlands,Amsterdam,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710838568447000,274cbe2e-7add-4f98-a948-6008d72e1812,274cbe2e-7add-4f98-a948-6008d72e1812_1710838528683,0,Italy,Verdellino,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710929287463000,274cbe2e-7add-4f98-a948-6008d72e1812,274cbe2e-7add-4f98-a948-6008d72e1812_1710929285594,36,Italy,Verdellino,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710928811571000,0546d5f4-088c-4d07-8104-0eb7e3fee0a6,0546d5f4-088c-4d07-8104-0eb7e3fee0a6_1710928810415,2,Germany,Stuttgart,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710931858044000,ebf02415-c164-46c3-b8cd-f66d728fd8a9,ebf02415-c164-46c3-b8cd-f66d728fd8a9_1710931852098,0,Netherlands,Nijmegen,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710858152581000,7906b2f7-2bed-4ddc-a133-ba771800e6d3,7906b2f7-2bed-4ddc-a133-ba771800e6d3_1710858095169,1,Germany,Frankfurt am Main,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710872277127000,7906b2f7-2bed-4ddc-a133-ba771800e6d3,7906b2f7-2bed-4ddc-a133-ba771800e6d3_1710872272583,0,Germany,Frankfurt am Main,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710909641783000,7906b2f7-2bed-4ddc-a133-ba771800e6d3,7906b2f7-2bed-4ddc-a133-ba771800e6d3_1710909637229,0,Germany,Frankfurt am Main,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710931248911000,7906b2f7-2bed-4ddc-a133-ba771800e6d3,7906b2f7-2bed-4ddc-a133-ba771800e6d3_1710931243036,66,Germany,Frankfurt am Main,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710928815683000,59a27ced-36e0-4267-8599-4cc4850ab307,59a27ced-36e0-4267-8599-4cc4850ab307_1710928814078,18,Spain,Barcelona,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710928819527000,09aa675e-0707-4f57-b7b3-400206ee0622,09aa675e-0707-4f57-b7b3-400206ee0622_1710928817297,11,Germany,Berlin,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710930827514000,d40d893a-4116-4d4b-b654-1bdb6b1fcd24,d40d893a-4116-4d4b-b654-1bdb6b1fcd24_1710930818807,65,United States,Lansing,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710930462213000,ed0bcc1b-7ad7-45d1-9fa2-af25ef43142d,ed0bcc1b-7ad7-45d1-9fa2-af25ef43142d_1710930459769,20,Germany,Cologne,17,Apple iPhone XS,amplitude,,,2.22.0
+session_start,1710929830184000,ef7ad985-d132-43e3-873e-5443d8ac1c9e,ef7ad985-d132-43e3-873e-5443d8ac1c9e_1710929828154,0,Germany,Cologne,16,Apple iPhone SE (3rd generation),amplitude,,,2.22.0
+session_start,1710929988037000,073847e0-1996-43e2-b81b-eea964a81326,073847e0-1996-43e2-b81b-eea964a81326_1710929984781,514,Netherlands,Groningen,16,Apple iPhone 8 Plus,amplitude,,,2.22.0
+session_start,1710929153219000,50e6bfbe-b88a-48fc-9fce-9d0edf1c27cb,50e6bfbe-b88a-48fc-9fce-9d0edf1c27cb_1710929150420,290,Norway,Drammen,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710932044009000,cba1d092-a740-4375-861b-8115769793da,cba1d092-a740-4375-861b-8115769793da_1710932041947,277,Sweden,Stockholm,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710933640424000,f3f40bf8-c227-4e2b-8f83-3685603fa502,f3f40bf8-c227-4e2b-8f83-3685603fa502_1710933635340,0,Bahrain,Hamad Town,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710933260625000,c14dc39b-4442-433e-8a0c-4aba53a9397f,c14dc39b-4442-433e-8a0c-4aba53a9397f_1710933257990,90,United States,Concord,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710932415353000,02010a75-f7cf-40c2-9aab-fc7ddb5678bf,02010a75-f7cf-40c2-9aab-fc7ddb5678bf_1710932407894,0,France,,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1705824922462000,70afcf35-0792-4f0b-a643-eaffc6b69e50,70afcf35-0792-4f0b-a643-eaffc6b69e50_1705824918368,17,South Africa,Johannesburg,16,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710682064884000,70afcf35-0792-4f0b-a643-eaffc6b69e50,70afcf35-0792-4f0b-a643-eaffc6b69e50_1710682060205,21,South Africa,Johannesburg,17,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710932749555000,3c855c81-a8f6-4c43-a6c1-4b6267f071e7,3c855c81-a8f6-4c43-a6c1-4b6267f071e7_1710932747626,3,Greece,Athens,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710934635759000,f032f620-2465-4e8c-a95c-5d8e567c123d,f032f620-2465-4e8c-a95c-5d8e567c123d_1710934630438,65,Netherlands,Amsterdam,16,Apple iPhone X,amplitude,,,2.22.0
+session_start,1710934312264000,06608406-9990-4380-bd33-44c881dfd165,06608406-9990-4380-bd33-44c881dfd165_1710934310698,0,Switzerland,Bern,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710299569617000,db24f913-7776-4fb7-b4f5-c6923df3cd64,db24f913-7776-4fb7-b4f5-c6923df3cd64_1710299566180,0,United States,,17,Apple iPhone XS,amplitude,,,2.15.1
+session_start,1710935129506000,db24f913-7776-4fb7-b4f5-c6923df3cd64,db24f913-7776-4fb7-b4f5-c6923df3cd64_1710935127134,0,United States,,17,Apple iPhone XS,amplitude,,,2.15.1
+session_start,1710932415221000,acabe607-34e0-45ce-9ebc-3e0792325d19,acabe607-34e0-45ce-9ebc-3e0792325d19_1710932413418,28,Estonia,Tallinn,16,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710932410497000,daef8c28-7eca-459e-a4e8-30824742d67d,daef8c28-7eca-459e-a4e8-30824742d67d_1710932410373,0,Zimbabwe,Harare,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710932586117000,e80c0d1a-7a1a-4390-86b8-c9389a62ffbc,e80c0d1a-7a1a-4390-86b8-c9389a62ffbc_1710932584908,80,Portugal,Sao Domingos de Rana,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710935381052000,dd2a6dc4-61c7-4005-8894-f2d48b0a39b2,dd2a6dc4-61c7-4005-8894-f2d48b0a39b2_1710935380103,1,United States,Danville,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710934773151000,0560c3f3-2461-4ed8-b90f-661a635bd6dc,0560c3f3-2461-4ed8-b90f-661a635bd6dc_1710934770639,3,Netherlands,Amsterdam,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710935172505000,bf6cb90f-b1d0-48f4-9a8b-06fdb434a591,bf6cb90f-b1d0-48f4-9a8b-06fdb434a591_1710935170896,19,Romania,Craiova,15,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710932731021000,654be444-6cbc-4d58-b227-225b27db2996,654be444-6cbc-4d58-b227-225b27db2996_1710932730655,1081,Germany,Essen,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710935983741000,654be444-6cbc-4d58-b227-225b27db2996,654be444-6cbc-4d58-b227-225b27db2996_1710935982254,142,Germany,Essen,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710933922076000,8f08c23c-e314-458a-a6b6-3eb7c82257b1,8f08c23c-e314-458a-a6b6-3eb7c82257b1_1710933915133,25,Germany,Langenzenn,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710935938938000,9255136e-5e78-4689-85da-06f5fdd8e0fd,9255136e-5e78-4689-85da-06f5fdd8e0fd_1710935932777,406,Belgium,Lubbeek,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710932418635000,ab521bab-fcd6-4482-b170-0ee8382156f7,ab521bab-fcd6-4482-b170-0ee8382156f7_1710932416827,2,Norway,Oslo,16,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710935685146000,a53d56c9-9d6d-4032-9a4d-e9f244de0dc5,a53d56c9-9d6d-4032-9a4d-e9f244de0dc5_1710935677538,12,Indonesia,Jakarta,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710934231350000,55ee4065-f7bd-4008-883f-cdc63ae38cd8,55ee4065-f7bd-4008-883f-cdc63ae38cd8_1710934227112,33,India,Bhopal,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710932882357000,7906b2f7-2bed-4ddc-a133-ba771800e6d3,7906b2f7-2bed-4ddc-a133-ba771800e6d3_1710932881477,0,Germany,Frankfurt am Main,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710932714453000,aefeda51-4aee-452f-a536-c01226d0e886,aefeda51-4aee-452f-a536-c01226d0e886_1710932710736,22,Australia,Sydney,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710933626385000,08d0be44-a87a-43ae-9a20-e5834c163172,08d0be44-a87a-43ae-9a20-e5834c163172_1710933621304,123,United States,Cedar Park,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710932947539000,dd4117ad-cd20-4e1f-9835-c38ffb58ce04,dd4117ad-cd20-4e1f-9835-c38ffb58ce04_1710932947340,156,Sweden,Falköping,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710934693750000,1527105e-e51c-49fa-872e-5bca784bf02c,1527105e-e51c-49fa-872e-5bca784bf02c_1710934685459,88,United States,Brooklyn,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710930838486000,a395c4e0-b082-4656-ab48-234e464d0dec,a395c4e0-b082-4656-ab48-234e464d0dec_1710930828154,10,Israel,Jerusalem,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710933496535000,a395c4e0-b082-4656-ab48-234e464d0dec,a395c4e0-b082-4656-ab48-234e464d0dec_1710933493787,17,Israel,Jerusalem,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710933821646000,19639099-324f-4fb0-94a5-56419ca5969e,19639099-324f-4fb0-94a5-56419ca5969e_1710933818446,174,New Zealand,Christchurch,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710932929147000,cba1d092-a740-4375-861b-8115769793da,cba1d092-a740-4375-861b-8115769793da_1710932902779,879,Sweden,Stockholm,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710932582977000,0ff4e69d-55b7-4f55-941f-2fd634f54ba6,0ff4e69d-55b7-4f55-941f-2fd634f54ba6_1710932581057,238,United States,Skokie,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710933031409000,d33ea818-7079-4ac2-a2b5-8d6e2054e062,d33ea818-7079-4ac2-a2b5-8d6e2054e062_1710933028623,0,Spain,,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710933149171000,a6fa30ba-57ca-49f6-9881-52b578b429bb,a6fa30ba-57ca-49f6-9881-52b578b429bb_1710933144806,166,Singapore,Singapore,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710933847201000,68496974-2a50-44a4-b450-1164309e8fee,68496974-2a50-44a4-b450-1164309e8fee_1710933845851,521,United States,Sunny Isles Beach,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710934349752000,1ce593c6-706a-444e-91e5-0da090e74df9,1ce593c6-706a-444e-91e5-0da090e74df9_1710934316471,567,Turkey,Izmir,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710934415169000,af8307f3-ea39-4d89-9502-17bb686d795c,af8307f3-ea39-4d89-9502-17bb686d795c_1710934413915,165,United States,Sunny Isles Beach,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710934858539000,a50b014a-fc50-4e03-b381-4485d6139735,a50b014a-fc50-4e03-b381-4485d6139735_1710934854687,229,Australia,Brisbane,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710938934678000,956dfe89-20a1-4213-8a99-cde1e3301a9c,956dfe89-20a1-4213-8a99-cde1e3301a9c_1710938930888,44,United States,Charlotte,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710936067446000,6b6eaed1-383e-4fa8-a14e-8ef9f7cb43b6,6b6eaed1-383e-4fa8-a14e-8ef9f7cb43b6_1710936065744,14,Norway,Stavanger,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710939372220000,74467b22-bde4-4669-9bc3-05cbfd698de6,74467b22-bde4-4669-9bc3-05cbfd698de6_1710939369488,283,United States,Willow Grove,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710748810527000,784c3535-878a-4d09-8afd-dc8290ddf78c,784c3535-878a-4d09-8afd-dc8290ddf78c_1710748808516,0,Italy,Milan,16,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710936033781000,784c3535-878a-4d09-8afd-dc8290ddf78c,784c3535-878a-4d09-8afd-dc8290ddf78c_1710936031983,6,Italy,Milan,16,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710937409831000,f5836317-2654-4b45-9622-3190c9006852,f5836317-2654-4b45-9622-3190c9006852_1710937407044,0,Norway,Oslo,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710937671896000,8ea24823-f1ef-480f-80b5-b9bc4563e229,8ea24823-f1ef-480f-80b5-b9bc4563e229_1710937670961,1,United States,North Wilkesboro,16,Apple iPhone XR,amplitude,,,2.22.0
+session_start,1710937281223000,aca75fbe-7454-428d-ba7e-42dd4174ba43,aca75fbe-7454-428d-ba7e-42dd4174ba43_1710937277134,0,Canada,Ottawa,16,Apple iPhone 8,amplitude,,,2.22.0
+session_start,1710936142424000,672cf249-7a7c-4af9-890f-6d1581e2c35e,672cf249-7a7c-4af9-890f-6d1581e2c35e_1710936140714,125,Canada,Windsor,16,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710936720328000,de9ceb39-577a-46c6-b8d5-c4ed4decebcb,de9ceb39-577a-46c6-b8d5-c4ed4decebcb_1710936705187,94,Singapore,Singapore,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710936008067000,6fda53a9-385c-4704-9737-3cb575ec4c2c,6fda53a9-385c-4704-9737-3cb575ec4c2c_1710936007920,9,South Africa,Brits,16,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710939306784000,4f6456bd-8a51-4539-b166-b6faba46539b,4f6456bd-8a51-4539-b166-b6faba46539b_1710939304812,4,Ecuador,Quito,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710936010204000,60fec14b-262a-4f5f-8cf3-51a8d8e07f87,60fec14b-262a-4f5f-8cf3-51a8d8e07f87_1710936008865,1,Switzerland,Lausanne,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710939517415000,f6526e43-f28a-460b-a709-28b2b9cbba91,f6526e43-f28a-460b-a709-28b2b9cbba91_1710939514108,3,United States,Nashville,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710936475709000,7dd8a91b-1abd-4b60-a0eb-2539ba920ef5,7dd8a91b-1abd-4b60-a0eb-2539ba920ef5_1710936470551,0,United States,Nampa,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710583624148000,6465e22a-3029-4cb5-b64e-6b403c9071c3,6465e22a-3029-4cb5-b64e-6b403c9071c3_1710583622867,2,Netherlands,Rotterdam,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710598224413000,6465e22a-3029-4cb5-b64e-6b403c9071c3,6465e22a-3029-4cb5-b64e-6b403c9071c3_1710598223134,2,Netherlands,Rotterdam,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710936014797000,6465e22a-3029-4cb5-b64e-6b403c9071c3,6465e22a-3029-4cb5-b64e-6b403c9071c3_1710936013217,3,Netherlands,Rotterdam,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710938431443000,e0ab2ca1-2c93-4bc7-b0cd-3af9f89e7ef4,e0ab2ca1-2c93-4bc7-b0cd-3af9f89e7ef4_1710938430170,26,Sweden,Handen,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710938687954000,620b972d-6c49-4f09-9398-b17e29d2f801,620b972d-6c49-4f09-9398-b17e29d2f801_1710938686037,222,Chile,Santiago,17,Apple iPad Pro 11 inch 2nd Gen,amplitude,,,2.22.0
+session_start,1710936009100000,1647ca27-ac8b-4f8a-bdd5-06efd51ad449,1647ca27-ac8b-4f8a-bdd5-06efd51ad449_1710936003941,488,United Kingdom,,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710938939155000,b363982c-e9b1-4c3e-bb90-a585b166976a,b363982c-e9b1-4c3e-bb90-a585b166976a_1710938935987,7,Vietnam,Hanoi,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710936613925000,41dda9f9-80b5-4808-8bf2-8eb82f506102,41dda9f9-80b5-4808-8bf2-8eb82f506102_1710936596079,23,Switzerland,Zurich,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710936934860000,57a10651-fe6e-4166-a613-7beab7bf5dd2,57a10651-fe6e-4166-a613-7beab7bf5dd2_1710936933840,4,United States,North Augusta,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710938247201000,3a3728c3-6317-46a1-80d9-41736bfdcc8e,3a3728c3-6317-46a1-80d9-41736bfdcc8e_1710938241444,20,Spain,Barcelona,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710937209876000,053631ac-fcff-4acb-a5dc-09e30776ba0f,053631ac-fcff-4acb-a5dc-09e30776ba0f_1710937206008,28,Norway,Kragero,17,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710936674083000,46746a4b-218a-4d4e-95f4-b26d71d4050c,46746a4b-218a-4d4e-95f4-b26d71d4050c_1710936669347,0,Argentina,Buenos Aires,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710938735817000,922737c1-20ae-4212-8d51-8e40db13fec0,922737c1-20ae-4212-8d51-8e40db13fec0_1710938731301,25,France,,16,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710936666544000,32693f54-f62e-44a9-94c1-6babcf9f6eb9,32693f54-f62e-44a9-94c1-6babcf9f6eb9_1710936665383,93,United States,Philadelphia,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710939432340000,3645501b-b02d-4f6a-971b-e9fa90664964,3645501b-b02d-4f6a-971b-e9fa90664964_1710939431405,309,United States,Mt. Pleasant,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710938495912000,d4f3a9fe-5309-41f5-b855-1d8a8102419c,d4f3a9fe-5309-41f5-b855-1d8a8102419c_1710938491936,363,United States,Brookline,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710936064154000,8dde66e1-cf11-4fb9-8773-afd6156f3fff,8dde66e1-cf11-4fb9-8773-afd6156f3fff_1710936061125,129,Brazil,Quarai,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710936022775000,f5649dce-9bfb-409e-9b82-fdf43ea9fa5b,f5649dce-9bfb-409e-9b82-fdf43ea9fa5b_1710936020629,69,Netherlands,Soest,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710936120564000,437b2378-6434-4e96-a1c1-a0be0330b96a,437b2378-6434-4e96-a1c1-a0be0330b96a_1710936118860,12,United Kingdom,London,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710934891901000,a395c4e0-b082-4656-ab48-234e464d0dec,a395c4e0-b082-4656-ab48-234e464d0dec_1710934880554,27,Israel,Jerusalem,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710936837483000,a395c4e0-b082-4656-ab48-234e464d0dec,a395c4e0-b082-4656-ab48-234e464d0dec_1710936834861,17,Israel,Jerusalem,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710939506830000,a395c4e0-b082-4656-ab48-234e464d0dec,a395c4e0-b082-4656-ab48-234e464d0dec_1710939501166,241,Israel,Jerusalem,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710936389619000,a6049fda-8e0c-4883-bb13-33090c66a6a3,a6049fda-8e0c-4883-bb13-33090c66a6a3_1710936389519,4,New Zealand,Auckland,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710936355053000,a26cefc9-13c6-44e5-b436-dc3a40844eb0,a26cefc9-13c6-44e5-b436-dc3a40844eb0_1710936351431,1111,Australia,Melbourne,16,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710936416657000,2b66ffd7-306c-4ded-967a-e10759a16aa9,2b66ffd7-306c-4ded-967a-e10759a16aa9_1710936413246,83,Australia,Sydney,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710936450818000,5a8ee028-07a8-47d0-a875-fc08e07f45b9,5a8ee028-07a8-47d0-a875-fc08e07f45b9_1710936446440,970,Australia,Perth,16,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710936958938000,66ca8776-b60f-4a69-a636-28f0d7acbb6a,66ca8776-b60f-4a69-a636-28f0d7acbb6a_1710936955191,2406,Hong Kong,Central,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710939366994000,903dcce0-c45e-4908-975d-ad3b498eb26f,903dcce0-c45e-4908-975d-ad3b498eb26f_1710939365087,12,United States,Parkland,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1706059884112000,e9e51a62-0df6-40ab-9e6d-240499eeebe8,e9e51a62-0df6-40ab-9e6d-240499eeebe8_1706059882650,0,United States,Atlanta,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710940984903000,e9e51a62-0df6-40ab-9e6d-240499eeebe8,e9e51a62-0df6-40ab-9e6d-240499eeebe8_1710940984178,1,United States,Atlanta,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710942979206000,78214edb-0ca8-4b34-a514-bdcba88efe77,78214edb-0ca8-4b34-a514-bdcba88efe77_1710942970599,270,United States,Littleton,16,Apple iPhone 8 Plus,amplitude,,,2.20.0
+session_start,1710942866586000,13e123a1-b5db-4c74-965a-89a42b642199,13e123a1-b5db-4c74-965a-89a42b642199_1710942858112,0,United States,Conyers,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710942282020000,6ae2bbf0-ae49-4ddd-b17e-8415d6192b3a,6ae2bbf0-ae49-4ddd-b17e-8415d6192b3a_1710942272610,0,Netherlands,Rotterdam,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710939828233000,784c3535-878a-4d09-8afd-dc8290ddf78c,784c3535-878a-4d09-8afd-dc8290ddf78c_1710939825136,30,Italy,Milan,16,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710942083393000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710942081084,986,United States,Bend,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710659101155000,f21eba18-4c01-4efa-a4ae-86e2bc3a890b,f21eba18-4c01-4efa-a4ae-86e2bc3a890b_1710659100302,0,United States,Stockbridge,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710940734113000,f21eba18-4c01-4efa-a4ae-86e2bc3a890b,f21eba18-4c01-4efa-a4ae-86e2bc3a890b_1710940732744,9,United States,Stockbridge,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710939790251000,41b7bb9d-ada3-4818-a79f-39bcd4c7086f,41b7bb9d-ada3-4818-a79f-39bcd4c7086f_1710939786598,0,South Africa,Johannesburg,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710939613353000,69780c30-8732-48b5-b2d3-db9aeb627d93,69780c30-8732-48b5-b2d3-db9aeb627d93_1710939612627,0,Canada,Orangeville,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710939892438000,e758cc20-22aa-464f-8c8d-c5f57392e87f,e758cc20-22aa-464f-8c8d-c5f57392e87f_1710939891620,27,United States,Ledgewood,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710940252200000,810d42be-967d-4587-a9af-45511d98b598,810d42be-967d-4587-a9af-45511d98b598_1710940251476,0,Canada,Toronto,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710939651589000,d8217cdd-0a9a-45a2-b786-620e1c9b9e01,d8217cdd-0a9a-45a2-b786-620e1c9b9e01_1710939650155,77,United States,Orlando,16,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710940789595000,bd20e76b-07ed-4729-bb7c-d873b51cb7bf,bd20e76b-07ed-4729-bb7c-d873b51cb7bf_1710940784301,0,Netherlands,Arnhem,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710768829827000,c1ddc1f0-6d4c-4d0d-8370-44a1c1158844,c1ddc1f0-6d4c-4d0d-8370-44a1c1158844_1710768827096,0,Croatia,,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710939917414000,c1ddc1f0-6d4c-4d0d-8370-44a1c1158844,c1ddc1f0-6d4c-4d0d-8370-44a1c1158844_1710939914945,0,Croatia,,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710939615337000,ffe5461e-e6cc-4474-b3e5-507694475753,ffe5461e-e6cc-4474-b3e5-507694475753_1710939613694,2,Romania,Bucharest,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710939581358000,21e7d8f7-be96-4e9b-b65a-3d2195e413eb,21e7d8f7-be96-4e9b-b65a-3d2195e413eb_1710939580258,150,Canada,London,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710941657661000,fb09ea80-bf43-4748-b8a4-d5fcfa9d486c,fb09ea80-bf43-4748-b8a4-d5fcfa9d486c_1710941646079,16,Singapore,Singapore,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710940965881000,bd12cc8d-f6d7-40bd-8f14-62b0a2bdb13d,bd12cc8d-f6d7-40bd-8f14-62b0a2bdb13d_1710940963586,25,United States,Washington,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710939614406000,88d69e25-5a2a-43e8-a568-1377b8ef18a3,88d69e25-5a2a-43e8-a568-1377b8ef18a3_1710939613296,12,United States,Brooklyn,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710942927221000,53c34f9f-8103-40da-9a29-8f3793c18200,53c34f9f-8103-40da-9a29-8f3793c18200_1710942911004,5,Taiwan,Taipei,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710939613359000,5bf79d3f-54fd-4caa-99b5-4d23ad4d56d4,5bf79d3f-54fd-4caa-99b5-4d23ad4d56d4_1710939612781,3,United States,Brooklyn,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710939614659000,023c3190-189d-4690-9dae-7b889c6c9279,023c3190-189d-4690-9dae-7b889c6c9279_1710939611366,20,United Arab Emirates,Abu Dhabi,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710941903060000,0560c3f3-2461-4ed8-b90f-661a635bd6dc,0560c3f3-2461-4ed8-b90f-661a635bd6dc_1710941901758,0,Netherlands,Amsterdam,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710781310178000,351d83b6-da82-4fea-91b1-adf1bf913f65,351d83b6-da82-4fea-91b1-adf1bf913f65_1710781309162,0,United States,Saco,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710940313334000,351d83b6-da82-4fea-91b1-adf1bf913f65,351d83b6-da82-4fea-91b1-adf1bf913f65_1710940311556,102,United States,Saco,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710940192135000,8ea71ada-8d40-48d8-ba87-55d5d544567a,8ea71ada-8d40-48d8-ba87-55d5d544567a_1710940191497,51,United States,West Babylon,16,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710939611266000,7f6316bd-4b02-4d30-93e1-83c92720fad9,7f6316bd-4b02-4d30-93e1-83c92720fad9_1710939610704,0,United States,Winston-Salem,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710942599577000,ec210c3d-2ffa-44a7-be8f-fa5b2431eab0,ec210c3d-2ffa-44a7-be8f-fa5b2431eab0_1710942595023,36,Malaysia,Johor Bahru,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710942407515000,403893bb-c144-4cf0-a4bf-f879f5c36e97,403893bb-c144-4cf0-a4bf-f879f5c36e97_1710942403041,0,United States,Cincinnati,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710939814217000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710939811478,491,United States,Dawsonville,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710941631967000,0fb8a64e-e21d-4659-8492-b18885d7313e,0fb8a64e-e21d-4659-8492-b18885d7313e_1710941627624,38,United States,,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710939620611000,ce6c13e1-80b6-4d61-a247-e639bc21d6e8,ce6c13e1-80b6-4d61-a247-e639bc21d6e8_1710939617896,54,South Africa,Pretoria,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710939661361000,c7b65f53-1b61-4896-88ba-a21ebd10ed32,c7b65f53-1b61-4896-88ba-a21ebd10ed32_1710939651925,0,Russia,St Petersburg,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710367377598000,3ec0c6cf-f368-47cf-909e-af21ab796e84,3ec0c6cf-f368-47cf-909e-af21ab796e84_1710367374607,5,United States,Gurnee,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710619388105000,3ec0c6cf-f368-47cf-909e-af21ab796e84,3ec0c6cf-f368-47cf-909e-af21ab796e84_1710619384929,16,United States,Gurnee,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710731736824000,3ec0c6cf-f368-47cf-909e-af21ab796e84,3ec0c6cf-f368-47cf-909e-af21ab796e84_1710731733615,9,United States,Gurnee,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710811732344000,3ec0c6cf-f368-47cf-909e-af21ab796e84,3ec0c6cf-f368-47cf-909e-af21ab796e84_1710811725252,9,United States,Gurnee,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710941298299000,3ec0c6cf-f368-47cf-909e-af21ab796e84,3ec0c6cf-f368-47cf-909e-af21ab796e84_1710941292358,8,United States,Gurnee,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710942675374000,ce865c26-0631-4f82-ad17-759486a10210,ce865c26-0631-4f82-ad17-759486a10210_1710942668972,143,United States,Denver,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710941549547000,b45ce4e3-048e-46ec-92d9-168bb239e29f,b45ce4e3-048e-46ec-92d9-168bb239e29f_1710941538694,1901,Israel,Tel Aviv,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710940765938000,1458219b-3e51-4cf8-917a-b55f02497328,1458219b-3e51-4cf8-917a-b55f02497328_1710940757823,0,Germany,Berlin,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710942846706000,f6ae646a-db06-499c-92f9-485c94173591,f6ae646a-db06-499c-92f9-485c94173591_1710942843067,44,United States,Atlanta,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710941458355000,35760e7d-55f3-42dd-a211-f7ecefb1ae14,35760e7d-55f3-42dd-a211-f7ecefb1ae14_1710941453712,19,United Kingdom,Camden,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710939611735000,d4f3a9fe-5309-41f5-b855-1d8a8102419c,d4f3a9fe-5309-41f5-b855-1d8a8102419c_1710939611702,0,United States,Brookline,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710940906887000,3421c85b-ea98-478f-a1a9-e6b68382b2f1,3421c85b-ea98-478f-a1a9-e6b68382b2f1_1710940904893,0,United Kingdom,Edgware,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710855355898000,e60dadac-a7e5-4851-8115-c6c73eab6654,e60dadac-a7e5-4851-8115-c6c73eab6654_1710855316234,5,United States,McLean,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710939617410000,63dd3e3f-d187-4e79-8cbb-cabb233b8947,63dd3e3f-d187-4e79-8cbb-cabb233b8947_1710939616560,140,United States,Jefferson,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710940749476000,c9a30543-3e74-4ac6-8a3e-52963cf1e736,c9a30543-3e74-4ac6-8a3e-52963cf1e736_1710940746405,12,Netherlands,Amersfoort,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710939911057000,4bf48520-a464-42c9-b553-d4ad1ea00215,4bf48520-a464-42c9-b553-d4ad1ea00215_1710939910151,0,United States,Delray Beach,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710939661802000,1e3dc72c-060d-4d42-b164-86b9fc9cd09c,1e3dc72c-060d-4d42-b164-86b9fc9cd09c_1710939657879,64,Hong Kong,Central,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710941063526000,cf1a3b7c-c2d3-4fba-9ca7-f199082b5c1f,cf1a3b7c-c2d3-4fba-9ca7-f199082b5c1f_1710941054245,28,United States,,17,Apple iPad Air (5th generation),amplitude,,,2.22.0
+session_start,1710685370420000,e8cd675f-4e79-4a90-952a-99cdc822ff03,e8cd675f-4e79-4a90-952a-99cdc822ff03_1710685131954,0,United States,Portland,17,"Apple iPad Pro 12.9"" 5th Gen (Wi-Fi Only)",amplitude,,,2.22.0
+session_start,1710942223702000,e8cd675f-4e79-4a90-952a-99cdc822ff03,e8cd675f-4e79-4a90-952a-99cdc822ff03_1710942222590,1,United States,Portland,17,"Apple iPad Pro 12.9"" 5th Gen (Wi-Fi Only)",amplitude,,,2.22.0
+session_start,1710939969459000,ec281f1b-6479-48e6-bd68-f5e4fbb664cf,ec281f1b-6479-48e6-bd68-f5e4fbb664cf_1710939968731,0,United States,Detroit,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710942347431000,e4f7f1ff-02e7-4921-a01d-43c3c561b944,e4f7f1ff-02e7-4921-a01d-43c3c561b944_1710942345327,0,United States,Tampa,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710939903772000,bde11df2-5a64-4a4c-b1ea-5b6b6baa4989,bde11df2-5a64-4a4c-b1ea-5b6b6baa4989_1710939902822,291,United States,Weaverville,16,Apple iPhone 8 Plus,amplitude,,,2.22.0
+session_start,1710939618838000,743dfffc-9d02-49b1-8ec3-bc72fb8c83d8,743dfffc-9d02-49b1-8ec3-bc72fb8c83d8_1710939617337,1,United States,Charlotte,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710941569706000,96101eb1-9269-442a-a336-402bdb763667,96101eb1-9269-442a-a336-402bdb763667_1710941563107,26,Mexico,Hacienda de Las Palmas,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710941710249000,437b2378-6434-4e96-a1c1-a0be0330b96a,437b2378-6434-4e96-a1c1-a0be0330b96a_1710941708634,47,United Kingdom,London,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710941604928000,66ca8776-b60f-4a69-a636-28f0d7acbb6a,66ca8776-b60f-4a69-a636-28f0d7acbb6a_1710941600849,65,Hong Kong,Central,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710942429067000,66ca8776-b60f-4a69-a636-28f0d7acbb6a,66ca8776-b60f-4a69-a636-28f0d7acbb6a_1710942422877,65,Hong Kong,Central,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710942981048000,66ca8776-b60f-4a69-a636-28f0d7acbb6a,66ca8776-b60f-4a69-a636-28f0d7acbb6a_1710942967219,23,Hong Kong,Central,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710940762500000,1937fb7e-ee0c-47da-a453-88033334f288,1937fb7e-ee0c-47da-a453-88033334f288_1710940759574,255,United States,Fort Worth,16,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710941064132000,7e6c1c1f-f048-4fab-a0e9-789a80a3875f,7e6c1c1f-f048-4fab-a0e9-789a80a3875f_1710941062507,44,United States,Brooklyn,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710941192361000,9748a2ab-df53-4f97-90fd-171da3f5484f,9748a2ab-df53-4f97-90fd-171da3f5484f_1710941189711,212,Romania,Sector 4,15,Apple iPhone 8,amplitude,,,2.22.0
+session_start,1710941341675000,0237bc6a-6200-4bcd-99a7-2f706f258e2d,0237bc6a-6200-4bcd-99a7-2f706f258e2d_1710941338299,519,United Kingdom,Waltham Forest,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710942312333000,0237bc6a-6200-4bcd-99a7-2f706f258e2d,0237bc6a-6200-4bcd-99a7-2f706f258e2d_1710942309763,24,United Kingdom,Waltham Forest,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710941442449000,fd8871a1-ca0b-481d-a257-fa46d36291a9,fd8871a1-ca0b-481d-a257-fa46d36291a9_1710941441159,111,United States,Hyattsville,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710941701948000,46efba3b-0644-4b7b-b79c-927eccd17ef1,46efba3b-0644-4b7b-b79c-927eccd17ef1_1710941698396,148,Germany,Nuremberg,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710942094096000,c98329a1-7992-4017-acea-ec7e35ecab38,c98329a1-7992-4017-acea-ec7e35ecab38_1710942092685,255,United States,Oklahoma City,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710942842501000,c98329a1-7992-4017-acea-ec7e35ecab38,c98329a1-7992-4017-acea-ec7e35ecab38_1710942841399,0,United States,Oklahoma City,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710942426062000,db018c39-a47f-4a97-b026-6fedf3874db3,db018c39-a47f-4a97-b026-6fedf3874db3_1710942423709,215,Spain,Zarautz,15,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710942674363000,f3f75a05-e7d7-4dee-844c-fdba6e4f4db5,f3f75a05-e7d7-4dee-844c-fdba6e4f4db5_1710942669644,745,Thailand,Bangkok,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710942812287000,68d9c205-d33d-4b68-98ae-d2e99220f7ee,68d9c205-d33d-4b68-98ae-d2e99220f7ee_1710942809851,111,Switzerland,Corsier-sur-Vevey,17,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710946512437000,d979e129-67df-4982-a4af-8ac630b4cbad,d979e129-67df-4982-a4af-8ac630b4cbad_1710946508132,6,Austria,Vienna,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710945337730000,89f6fbd4-db0d-4623-9ecb-25b09dd8dad8,89f6fbd4-db0d-4623-9ecb-25b09dd8dad8_1710945333342,3,Czech Republic,Brdo,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710943676585000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710943663681,7,United States,Bend,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710944250919000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710944247892,14,United States,Bend,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710943230168000,5e5eec70-24d8-4f55-b668-42ebf9a8974e,5e5eec70-24d8-4f55-b668-42ebf9a8974e_1710943221627,0,Norway,Oslo,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710945722923000,d2100966-0b18-4eac-8c12-007e7ee04c0a,d2100966-0b18-4eac-8c12-007e7ee04c0a_1710945704631,22,Slovenia,Ljubljana,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710943453252000,c9c609e6-a10d-4dd3-99a3-cc94f756948d,c9c609e6-a10d-4dd3-99a3-cc94f756948d_1710943452010,2,United States,Milwaukee,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710945587402000,a75187aa-112e-4e74-b03b-a33fab99f22c,a75187aa-112e-4e74-b03b-a33fab99f22c_1710945584239,0,Norway,Arendal,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710944178580000,9674870b-5a85-4a7f-9f58-cc9913160980,9674870b-5a85-4a7f-9f58-cc9913160980_1710944175982,34,Denmark,Frederiksberg,15,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710945693215000,662d94ff-af49-46ea-a433-21edff931d60,662d94ff-af49-46ea-a433-21edff931d60_1710945692413,0,United States,Houston,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710945347543000,9fbba5b9-495b-47b4-83c0-71fa71ee27e1,9fbba5b9-495b-47b4-83c0-71fa71ee27e1_1710945330787,43,Singapore,Singapore,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1706651060774000,f55870fa-5566-44eb-9bcf-3fbc481ca561,f55870fa-5566-44eb-9bcf-3fbc481ca561_1706651059160,0,Switzerland,Frauenfeld,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710945696290000,f55870fa-5566-44eb-9bcf-3fbc481ca561,f55870fa-5566-44eb-9bcf-3fbc481ca561_1710945694366,0,Switzerland,Frauenfeld,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710944738526000,049934fd-6478-4aa1-9262-7c1704dfab4f,049934fd-6478-4aa1-9262-7c1704dfab4f_1710944735712,5,United States,Concord,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710943218836000,f318f032-750f-4303-878f-ebfc22fa2757,f318f032-750f-4303-878f-ebfc22fa2757_1710943206725,0,Philippines,Manila,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710944571969000,130451ad-7b27-4045-904e-865f7e7a4c28,130451ad-7b27-4045-904e-865f7e7a4c28_1710944570031,3,Belgium,Ieper,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710945621898000,545b4924-81c5-4ea4-be94-ac41790c6707,545b4924-81c5-4ea4-be94-ac41790c6707_1710945618012,10,Turkey,Istanbul,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710946630805000,2aedc9ae-1e2d-4ecb-be0e-f7ae9b7b0813,2aedc9ae-1e2d-4ecb-be0e-f7ae9b7b0813_1710946629645,0,United States,Long Beach,16,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710945907979000,a3e5e2b8-068e-46a3-8bb6-add6c86288b4,a3e5e2b8-068e-46a3-8bb6-add6c86288b4_1710945904472,28,Spain,Montmeló,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710944835473000,a5757acb-b410-4793-88f3-399cc32fa7b5,a5757acb-b410-4793-88f3-399cc32fa7b5_1710944830890,5,United States,Covington,16,Apple iPhone XR,amplitude,,,2.22.0
+session_start,1710150753675000,3aea4257-124f-4bc6-852d-706f07b0443b,3aea4257-124f-4bc6-852d-706f07b0443b_1710150734061,0,Armenia,Yerevan,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710945591745000,3aea4257-124f-4bc6-852d-706f07b0443b,3aea4257-124f-4bc6-852d-706f07b0443b_1710945589134,0,Armenia,Yerevan,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710945380463000,3d7ea2a6-0baa-49b7-b1f1-4f44d5531fc5,3d7ea2a6-0baa-49b7-b1f1-4f44d5531fc5_1710945118201,16,Mexico,Playa del Carmen,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710944452297000,654be444-6cbc-4d58-b227-225b27db2996,654be444-6cbc-4d58-b227-225b27db2996_1710944402411,786,Germany,Essen,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710945548170000,5edbd7c7-70e6-49bd-9ac8-222c156d1bea,5edbd7c7-70e6-49bd-9ac8-222c156d1bea_1710945545526,77,Denmark,Aarhus,17,Apple iPhone XS,amplitude,,,2.22.0
+session_start,1710943225447000,7202de4a-7198-435d-b8e5-2f00dd5660b3,7202de4a-7198-435d-b8e5-2f00dd5660b3_1710943217970,0,United States,Leander,15,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1709994365656000,d0830ab8-0c23-4dcb-9463-514321a72a22,d0830ab8-0c23-4dcb-9463-514321a72a22_1709994364310,0,Colombia,Manizales,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710944359958000,d0830ab8-0c23-4dcb-9463-514321a72a22,d0830ab8-0c23-4dcb-9463-514321a72a22_1710944358365,32,Colombia,Manizales,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710943631956000,620b972d-6c49-4f09-9398-b17e29d2f801,620b972d-6c49-4f09-9398-b17e29d2f801_1710943631825,1,Chile,Santiago,17,Apple iPad Pro 11 inch 2nd Gen,amplitude,,,2.22.0
+session_start,1710945588636000,1799b45f-0560-4d74-a4a2-ffb263798546,1799b45f-0560-4d74-a4a2-ffb263798546_1710945559884,0,United States,Lima,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710945511270000,9575a463-88d3-4dd5-b7eb-41b245275f32,9575a463-88d3-4dd5-b7eb-41b245275f32_1710945506218,0,Bulgaria,Sofia,17,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710943807814000,b2b36a5f-b48c-4f44-a751-09a6fccf4daf,b2b36a5f-b48c-4f44-a751-09a6fccf4daf_1710943806827,0,United States,Massapequa,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710943247418000,7c29151c-740a-487a-af38-bbca895c0fd3,7c29151c-740a-487a-af38-bbca895c0fd3_1710943246258,0,United States,Red Bank,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710944742840000,331ad444-c20a-4c60-b508-5f032ddf2ebe,331ad444-c20a-4c60-b508-5f032ddf2ebe_1710944731516,0,Mexico,Mérida,17,Apple iPad Air 3,amplitude,,,2.22.0
+session_start,1710944336414000,debf176d-6efb-4af8-95fd-695c39df2811,debf176d-6efb-4af8-95fd-695c39df2811_1710944333823,260,Canada,Lethbridge,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710338433200000,6d5194d5-e1ea-4fe0-b95c-e801cb77abc7,6d5194d5-e1ea-4fe0-b95c-e801cb77abc7_1710338414530,0,United States,Janesville,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710943222721000,6d5194d5-e1ea-4fe0-b95c-e801cb77abc7,6d5194d5-e1ea-4fe0-b95c-e801cb77abc7_1710943221898,1,United States,Janesville,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710943229348000,e4ffef92-c3a1-47cf-bec8-51b00362a4c2,e4ffef92-c3a1-47cf-bec8-51b00362a4c2_1710943228409,0,United States,Dallas,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710944151646000,f3cdadb3-e986-4270-8585-50e8ef61c514,f3cdadb3-e986-4270-8585-50e8ef61c514_1710944149890,94,United States,Hayward,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710943944903000,6020e4ea-44d5-40bc-a6ec-71d2a78b9a73,6020e4ea-44d5-40bc-a6ec-71d2a78b9a73_1710943943449,0,United States,Dallas,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710945510261000,e4d967f7-a907-4b27-896f-606de88180aa,e4d967f7-a907-4b27-896f-606de88180aa_1710945391253,622,Australia,Perth,15,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710946378280000,5304c1d3-6120-4183-8eb4-f3628799d9f3,5304c1d3-6120-4183-8eb4-f3628799d9f3_1710946376369,0,Germany,Essen,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710943689685000,e1d7ee59-4d30-45e0-8d38-de49a10fd876,e1d7ee59-4d30-45e0-8d38-de49a10fd876_1710943686463,6,United States,New Ipswich,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710946724078000,afee8fc6-f79c-4836-84ee-8dae206b832b,afee8fc6-f79c-4836-84ee-8dae206b832b_1710946706087,0,Germany,Hamburg,16,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710944043020000,15bfd903-dc63-408c-aed9-249b6939f617,15bfd903-dc63-408c-aed9-249b6939f617_1710944033711,19,United States,Escondido,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710946366630000,0ff4e69d-55b7-4f55-941f-2fd634f54ba6,0ff4e69d-55b7-4f55-941f-2fd634f54ba6_1710946365953,0,United States,Skokie,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710943811716000,f3f75a05-e7d7-4dee-844c-fdba6e4f4db5,f3f75a05-e7d7-4dee-844c-fdba6e4f4db5_1710943809288,26,Thailand,Bangkok,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710943945395000,c4e0c788-d5e0-4891-9914-193cf2d1c827,c4e0c788-d5e0-4891-9914-193cf2d1c827_1710943943815,0,United States,Euless,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710944221624000,ebb2d49b-6956-4130-900e-81a15789c31e,ebb2d49b-6956-4130-900e-81a15789c31e_1710944217174,2860,Vietnam,Huế,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710945767164000,3079b182-4ab9-4bea-9c17-f13c8be1831b,3079b182-4ab9-4bea-9c17-f13c8be1831b_1710945661806,137,United States,Columbia,17,Apple iPhone 11 Pro Max,amplitude,,,2.22.0
+session_start,1710946225008000,ec939761-09ce-4805-9c09-db02bbe87b28,ec939761-09ce-4805-9c09-db02bbe87b28_1710946221440,95,Hong Kong,Central,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1708825318478000,3d15b0f4-dd9b-4d71-9a8c-45ab51778d62,3d15b0f4-dd9b-4d71-9a8c-45ab51778d62_1708825285591,0,India,Ludhiana,16,Apple iPhone 11 Pro Max,amplitude,,,2.19.1
+session_start,1710950180883000,3d15b0f4-dd9b-4d71-9a8c-45ab51778d62,3d15b0f4-dd9b-4d71-9a8c-45ab51778d62_1710950176779,18,India,Ludhiana,17,Apple iPhone 11 Pro Max,amplitude,,,2.19.1
+session_start,1710921820951000,0bde23ff-d63d-4927-bec3-e56cf4fcf0ac,0bde23ff-d63d-4927-bec3-e56cf4fcf0ac_1710921749893,0,Switzerland,Zurich,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710947460920000,0bde23ff-d63d-4927-bec3-e56cf4fcf0ac,0bde23ff-d63d-4927-bec3-e56cf4fcf0ac_1710947454549,0,Switzerland,Zurich,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710948401500000,f3f40bf8-c227-4e2b-8f83-3685603fa502,f3f40bf8-c227-4e2b-8f83-3685603fa502_1710948393905,0,Bahrain,Hamad Town,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710948390694000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710948388316,0,United States,Bend,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710949418286000,420ac272-25b0-42c5-9dd4-52158b25de2c,420ac272-25b0-42c5-9dd4-52158b25de2c_1710949414289,162,United States,Phoenix,16,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710433111900000,0729516c-e671-4bbd-ad86-4344b0cb00f1,0729516c-e671-4bbd-ad86-4344b0cb00f1_1710433110986,1,United States,Brooklyn,16,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710946817449000,0729516c-e671-4bbd-ad86-4344b0cb00f1,0729516c-e671-4bbd-ad86-4344b0cb00f1_1710946816782,11,United States,Brooklyn,16,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710947119945000,a43597b8-f07e-4fe8-94c0-e7ac7587c908,a43597b8-f07e-4fe8-94c0-e7ac7587c908_1710947112626,0,United States,Thibodaux,16,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710947403600000,f4e660a3-d6a0-45af-b2a8-83192af7e5ad,f4e660a3-d6a0-45af-b2a8-83192af7e5ad_1710947397852,246,United States,Maumee,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710949820694000,daef8c28-7eca-459e-a4e8-30824742d67d,daef8c28-7eca-459e-a4e8-30824742d67d_1710949813720,5,Zimbabwe,Harare,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710948745020000,b2555300-7ccc-4770-894d-716d9098fbe0,b2555300-7ccc-4770-894d-716d9098fbe0_1710948735984,17,Lesotho,Maseru,17,Apple iPhone 12 Pro Max,amplitude,,,2.21.0
+session_start,1710949847024000,4a3f95de-0973-4299-b826-52e17136f8c8,4a3f95de-0973-4299-b826-52e17136f8c8_1710949842679,0,Croatia,Zagreb,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710946832029000,e53fef1c-373c-48e9-9b5d-429837acb128,e53fef1c-373c-48e9-9b5d-429837acb128_1710946830881,0,Mexico,Mexico City,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710948622875000,7bbe6f76-5e4f-466e-bcf1-d90d10ab20c1,7bbe6f76-5e4f-466e-bcf1-d90d10ab20c1_1710948348494,14,Singapore,Singapore,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710947346293000,33d074e7-e7f3-4ca9-a0ba-88333df232ae,33d074e7-e7f3-4ca9-a0ba-88333df232ae_1710947341227,13,Bulgaria,Sofia,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710950055248000,7f6316bd-4b02-4d30-93e1-83c92720fad9,7f6316bd-4b02-4d30-93e1-83c92720fad9_1710950029761,43,United States,Charlotte,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1709816419268000,7ea7bfe8-7d6a-4e08-88a9-aa38a44d0780,7ea7bfe8-7d6a-4e08-88a9-aa38a44d0780_1709816417768,0,Spain,Valencia,16,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710946830610000,7ea7bfe8-7d6a-4e08-88a9-aa38a44d0780,7ea7bfe8-7d6a-4e08-88a9-aa38a44d0780_1710946828845,266,Spain,Valencia,16,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710947335343000,e0c442cd-324a-4594-a883-e17a92222fa3,e0c442cd-324a-4594-a883-e17a92222fa3_1710947326478,66,Germany,Mannheim,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710947935828000,e0c442cd-324a-4594-a883-e17a92222fa3,e0c442cd-324a-4594-a883-e17a92222fa3_1710947927281,0,Germany,Mannheim,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710947225937000,791d1eb6-06af-443b-9440-23b0e2d7cf69,791d1eb6-06af-443b-9440-23b0e2d7cf69_1710947225889,2,United Kingdom,City of Westminster,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1709469472621000,e8959c1c-100f-4725-af5f-a3057cabf9be,e8959c1c-100f-4725-af5f-a3057cabf9be_1709469453215,0,Israel,Tel Aviv,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710658812467000,e8959c1c-100f-4725-af5f-a3057cabf9be,e8959c1c-100f-4725-af5f-a3057cabf9be_1710658810749,1,Israel,Tel Aviv,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710897759619000,73b6a798-c6a9-44e8-bfa2-10c4b2c37f03,73b6a798-c6a9-44e8-bfa2-10c4b2c37f03_1710897757565,0,United States,Salt Lake City,16,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710949571865000,99a6bfdc-dcc4-480d-b17a-88ad59336bc3,99a6bfdc-dcc4-480d-b17a-88ad59336bc3_1710949562612,195,Croatia,Zagreb,122,,amplitude,,,2.19.0
+session_start,1710950177047000,1b63ea8c-91b7-4149-9ee6-f85eff6c3168,1b63ea8c-91b7-4149-9ee6-f85eff6c3168_1710950137033,380,Sweden,Bollebygd,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710946832017000,e4cbcee6-8c12-4cca-8a0b-4f21d5aeeb16,e4cbcee6-8c12-4cca-8a0b-4f21d5aeeb16_1710946830548,375,Mexico,Mexico City,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710844932157000,00452094-4551-4729-9d69-891bba2298b9,00452094-4551-4729-9d69-891bba2298b9_1710844913700,0,United States,Miami,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710946820611000,00452094-4551-4729-9d69-891bba2298b9,00452094-4551-4729-9d69-891bba2298b9_1710946819410,18,United States,Miami,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710947166501000,425c8faa-2ca7-4fa6-b348-7792e8ba7f12,425c8faa-2ca7-4fa6-b348-7792e8ba7f12_1710947165653,0,United States,Atlanta,16,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710946830161000,7e6cd814-5f9c-42ea-8343-f75461368b10,7e6cd814-5f9c-42ea-8343-f75461368b10_1710946829137,128,Mexico,Mexico City,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710947459973000,66ca8776-b60f-4a69-a636-28f0d7acbb6a,66ca8776-b60f-4a69-a636-28f0d7acbb6a_1710947458780,22,Hong Kong,Central,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710947946945000,66ca8776-b60f-4a69-a636-28f0d7acbb6a,66ca8776-b60f-4a69-a636-28f0d7acbb6a_1710947936575,329,Hong Kong,Central,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710948844354000,66ca8776-b60f-4a69-a636-28f0d7acbb6a,66ca8776-b60f-4a69-a636-28f0d7acbb6a_1710948842379,59,Hong Kong,Central,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710947279896000,0237bc6a-6200-4bcd-99a7-2f706f258e2d,0237bc6a-6200-4bcd-99a7-2f706f258e2d_1710947276145,8,United Kingdom,Waltham Forest,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710948057065000,ebb2d49b-6956-4130-900e-81a15789c31e,ebb2d49b-6956-4130-900e-81a15789c31e_1710948055321,74,Vietnam,Huế,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710946978718000,f353cbc4-f5b7-4497-8018-8a7c30a350bc,f353cbc4-f5b7-4497-8018-8a7c30a350bc_1710946935644,63,United States,Bangor,17,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710947288738000,f305973a-e0f3-461e-8db5-201125d67693,f305973a-e0f3-461e-8db5-201125d67693_1710947285014,126,United States,Flagstaff,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710947494743000,1212a472-9626-4bbf-8723-37769ce0269f,1212a472-9626-4bbf-8723-37769ce0269f_1710947492979,102,United States,Hialeah,16,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710948988218000,1212a472-9626-4bbf-8723-37769ce0269f,1212a472-9626-4bbf-8723-37769ce0269f_1710948983371,49,United States,Hialeah,16,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710948066378000,08bdd14e-0cd4-43db-8658-84d40af8d3e0,08bdd14e-0cd4-43db-8658-84d40af8d3e0_1710948063958,240,Denmark,Silkeborg,17,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710948503465000,bedae9b3-de8e-446f-a149-1dca49b8ea53,bedae9b3-de8e-446f-a149-1dca49b8ea53_1710948348494,113,Singapore,Singapore,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710948499659000,12a0eb47-610b-4354-b31e-541f8662b8c4,12a0eb47-610b-4354-b31e-541f8662b8c4_1710948498106,0,United States,Hialeah,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710949151346000,bde653f5-11fc-4579-af9a-de6cba808461,bde653f5-11fc-4579-af9a-de6cba808461_1710949148952,127,Germany,Cologne,16,Apple iPhone 8 Plus,amplitude,,,2.22.0
+session_start,1710949219243000,648c05f3-c580-4d84-b71e-0d53782916db,648c05f3-c580-4d84-b71e-0d53782916db_1710949217185,209,United States,Carmichael,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710949725850000,dd730561-49fb-440e-aa57-9b2473633c6b,dd730561-49fb-440e-aa57-9b2473633c6b_1710949724448,333,United States,Wynantskill,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710949851988000,1893bb4a-0e43-4a82-a921-721da958a10b,1893bb4a-0e43-4a82-a921-721da958a10b_1710949846935,172,United Arab Emirates,Dubai,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710259212439000,b544db4e-717b-4be0-af28-fa4b266bd081,b544db4e-717b-4be0-af28-fa4b266bd081_1710259211401,1,Canada,Maple Ridge,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710951109181000,b544db4e-717b-4be0-af28-fa4b266bd081,b544db4e-717b-4be0-af28-fa4b266bd081_1710951108105,18,Canada,Maple Ridge,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1708123772352000,418599a9-b149-453a-a712-fc687c2cca79,418599a9-b149-453a-a712-fc687c2cca79_1708123754100,0,United States,Stone Mountain,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710952920609000,418599a9-b149-453a-a712-fc687c2cca79,418599a9-b149-453a-a712-fc687c2cca79_1710952919610,0,United States,Stone Mountain,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710951815056000,1a29ac8a-94bd-4736-b517-0e77c5c84402,1a29ac8a-94bd-4736-b517-0e77c5c84402_1710951811443,324,United States,Reisterstown,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710950416880000,c6485f12-dc34-4e3d-8c73-88a248f25674,c6485f12-dc34-4e3d-8c73-88a248f25674_1710950415348,4,Norway,Heimdal,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710950985425000,c9c609e6-a10d-4dd3-99a3-cc94f756948d,c9c609e6-a10d-4dd3-99a3-cc94f756948d_1710950983595,0,United States,Milwaukee,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710950727751000,4bedb137-69bd-43bc-a40e-8181d55b6d91,4bedb137-69bd-43bc-a40e-8181d55b6d91_1710950721558,86,Portugal,Lisbon,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710950414029000,eae3989a-c9b6-465a-99eb-f87432b50d2c,eae3989a-c9b6-465a-99eb-f87432b50d2c_1710950412651,7,Switzerland,Zurich,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710953234528000,810d42be-967d-4587-a9af-45511d98b598,810d42be-967d-4587-a9af-45511d98b598_1710953228037,412,Canada,Toronto,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710952451995000,6cd83ec1-2cb5-48ff-8296-db84fff4eade,6cd83ec1-2cb5-48ff-8296-db84fff4eade_1710952436902,0,South Africa,Vredenburg,17,Apple iPhone 11 Pro Max,amplitude,,,2.22.0
+session_start,1710951315142000,cd8102de-e8c3-45c3-94ce-2b5d745178fe,cd8102de-e8c3-45c3-94ce-2b5d745178fe_1710951314307,14,United States,Austin,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710950961891000,140007c0-3870-4055-a59f-fe4bcfbd396a,140007c0-3870-4055-a59f-fe4bcfbd396a_1710950960705,1019,United States,West Linn,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710950955471000,130451ad-7b27-4045-904e-865f7e7a4c28,130451ad-7b27-4045-904e-865f7e7a4c28_1710950953819,2,Belgium,Brussels,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710953962459000,545b4924-81c5-4ea4-be94-ac41790c6707,545b4924-81c5-4ea4-be94-ac41790c6707_1710953957910,3,Turkey,Istanbul,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710950513405000,dd2a6dc4-61c7-4005-8894-f2d48b0a39b2,dd2a6dc4-61c7-4005-8894-f2d48b0a39b2_1710950438090,14,United States,Danville,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710952712558000,455c6cad-2d76-492f-b055-aca499189b80,455c6cad-2d76-492f-b055-aca499189b80_1710952710580,549,Netherlands,Amsterdam,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710951999485000,1991cecb-25cf-4ce7-8c70-3f4f2f8d655b,1991cecb-25cf-4ce7-8c70-3f4f2f8d655b_1710951998274,0,United States,Sonora,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710950409526000,29a8f462-a088-4424-9a70-1f623e23b332,29a8f462-a088-4424-9a70-1f623e23b332_1710950408044,115,Peru,Lima,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710950415204000,0b7ad612-af69-4f1b-af96-e2658c5f04c4,0b7ad612-af69-4f1b-af96-e2658c5f04c4_1710950414021,24,United States,Minneapolis,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710953063633000,d68f8254-eed1-47a8-9cf9-5c01d005833e,d68f8254-eed1-47a8-9cf9-5c01d005833e_1710953061826,98,United States,Miami,17,Apple iPad (9th generation),amplitude,,,2.22.0
+session_start,1710952748047000,42d0a2cc-17e0-4c74-8359-8ff9dc9e83b4,42d0a2cc-17e0-4c74-8359-8ff9dc9e83b4_1710952745630,9,Russia,St Petersburg,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710950416228000,8f08c23c-e314-458a-a6b6-3eb7c82257b1,8f08c23c-e314-458a-a6b6-3eb7c82257b1_1710950414555,0,Germany,Münnerstadt,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710950417927000,e0c442cd-324a-4594-a883-e17a92222fa3,e0c442cd-324a-4594-a883-e17a92222fa3_1710950417624,308,Germany,Mannheim,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710950905017000,cb77f9c4-6015-4226-848c-6b736439a2e4,cb77f9c4-6015-4226-848c-6b736439a2e4_1710950903627,2,Switzerland,Herisau,17,Apple iPhone 11 Pro Max,amplitude,,,2.22.0
+session_start,1710952766635000,0154b0aa-f0d1-4e27-8ffd-d420cdb53564,0154b0aa-f0d1-4e27-8ffd-d420cdb53564_1710952764717,17,United Kingdom,Sittingbourne,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710953154426000,76e1fd5c-8cb8-43c4-914c-4334dce9a0ed,76e1fd5c-8cb8-43c4-914c-4334dce9a0ed_1710953153375,0,United States,Santa Monica,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710952452652000,c77b995e-2c07-4c7a-acaa-a93c2f5db10d,c77b995e-2c07-4c7a-acaa-a93c2f5db10d_1710952448566,0,United States,Newport Beach,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710951993761000,10d7bfb2-8e7f-4a38-80d1-0a0f9abc0724,10d7bfb2-8e7f-4a38-80d1-0a0f9abc0724_1710951989145,0,Netherlands,Rhenen,16,Apple iPhone 8,amplitude,,,2.22.0
+session_start,1710953336838000,3cbbf2aa-8be4-4673-a918-cfd9b88e4cde,3cbbf2aa-8be4-4673-a918-cfd9b88e4cde_1710953330878,11,United States,Lodi,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710953248245000,079bcc5d-cc69-4b33-bf63-2bc0ed02a9cc,079bcc5d-cc69-4b33-bf63-2bc0ed02a9cc_1710953246249,69,Portugal,Viana do Castelo,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710952563922000,aeb1e736-6150-4418-8721-3f1dcd447144,aeb1e736-6150-4418-8721-3f1dcd447144_1710952559161,108,United States,Detroit,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710950958281000,ca38e912-d25b-4982-be5b-9dcb0b7850f9,ca38e912-d25b-4982-be5b-9dcb0b7850f9_1710950955217,9,Canada,Halifax,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710950440534000,75b3130c-b455-4ec0-b432-7cb4a09f590c,75b3130c-b455-4ec0-b432-7cb4a09f590c_1710950438832,36,United States,Kirkland,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710950431034000,f25d2d2f-a6c3-4cbc-a415-2487853c13ce,f25d2d2f-a6c3-4cbc-a415-2487853c13ce_1710950429395,241,United States,Santa Rosa,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710951119418000,ebf02415-c164-46c3-b8cd-f66d728fd8a9,ebf02415-c164-46c3-b8cd-f66d728fd8a9_1710951109267,0,Netherlands,Tilburg,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710950410439000,5bd09a46-d00d-4257-8c26-8be65cb9e704,5bd09a46-d00d-4257-8c26-8be65cb9e704_1710950408525,0,United States,Phoenix,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710952080661000,989b616c-2c48-41ee-ab25-794ee3559e2a,989b616c-2c48-41ee-ab25-794ee3559e2a_1710952080599,2,Sweden,Trelleborg,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710952397827000,26564fc2-9588-45fa-97d4-e53f23c206d7,26564fc2-9588-45fa-97d4-e53f23c206d7_1710952393983,26,United States,Boynton Beach,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710950414200000,22f376df-307e-4807-9b92-e14deabb4d19,22f376df-307e-4807-9b92-e14deabb4d19_1710950411575,1,Germany,Stuttgart,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710950591374000,ae301e01-5b1c-45e8-9743-6687a0ba3c5b,ae301e01-5b1c-45e8-9743-6687a0ba3c5b_1710950590113,44,United States,Palm Bay,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710673510864000,1e920dea-da66-46f5-a19e-596fe9b1516e,1e920dea-da66-46f5-a19e-596fe9b1516e_1710673491545,0,Portugal,Santiago do Cacem,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710952517444000,71e72f3d-ca37-4a6d-aba8-35c9c970411c,71e72f3d-ca37-4a6d-aba8-35c9c970411c_1710952514883,8,United States,Salt Lake City,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710438810898000,2ae37c2d-df01-4b7b-bdce-4b7f07499aff,2ae37c2d-df01-4b7b-bdce-4b7f07499aff_1710438808723,0,United States,Murrieta,17,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710953028021000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,707,United States,Essex Junction,17,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710950532181000,a8742e46-674e-4e48-9c55-a30d6c80c9f8,a8742e46-674e-4e48-9c55-a30d6c80c9f8_1710950529740,229,United Kingdom,Bournemouth,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710953690288000,1e3dc72c-060d-4d42-b164-86b9fc9cd09c,1e3dc72c-060d-4d42-b164-86b9fc9cd09c_1710953681846,12,Hong Kong,Central,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710951794146000,9aa31433-baf6-4beb-9fba-d20bb56fbcc0,9aa31433-baf6-4beb-9fba-d20bb56fbcc0_1710951792502,46,United States,Phoenix,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710952019180000,34e8433e-9153-45c3-bab9-637feedfd937,34e8433e-9153-45c3-bab9-637feedfd937_1710951998088,21,Netherlands,Rosmalen,16,Apple iPhone 8,amplitude,,,2.22.0
+session_start,1710951694704000,d399bc0b-e5d4-42b4-a45d-ff7fbe350769,d399bc0b-e5d4-42b4-a45d-ff7fbe350769_1710951691784,623,Turkey,Istanbul,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710952767806000,cba1d092-a740-4375-861b-8115769793da,cba1d092-a740-4375-861b-8115769793da_1710952765397,96,Sweden,Stockholm,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710950435490000,caa0e3e9-7aca-478d-a838-fc56318ed72e,caa0e3e9-7aca-478d-a838-fc56318ed72e_1710950433411,0,United States,Phoenix,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710704053626000,5e40333a-a156-485d-8251-94dd506d536d,5e40333a-a156-485d-8251-94dd506d536d_1710704051577,0,Mexico,,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710778351358000,0d098086-73aa-4953-bbe1-617ce331c48f,0d098086-73aa-4953-bbe1-617ce331c48f_1710778350145,0,Mexico,,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710861734993000,07e11396-d853-43fd-aa63-1b8c0964c9df,07e11396-d853-43fd-aa63-1b8c0964c9df_1710861733558,0,Mexico,,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710951590788000,358d98b2-a21b-48d6-b185-e7cb0ac47381,358d98b2-a21b-48d6-b185-e7cb0ac47381_1710951587735,364,Romania,Bucharest,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710782472698000,7059d4c2-e00b-45a1-860a-3f7647156f0d,7059d4c2-e00b-45a1-860a-3f7647156f0d_1710782469753,0,United States,Murrieta,17,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710867368400000,7059d4c2-e00b-45a1-860a-3f7647156f0d,7059d4c2-e00b-45a1-860a-3f7647156f0d_1710867366843,0,United States,Murrieta,17,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710521017843000,6071a5fa-bc44-4aa9-b18a-a752448aca71,6071a5fa-bc44-4aa9-b18a-a752448aca71_1710521016008,0,United States,Murrieta,17,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710612978181000,6071a5fa-bc44-4aa9-b18a-a752448aca71,6071a5fa-bc44-4aa9-b18a-a752448aca71_1710612976136,0,United States,Murrieta,17,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710692981050000,6071a5fa-bc44-4aa9-b18a-a752448aca71,6071a5fa-bc44-4aa9-b18a-a752448aca71_1710692979625,0,United States,Murrieta,17,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710951833849000,860147a9-05c0-4a9f-bc8e-1c66bf234a8b,860147a9-05c0-4a9f-bc8e-1c66bf234a8b_1710951831830,0,United States,Murrieta,17,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710952136813000,19283dae-93d8-4e00-8ff8-b13033fb6e9b,19283dae-93d8-4e00-8ff8-b13033fb6e9b_1710952135087,269,United States,,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710952299208000,340c0df3-804a-45fd-833d-4fbe3e9afef1,340c0df3-804a-45fd-833d-4fbe3e9afef1_1710952297041,173,United States,Sacramento,16,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710953277043000,e145e89a-f278-43ff-961d-e36dc4642773,e145e89a-f278-43ff-961d-e36dc4642773_1710953274193,334,Canada,Spruce Grove,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710953551456000,0457962e-6d99-4351-aa30-5b979dea326f,0457962e-6d99-4351-aa30-5b979dea326f_1710953547991,0,Cyprus,Limassol,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710953674532000,7d092379-98f0-41ea-95f4-3112bdbccfe0,7d092379-98f0-41ea-95f4-3112bdbccfe0_1710953672036,182,United Kingdom,Hengoed,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710953689481000,e8bd4165-a980-40fd-880e-32ea5a5e9e54,e8bd4165-a980-40fd-880e-32ea5a5e9e54_1710953686957,75,Portugal,Lisbon,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710953783594000,9463ea66-a85a-48d4-b0ee-f5645a24f913,9463ea66-a85a-48d4-b0ee-f5645a24f913_1710953780152,171,Germany,Kassel,16,Apple iPhone 8,amplitude,,,2.22.0
+session_start,1710957194429000,5ad06de2-6125-45d7-9b88-9f9968923bee,5ad06de2-6125-45d7-9b88-9f9968923bee_1710957192499,17,Romania,Bucharest,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710874822155000,115ea006-41f4-4c2e-81af-112f4d17745c,115ea006-41f4-4c2e-81af-112f4d17745c_1710874820657,0,Mexico,San Miguel de Allende,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710954011326000,115ea006-41f4-4c2e-81af-112f4d17745c,115ea006-41f4-4c2e-81af-112f4d17745c_1710954010172,0,Mexico,San Miguel de Allende,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710955149856000,9c7dec7a-8fae-4ede-8046-b2c50e56307a,9c7dec7a-8fae-4ede-8046-b2c50e56307a_1710955146273,255,Finland,Helsinki,17,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710957012690000,d0e7aadd-918c-4f09-a4f7-6e129b6f37f2,d0e7aadd-918c-4f09-a4f7-6e129b6f37f2_1710957004372,7,Israel,Haifa,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710644207320000,66d90dd4-4614-4e8e-b4ff-ab9f6a6eae10,66d90dd4-4614-4e8e-b4ff-ab9f6a6eae10_1710643135431,0,Mexico,Mérida,16,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710954025378000,66d90dd4-4614-4e8e-b4ff-ab9f6a6eae10,66d90dd4-4614-4e8e-b4ff-ab9f6a6eae10_1710954023832,51,Mexico,Mérida,16,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710956245129000,aa009389-51d7-42fb-a3a0-b97183b4200d,aa009389-51d7-42fb-a3a0-b97183b4200d_1710956231368,0,United Arab Emirates,Abu Dhabi,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710955792006000,ebccce23-27a2-4827-8a0b-05c8f4b3ec9e,ebccce23-27a2-4827-8a0b-05c8f4b3ec9e_1710955788102,63,Spain,Irun,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710955303882000,a39aad82-ec6c-4da4-ab1b-ead28a571f7a,a39aad82-ec6c-4da4-ab1b-ead28a571f7a_1710955299035,4,Belgium,Mol,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710956180997000,1f8654b9-8e75-4723-bd54-242492c3ef62,1f8654b9-8e75-4723-bd54-242492c3ef62_1710956178161,0,United States,Cincinnati,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710956102634000,891d9c83-e803-43bd-916b-bb097d571354,891d9c83-e803-43bd-916b-bb097d571354_1710956099189,0,United States,Carbondale,17,Apple iPhone 14 Pro,amplitude,,,2.15.1
+session_start,1710955581693000,b56d3037-8a73-470b-9af0-0110f69c1a2e,b56d3037-8a73-470b-9af0-0110f69c1a2e_1710955575309,0,United States,Phoenix,17,Apple iPhone 11 Pro Max,amplitude,,,2.22.0
+session_start,1710956397540000,b56d3037-8a73-470b-9af0-0110f69c1a2e,b56d3037-8a73-470b-9af0-0110f69c1a2e_1710956369226,84,United States,Phoenix,17,Apple iPhone 11 Pro Max,amplitude,,,2.22.0
+session_start,1710706697048000,5996c564-03e5-4a16-a79f-80a5723666b7,5996c564-03e5-4a16-a79f-80a5723666b7_1710706648629,0,Kenya,Nairobi,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710955595070000,5996c564-03e5-4a16-a79f-80a5723666b7,5996c564-03e5-4a16-a79f-80a5723666b7_1710955591573,36,Kenya,Nairobi,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710955543698000,f0280816-d0a8-45dc-9079-2f3a53f0315a,f0280816-d0a8-45dc-9079-2f3a53f0315a_1710955532209,25,Sweden,Stockholm,17,Apple iPhone 15 Plus,amplitude,,,2.22.0
+session_start,1710954071216000,049934fd-6478-4aa1-9262-7c1704dfab4f,049934fd-6478-4aa1-9262-7c1704dfab4f_1710954069857,0,United States,Sacramento,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710955595194000,488a6e98-3111-4d3a-a573-cefc5cc0d3d1,488a6e98-3111-4d3a-a573-cefc5cc0d3d1_1710955591102,99,United States,Portsmouth,16,Apple iPhone SE (3rd generation),amplitude,,,2.22.0
+session_start,1710956424447000,bece9af0-3849-464a-8d0e-5b6fca0a16dd,bece9af0-3849-464a-8d0e-5b6fca0a16dd_1710956421132,80,United States,Jersey City,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710955111329000,5470ff78-71c4-43e4-8093-382aa08eab2b,5470ff78-71c4-43e4-8093-382aa08eab2b_1710955104202,99,United States,Minneapolis,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710956156189000,cf84f414-6e04-4ff9-a4da-a6ae2cd98901,cf84f414-6e04-4ff9-a4da-a6ae2cd98901_1710956154828,0,United States,,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710957274182000,7a284a01-cde8-49ae-a8a8-41e4b5418c3f,7a284a01-cde8-49ae-a8a8-41e4b5418c3f_1710957272729,551,United States,Dallas,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710956056157000,7f6316bd-4b02-4d30-93e1-83c92720fad9,7f6316bd-4b02-4d30-93e1-83c92720fad9_1710956050661,27,United States,Charlotte,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710954188078000,935cd7f2-e00a-4418-9b6c-941e0d154e36,935cd7f2-e00a-4418-9b6c-941e0d154e36_1710953893213,14,United States,Upper Marlboro,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710955784623000,edebe0d1-06a6-40a2-97a0-3c51afe16b93,edebe0d1-06a6-40a2-97a0-3c51afe16b93_1710955782931,5,United States,Scottsdale,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710954011464000,791d1eb6-06af-443b-9440-23b0e2d7cf69,791d1eb6-06af-443b-9440-23b0e2d7cf69_1710954010132,59,United Kingdom,City of Westminster,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710956412676000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710956407668,212,United States,Dawsonville,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710956658770000,620b972d-6c49-4f09-9398-b17e29d2f801,620b972d-6c49-4f09-9398-b17e29d2f801_1710956650994,22,Chile,Santiago,17,Apple iPad Pro 11 inch 2nd Gen,amplitude,,,2.22.0
+session_start,1710867825724000,153d258a-3a89-4266-b829-cbbe65ba4518,153d258a-3a89-4266-b829-cbbe65ba4518_1710867820447,0,Poland,Katowice,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710956439055000,153d258a-3a89-4266-b829-cbbe65ba4518,153d258a-3a89-4266-b829-cbbe65ba4518_1710956434919,6,Poland,Katowice,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710636978955000,255400e6-2941-4bd9-89e3-8f7e04ecdc68,255400e6-2941-4bd9-89e3-8f7e04ecdc68_1710636961120,0,Mexico,Juchitán de Zaragoza,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710954010363000,255400e6-2941-4bd9-89e3-8f7e04ecdc68,255400e6-2941-4bd9-89e3-8f7e04ecdc68_1710954008297,48,Mexico,Juchitán de Zaragoza,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710954064420000,7868e5fe-2cc3-4264-9966-00f9a6952005,7868e5fe-2cc3-4264-9966-00f9a6952005_1710954062893,417,United States,Phoenix,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710954037482000,77b5ce9f-ba22-4f38-a5de-8c18f5c31e4d,77b5ce9f-ba22-4f38-a5de-8c18f5c31e4d_1710954036716,139,United States,Covington,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710954046763000,c066a67b-1f82-4083-8563-307a164a6d0a,c066a67b-1f82-4083-8563-307a164a6d0a_1710954040986,29,United States,Salt Lake City,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710955144959000,cf61de4d-eb1e-4ff7-bdab-f6e2f4354497,cf61de4d-eb1e-4ff7-bdab-f6e2f4354497_1710955142643,0,United Kingdom,Southwark,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710955865478000,debf176d-6efb-4af8-95fd-695c39df2811,debf176d-6efb-4af8-95fd-695c39df2811_1710955862112,0,Canada,Lethbridge,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710956677184000,3f795ad6-3694-4d5d-a83f-9c652a4e62f3,3f795ad6-3694-4d5d-a83f-9c652a4e62f3_1710956673696,0,United States,Denver,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710955375593000,17aa38d2-724a-434f-8000-b86ebd4a7fe1,17aa38d2-724a-434f-8000-b86ebd4a7fe1_1710955335512,351,Russia,St Petersburg,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710957232346000,93b0a42d-6fe3-4410-a40d-c08db101a72a,93b0a42d-6fe3-4410-a40d-c08db101a72a_1710957226111,0,United States,Washington,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710954443130000,f6ae646a-db06-499c-92f9-485c94173591,f6ae646a-db06-499c-92f9-485c94173591_1710954440438,35,United States,Atlanta,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710957342097000,74529d66-ce69-4d13-9031-ef44d2c65c12,74529d66-ce69-4d13-9031-ef44d2c65c12_1710957331986,292,United States,Ashburn,16,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710957304107000,f25d2d2f-a6c3-4cbc-a415-2487853c13ce,f25d2d2f-a6c3-4cbc-a415-2487853c13ce_1710957300492,47,United States,Santa Rosa,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710955000432000,1b70ecdf-eaa5-49a3-bacc-0d78683ffdc2,1b70ecdf-eaa5-49a3-bacc-0d78683ffdc2_1710954998163,11,Sweden,Stockholm,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710608411634000,48423f17-ab8e-4f36-9953-03240b616668,48423f17-ab8e-4f36-9953-03240b616668_1710608410420,1,United States,Philadelphia,16,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710954018041000,48423f17-ab8e-4f36-9953-03240b616668,48423f17-ab8e-4f36-9953-03240b616668_1710954017222,0,United States,Philadelphia,16,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710957385750000,1b63ea8c-91b7-4149-9ee6-f85eff6c3168,1b63ea8c-91b7-4149-9ee6-f85eff6c3168_1710957381468,176,Sweden,Bollebygd,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710954016647000,3421c85b-ea98-478f-a1a9-e6b68382b2f1,3421c85b-ea98-478f-a1a9-e6b68382b2f1_1710954014316,8,United Kingdom,Edgware,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710763715780000,1b4ef0a9-47c6-462f-abb6-edbcc40b10ca,1b4ef0a9-47c6-462f-abb6-edbcc40b10ca_1710763696340,0,Belgium,Roeselare,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710957477811000,78fbfbba-4b08-497f-a3fd-a66e79097c05,78fbfbba-4b08-497f-a3fd-a66e79097c05_1710957422527,440,Canada,Toronto,17,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710828785614000,b7723adb-af5c-402d-b896-e0ca7cbf043a,b7723adb-af5c-402d-b896-e0ca7cbf043a_1710828766095,0,Russia,Cheboksary,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710914496077000,b7723adb-af5c-402d-b896-e0ca7cbf043a,b7723adb-af5c-402d-b896-e0ca7cbf043a_1710914493470,17,Russia,Cheboksary,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710957104451000,b7723adb-af5c-402d-b896-e0ca7cbf043a,b7723adb-af5c-402d-b896-e0ca7cbf043a_1710957101813,29,Russia,Cheboksary,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710955169436000,e10c479f-427f-4b8c-ad11-79423ce515e2,e10c479f-427f-4b8c-ad11-79423ce515e2_1710955168455,5,United States,Avon,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710956363414000,9e5261c5-3c2f-44ed-81ff-3f12cc20df38,9e5261c5-3c2f-44ed-81ff-3f12cc20df38_1710956279022,463,Ukraine,Sambir,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710954364676000,9463ea66-a85a-48d4-b0ee-f5645a24f913,9463ea66-a85a-48d4-b0ee-f5645a24f913_1710954358364,296,Germany,Kassel,16,Apple iPhone 8,amplitude,,,2.22.0
+session_start,1710954249975000,10f0e408-8881-4896-9011-82a4bdd4ca3c,10f0e408-8881-4896-9011-82a4bdd4ca3c_1710954248024,439,United States,Covington,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710954446574000,70facd3e-c6b7-4678-97e8-c449d1c970ce,70facd3e-c6b7-4678-97e8-c449d1c970ce_1710954444106,465,United States,Fontana,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710955984176000,9a3cb6fb-d312-4e11-b938-7a9176bdb779,9a3cb6fb-d312-4e11-b938-7a9176bdb779_1710955982080,156,Ukraine,Sambir,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710955894478000,754e052f-8455-4e6f-9391-dc29e0df1ebe,754e052f-8455-4e6f-9391-dc29e0df1ebe_1710955892277,264,United Kingdom,Welwyn Garden City,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710956231393000,7be41001-5fbe-4e47-8866-e0637264b753,7be41001-5fbe-4e47-8866-e0637264b753_1710956229054,58,United States,Sturgis,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710956314762000,e3d05cd6-17d0-46b4-a0fb-c2e600ea1596,e3d05cd6-17d0-46b4-a0fb-c2e600ea1596_1710956311715,723,Germany,Frankfurt am Main,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710956281332000,fe485686-83ee-4ce4-98c2-de535dfc125d,fe485686-83ee-4ce4-98c2-de535dfc125d_1710956279022,76,Ukraine,Sambir,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710956814786000,b2da4615-0795-4a00-ab71-ee8ea90b3398,b2da4615-0795-4a00-ab71-ee8ea90b3398_1710956812237,180,United States,Santa Ana,17,Apple iPhone XR,amplitude,,,2.22.0
+session_start,1710957295706000,613a4ec3-2747-40a7-a67d-dd6f11fde728,613a4ec3-2747-40a7-a67d-dd6f11fde728_1710957294121,171,United States,Hewlett,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710958863070000,c4fb7820-3a02-4ceb-a0ac-b56b2645cddd,c4fb7820-3a02-4ceb-a0ac-b56b2645cddd_1710958856789,26,Russia,Moscow,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710957781014000,2d0a97c5-357d-4f49-8ab3-3ccfa12f4f19,2d0a97c5-357d-4f49-8ab3-3ccfa12f4f19_1710957778934,54,Sweden,Västerås,16,Apple iPhone XS,amplitude,,,2.22.0
+session_start,1710957614973000,385f919f-3c98-4a80-b3b8-e12cd19d3247,385f919f-3c98-4a80-b3b8-e12cd19d3247_1710957613705,42,United States,Santa Ana,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710958579956000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,3570,United States,Bend,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710957637899000,10a4a398-1203-463d-9e2a-80fa7c8d98bf,10a4a398-1203-463d-9e2a-80fa7c8d98bf_1710957630419,0,United States,Sacramento,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710959260291000,c9c609e6-a10d-4dd3-99a3-cc94f756948d,c9c609e6-a10d-4dd3-99a3-cc94f756948d_1710959257008,0,United States,Milwaukee,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1706820402488000,f8424744-fbcc-48cf-bc2f-412cb9d3f234,f8424744-fbcc-48cf-bc2f-412cb9d3f234_1706820400952,0,Canada,Ladysmith,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710958683001000,f8424744-fbcc-48cf-bc2f-412cb9d3f234,f8424744-fbcc-48cf-bc2f-412cb9d3f234_1710958681381,52,Canada,Ladysmith,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710957701478000,41a2aeba-c6d8-43f1-a3b6-885c90f1dcdb,41a2aeba-c6d8-43f1-a3b6-885c90f1dcdb_1710957699337,0,United States,Las Vegas,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710957699533000,a6d42d8c-2c39-4c79-a375-135a28eb2702,a6d42d8c-2c39-4c79-a375-135a28eb2702_1710957695752,115,Australia,Brisbane,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710958964729000,5cda8b4b-6393-4de7-9071-d900b358886d,5cda8b4b-6393-4de7-9071-d900b358886d_1710958960273,34,United States,Grand Prairie,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710959608364000,b45818a8-5995-4b59-bdf9-c8a0b415d1cd,b45818a8-5995-4b59-bdf9-c8a0b415d1cd_1710959606122,40,United States,Scottsdale,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710960302427000,9ca2716f-9bcc-4104-a0b8-555bd9cbf906,9ca2716f-9bcc-4104-a0b8-555bd9cbf906_1710960299342,20,United States,New York,16,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710959562220000,e31d83d0-ff4c-490d-9ac1-e613307951de,e31d83d0-ff4c-490d-9ac1-e613307951de_1710959560830,0,United States,Slidell,16,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710960752197000,488a6e98-3111-4d3a-a573-cefc5cc0d3d1,488a6e98-3111-4d3a-a573-cefc5cc0d3d1_1710960749732,0,United States,,16,Apple iPhone SE (3rd generation),amplitude,,,2.22.0
+session_start,1710959115628000,5c90c1b6-4b3d-4740-b3e2-f19d0b2d8114,5c90c1b6-4b3d-4740-b3e2-f19d0b2d8114_1710959110567,351,Indonesia,Jakarta,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710959891531000,545b4924-81c5-4ea4-be94-ac41790c6707,545b4924-81c5-4ea4-be94-ac41790c6707_1710959885219,657,Turkey,Istanbul,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710957625925000,2a151174-0c35-4478-9f86-98a97386df43,2a151174-0c35-4478-9f86-98a97386df43_1710957624703,13,United States,Wichita,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710957942575000,f42a6126-5420-48af-aa66-f70bd8a5d1ff,f42a6126-5420-48af-aa66-f70bd8a5d1ff_1710957940188,46,Netherlands,Velserbroek,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710958960878000,7a284a01-cde8-49ae-a8a8-41e4b5418c3f,7a284a01-cde8-49ae-a8a8-41e4b5418c3f_1710958883897,65,United States,Dallas,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710959173885000,049473c6-f18f-4e61-a85d-30009472ba20,049473c6-f18f-4e61-a85d-30009472ba20_1710959160829,77,United States,Silver Spring,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710958290583000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710958288851,8,United States,Dawsonville,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1707797189770000,fbaa7e63-3be5-436c-a7ce-56fe37336feb,fbaa7e63-3be5-436c-a7ce-56fe37336feb_1707797188455,7,United States,Crestline,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710958918272000,fbaa7e63-3be5-436c-a7ce-56fe37336feb,fbaa7e63-3be5-436c-a7ce-56fe37336feb_1710958915804,100,United States,Crestline,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710957618301000,3cbbf2aa-8be4-4673-a918-cfd9b88e4cde,3cbbf2aa-8be4-4673-a918-cfd9b88e4cde_1710957617812,0,United States,Lodi,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710959325562000,b3f23fd5-b3bd-4c14-a3c4-0e46fb279826,b3f23fd5-b3bd-4c14-a3c4-0e46fb279826_1710959323505,26,Canada,North York,17,Apple iPhone SE (3rd generation),amplitude,,,2.22.0
+session_start,1710958312921000,079bcc5d-cc69-4b33-bf63-2bc0ed02a9cc,079bcc5d-cc69-4b33-bf63-2bc0ed02a9cc_1710958312857,1,Portugal,Guimarães,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710823738925000,140fd3b1-9e7a-4807-a3bf-59790f0546ac,140fd3b1-9e7a-4807-a3bf-59790f0546ac_1710823720460,0,United States,Boardman,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710958821462000,debf176d-6efb-4af8-95fd-695c39df2811,debf176d-6efb-4af8-95fd-695c39df2811_1710958817469,20,Canada,Lethbridge,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710959866643000,35760e7d-55f3-42dd-a211-f7ecefb1ae14,35760e7d-55f3-42dd-a211-f7ecefb1ae14_1710959861050,2,United Kingdom,Sale,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710960369669000,35760e7d-55f3-42dd-a211-f7ecefb1ae14,35760e7d-55f3-42dd-a211-f7ecefb1ae14_1710960366790,0,United Kingdom,Sale,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710960321417000,5bcd7a56-12f9-4f61-aed0-d9251911c56e,5bcd7a56-12f9-4f61-aed0-d9251911c56e_1710960319362,17,Netherlands,Amsterdam,17,Apple iPhone 15 Plus,amplitude,,,2.22.0
+session_start,1710960904508000,f2a3eff0-c899-4a7c-9bcf-908320d94264,f2a3eff0-c899-4a7c-9bcf-908320d94264_1710960900009,53,Argentina,Córdoba,14,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710957863569000,edb1880a-d89c-4a48-8b77-1711182bd917,edb1880a-d89c-4a48-8b77-1711182bd917_1710957860501,584,United States,Santa Ana,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710960344450000,1e3dc72c-060d-4d42-b164-86b9fc9cd09c,1e3dc72c-060d-4d42-b164-86b9fc9cd09c_1710960341218,22,Hong Kong,Central,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710959123304000,185f7736-4b95-415c-b4ab-eb30de619c62,185f7736-4b95-415c-b4ab-eb30de619c62_1710959122641,10,United States,Alexandria,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710960636232000,08d0be44-a87a-43ae-9a20-e5834c163172,08d0be44-a87a-43ae-9a20-e5834c163172_1710960636107,163,United States,San Antonio,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710958057642000,1527105e-e51c-49fa-872e-5bca784bf02c,1527105e-e51c-49fa-872e-5bca784bf02c_1710958056086,242,United States,Brooklyn,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710958676069000,9d824d4e-61e4-420f-8190-589e2820254e,9d824d4e-61e4-420f-8190-589e2820254e_1710958672750,0,Australia,Melbourne,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710960576255000,358d98b2-a21b-48d6-b185-e7cb0ac47381,358d98b2-a21b-48d6-b185-e7cb0ac47381_1710960570587,227,Romania,Bucharest,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710958044604000,c034d34d-178d-4f00-8e38-0247c60f9a13,c034d34d-178d-4f00-8e38-0247c60f9a13_1710958042517,386,Portugal,Rio Tinto,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710958274393000,b8d4d9a6-fe3f-4cfa-b9f2-be005da20913,b8d4d9a6-fe3f-4cfa-b9f2-be005da20913_1710958272412,131,United States,Surprise,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710958407288000,139e40f8-e1ae-4e99-a906-bd4e837c05d0,139e40f8-e1ae-4e99-a906-bd4e837c05d0_1710958404904,632,United Kingdom,Lambeth,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710958551595000,0780ced4-b873-4600-aea0-65b555d79d91,0780ced4-b873-4600-aea0-65b555d79d91_1710958548376,128,Austria,Scharnstein,17,Apple iPhone XR,amplitude,,,2.22.0
+session_start,1710958825541000,3cd5a1fe-a65e-4ea8-807e-c1708bc9e30c,3cd5a1fe-a65e-4ea8-807e-c1708bc9e30c_1710958823410,212,United States,Idyllwild,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710959202517000,fafe17ba-083d-4b4d-9502-634ab6418447,fafe17ba-083d-4b4d-9502-634ab6418447_1710959188542,123,Kazakhstan,Astana,16,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710959384927000,67ba6b68-0366-4be5-8fb3-b6dbb5378d42,67ba6b68-0366-4be5-8fb3-b6dbb5378d42_1710959383411,236,United States,Austin,17,Apple iPhone 15 Plus,amplitude,,,2.22.0
+session_start,1710959961721000,f13ce10b-9919-4305-b4c6-6be9869ea6f2,f13ce10b-9919-4305-b4c6-6be9869ea6f2_1710959960291,138,United States,Detroit,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710960070769000,47065e0d-7838-4f27-9d2a-4a0cbe531fb4,47065e0d-7838-4f27-9d2a-4a0cbe531fb4_1710960067373,0,Portugal,Oeiras,16,"Apple iPad 10.2"" 8th Gen (Wi-Fi Only)",amplitude,,,2.22.0
+session_start,1710960027126000,33566200-bfbf-45aa-81d2-cba9a7a51861,33566200-bfbf-45aa-81d2-cba9a7a51861_1710960024513,171,Sweden,Falun,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710960472680000,a97cfd04-3554-4b6a-854a-9a3c51e14e6f,a97cfd04-3554-4b6a-854a-9a3c51e14e6f_1710960470179,107,Germany,Buxtehude,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710960673032000,f7665812-d273-4ed7-87f7-b8dbe8034d4a,f7665812-d273-4ed7-87f7-b8dbe8034d4a_1710960670751,279,United States,Waxahachie,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710961428902000,1a29ac8a-94bd-4736-b517-0e77c5c84402,1a29ac8a-94bd-4736-b517-0e77c5c84402_1710961426421,79,United States,Reisterstown,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710962186654000,613ea8c4-3908-45fd-a165-071e10b0319e,613ea8c4-3908-45fd-a165-071e10b0319e_1710962181324,44,Lithuania,Kaunas,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710962314663000,aa009389-51d7-42fb-a3a0-b97183b4200d,aa009389-51d7-42fb-a3a0-b97183b4200d_1710962296139,19,United Arab Emirates,Abu Dhabi,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710962572380000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710962567553,366,United States,Bend,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710963672623000,2b969b36-e4f8-4503-b70b-e99eaeed7cf4,2b969b36-e4f8-4503-b70b-e99eaeed7cf4_1710963539324,14,Kazakhstan,Almaty,16,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710964140144000,2b969b36-e4f8-4503-b70b-e99eaeed7cf4,2b969b36-e4f8-4503-b70b-e99eaeed7cf4_1710964121382,1621,Kazakhstan,Almaty,16,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710961564080000,91ee287d-6545-463a-bf7b-4324b709d025,91ee287d-6545-463a-bf7b-4324b709d025_1710961563536,60,United States,Fairmont,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710963379342000,c9c609e6-a10d-4dd3-99a3-cc94f756948d,c9c609e6-a10d-4dd3-99a3-cc94f756948d_1710963376631,177,United States,Milwaukee,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710963237693000,d429f7aa-1bdf-4318-a70c-8a6850394f7c,d429f7aa-1bdf-4318-a70c-8a6850394f7c_1710963236740,594,United States,Hampstead,17,Apple iPhone 12 Pro,amplitude,,,2.18.2
+session_start,1710961220669000,488a6e98-3111-4d3a-a573-cefc5cc0d3d1,488a6e98-3111-4d3a-a573-cefc5cc0d3d1_1710961220650,50,United States,,16,Apple iPhone SE (3rd generation),amplitude,,,2.22.0
+session_start,1710964389931000,9f2c0985-53d9-40c7-bfcf-a04c170738d3,9f2c0985-53d9-40c7-bfcf-a04c170738d3_1710964386288,0,United States,San Francisco,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710961244295000,07cc2b03-92ca-4c7a-8406-6659020bda60,07cc2b03-92ca-4c7a-8406-6659020bda60_1710961242981,8,United States,Charlotte,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710724594179000,d640a6b6-98e9-478c-b0aa-13b6ccf99f7a,d640a6b6-98e9-478c-b0aa-13b6ccf99f7a_1710724592430,0,Denmark,Taastrup,16,Apple iPhone X,amplitude,,,2.22.0
+session_start,1710962409469000,d640a6b6-98e9-478c-b0aa-13b6ccf99f7a,d640a6b6-98e9-478c-b0aa-13b6ccf99f7a_1710962400046,33,Denmark,Taastrup,16,Apple iPhone X,amplitude,,,2.22.0
+session_start,1710964421838000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710964419132,0,United States,Dawsonville,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710961467600000,801424dc-b898-4f37-8cf8-f8095dff07cb,801424dc-b898-4f37-8cf8-f8095dff07cb_1710961466602,1,United States,North Liberty,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710961409707000,48cafcc3-23fc-49cd-8e8c-834382ee7858,48cafcc3-23fc-49cd-8e8c-834382ee7858_1710961408387,51,United States,Milwaukee,17,"Apple iPad Pro 12.9"" (Wi-Fi Only - 6th Gen)",amplitude,,,2.22.0
+session_start,1710961220581000,f2556339-8788-4e38-a6ff-a3a733f57328,f2556339-8788-4e38-a6ff-a3a733f57328_1710961219665,77,United States,Newark,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710963363914000,66b3ceab-543e-4864-9072-10bfceb2d3ef,66b3ceab-543e-4864-9072-10bfceb2d3ef_1710963357416,347,Netherlands,Beek,15,Apple iPhone 6s,amplitude,,,2.22.0
+session_start,1710963393243000,d67c949b-e509-4865-bcfd-819353eb1cae,d67c949b-e509-4865-bcfd-819353eb1cae_1710963391400,245,United States,Miami,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710962586507000,ce865c26-0631-4f82-ad17-759486a10210,ce865c26-0631-4f82-ad17-759486a10210_1710962580264,17,United States,Grand Junction,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710963863903000,9cd4dce8-0f80-4f0d-962f-39ddcfe090e2,9cd4dce8-0f80-4f0d-962f-39ddcfe090e2_1710963861771,0,United States,Sacramento,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710963181622000,1de827a4-4317-42ed-8255-6d817315f867,1de827a4-4317-42ed-8255-6d817315f867_1710963177472,86,Germany,Augsburg,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710961425160000,6147e37b-c430-4917-b708-648c90027c2d,6147e37b-c430-4917-b708-648c90027c2d_1710961420214,63,United States,Charlotte,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710955627949000,1458219b-3e51-4cf8-917a-b55f02497328,1458219b-3e51-4cf8-917a-b55f02497328_1710955543250,0,Germany,Berlin,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710963921888000,1458219b-3e51-4cf8-917a-b55f02497328,1458219b-3e51-4cf8-917a-b55f02497328_1710963918356,0,Germany,Berlin,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710962852047000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710962845357,269,Costa Rica,San José,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710964587673000,74529d66-ce69-4d13-9031-ef44d2c65c12,74529d66-ce69-4d13-9031-ef44d2c65c12_1710964580085,25,United States,Ashburn,16,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710963516609000,1b63ea8c-91b7-4149-9ee6-f85eff6c3168,1b63ea8c-91b7-4149-9ee6-f85eff6c3168_1710963474816,3,Sweden,Bollebygd,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710964645622000,3421c85b-ea98-478f-a1a9-e6b68382b2f1,3421c85b-ea98-478f-a1a9-e6b68382b2f1_1710964643145,0,United Kingdom,Edgware,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710962123056000,00452094-4551-4729-9d69-891bba2298b9,00452094-4551-4729-9d69-891bba2298b9_1710962119201,0,United States,Miami,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710964087616000,ee604c90-e700-460a-889f-854a10964d91,ee604c90-e700-460a-889f-854a10964d91_1710964083204,0,United States,Goldsboro,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710961678181000,87dd0e95-a2b7-4820-bf1b-3fef227b6509,87dd0e95-a2b7-4820-bf1b-3fef227b6509_1710961677076,215,United States,Miami,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710962247088000,846d9a73-fe71-4956-a33a-8a5a1a74870b,846d9a73-fe71-4956-a33a-8a5a1a74870b_1710962245539,111,Canada,Nanaimo,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710961238328000,70facd3e-c6b7-4678-97e8-c449d1c970ce,70facd3e-c6b7-4678-97e8-c449d1c970ce_1710961212244,249,United States,Fontana,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710962323899000,70facd3e-c6b7-4678-97e8-c449d1c970ce,70facd3e-c6b7-4678-97e8-c449d1c970ce_1710962323866,7,United States,Fontana,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710962718685000,e3d05cd6-17d0-46b4-a0fb-c2e600ea1596,e3d05cd6-17d0-46b4-a0fb-c2e600ea1596_1710962657140,113,Germany,Frankfurt am Main,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710962412913000,a5687e3f-238b-4046-9630-203ac357133c,a5687e3f-238b-4046-9630-203ac357133c_1710962411514,166,United States,Chesapeake,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710963190185000,a5687e3f-238b-4046-9630-203ac357133c,a5687e3f-238b-4046-9630-203ac357133c_1710963001125,40,United States,Chesapeake,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710962783271000,feaa141b-236c-4a80-9100-852e15177bc4,feaa141b-236c-4a80-9100-852e15177bc4_1710962653047,0,Ukraine,Dnipro,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710963443131000,d9150ab5-8943-4a62-af74-d8dc1173c0d5,d9150ab5-8943-4a62-af74-d8dc1173c0d5_1710963440171,0,United States,,16,Apple iPhone,amplitude,,,2.19.0
+session_start,1710963443010000,5f2ff7e6-c6c8-4722-8543-660d88509508,5f2ff7e6-c6c8-4722-8543-660d88509508_1710963440040,0,Germany,Berlin,121,Windows,amplitude,,,2.19.0
+session_start,1710963542722000,483a22d4-e28c-481a-a1a2-74947f57a4dc,483a22d4-e28c-481a-a1a2-74947f57a4dc_1710963539324,113,Kazakhstan,Almaty,16,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710964016595000,75811077-a7e4-4c60-a638-738c76412c4e,75811077-a7e4-4c60-a638-738c76412c4e_1710964013625,0,Finland,Koski,89,Windows,amplitude,,,2.19.0
+session_start,1710964018924000,ff03e4a9-140d-40b2-8b03-cf5baba94e3a,ff03e4a9-140d-40b2-8b03-cf5baba94e3a_1710964015954,0,Austria,Vienna,17,Apple iPhone,amplitude,,,2.19.0
+session_start,1710901234349000,9075abe3-e94d-43b5-a6b8-5f1d9ecc8c01,9075abe3-e94d-43b5-a6b8-5f1d9ecc8c01_1710901231848,0,Lithuania,Vilnius,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710901513800000,5bf230ce-6055-4917-a92f-b644baf15ec0,5bf230ce-6055-4917-a92f-b644baf15ec0_1710901512256,50,United States,Clifton,17,Apple iPhone XR,amplitude,,,2.22.0
+session_start,1710901476229000,0c214761-c0c8-44a7-947f-958eec20a5b9,0c214761-c0c8-44a7-947f-958eec20a5b9_1710901475238,245,United States,Nashville,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710902750386000,25afcd7a-aef2-412f-a36a-6a8f640868d5,25afcd7a-aef2-412f-a36a-6a8f640868d5_1710902746857,38,Hong Kong,Hong Kong,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710901284480000,a0bbce3c-765d-47f6-9f1b-123b9f28e7c9,a0bbce3c-765d-47f6-9f1b-123b9f28e7c9_1710901280501,48,United States,Las Vegas,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710902271569000,935cd7f2-e00a-4418-9b6c-941e0d154e36,935cd7f2-e00a-4418-9b6c-941e0d154e36_1710902261291,18,United States,Upper Marlboro,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710901185583000,4885bd36-d1c1-417b-bc55-7df13b6d3865,4885bd36-d1c1-417b-bc55-7df13b6d3865_1710901184565,32,Canada,LaSalle,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710901040320000,63ef6921-5bae-4d14-99d7-46699b13783a,63ef6921-5bae-4d14-99d7-46699b13783a_1710901037362,0,Thailand,Bangkok,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710901044611000,a7dbfbe1-2863-48eb-b8cf-2fc25e0801f9,a7dbfbe1-2863-48eb-b8cf-2fc25e0801f9_1710901041389,74,Chile,Santiago,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710810750338000,20d6256f-b46c-4075-94ff-0bc24eef82fd,20d6256f-b46c-4075-94ff-0bc24eef82fd_1710810746035,21,Singapore,Singapore,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710903497084000,20d6256f-b46c-4075-94ff-0bc24eef82fd,20d6256f-b46c-4075-94ff-0bc24eef82fd_1710903492714,0,Singapore,Singapore,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710900967614000,cfdf94d2-9bbe-4cfd-b9e2-c8dde91c065f,cfdf94d2-9bbe-4cfd-b9e2-c8dde91c065f_1710900961405,706,Canada,Medicine Hat,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710902946074000,463ec119-4f78-49ae-ab08-d929a1789e92,463ec119-4f78-49ae-ab08-d929a1789e92_1710902944093,172,United States,Los Angeles,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1709917981148000,ec44ed27-dc24-44d8-baed-c7aacb5cd9e6,ec44ed27-dc24-44d8-baed-c7aacb5cd9e6_1709917978614,0,United States,Pomona,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710900845433000,ec44ed27-dc24-44d8-baed-c7aacb5cd9e6,ec44ed27-dc24-44d8-baed-c7aacb5cd9e6_1710900843456,0,United States,Pomona,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710901279184000,d4f3a9fe-5309-41f5-b855-1d8a8102419c,d4f3a9fe-5309-41f5-b855-1d8a8102419c_1710901274416,29,United States,Brookline,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710902697681000,5cb84f48-54e4-4ac7-9bc0-17a47fb083bb,5cb84f48-54e4-4ac7-9bc0-17a47fb083bb_1710902696009,0,United States,Windsor,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710902236614000,262cbe0a-6288-41e8-990b-ffd071fcba8f,262cbe0a-6288-41e8-990b-ffd071fcba8f_1710902235765,152,United States,West Hempstead,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710903214414000,1e3dc72c-060d-4d42-b164-86b9fc9cd09c,1e3dc72c-060d-4d42-b164-86b9fc9cd09c_1710903210746,102,Hong Kong,Central,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710901613741000,053794da-afb9-4c28-bffd-e94246c0dc30,053794da-afb9-4c28-bffd-e94246c0dc30_1710901605161,0,United States,Brooklyn,16,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710901011736000,5484c2b5-d1c3-42c3-8c04-0db14acf80c7,5484c2b5-d1c3-42c3-8c04-0db14acf80c7_1710901010293,44,Canada,Toronto,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710900972362000,9a874124-8bf1-4070-8cca-68a006a36a37,9a874124-8bf1-4070-8cca-68a006a36a37_1710900966657,1172,United States,Cypress,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710900250796000,666b8437-0932-4c1c-9ed9-2dae32a31583,666b8437-0932-4c1c-9ed9-2dae32a31583_1710900248633,273,United Kingdom,Newton Abbot,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710901185838000,a1aebf8a-ae35-49d3-8fbe-cc8c7b6e4f7a,a1aebf8a-ae35-49d3-8fbe-cc8c7b6e4f7a_1710901181541,555,Australia,Brisbane,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710901378932000,47906572-0bea-42fb-a516-ad379f3bac30,47906572-0bea-42fb-a516-ad379f3bac30_1710901377274,188,United States,Fort Myers,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710901910708000,ce5e2ac1-c0ed-4b54-b142-7f4d2634c750,ce5e2ac1-c0ed-4b54-b142-7f4d2634c750_1710901908091,203,Peru,,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710902254936000,fa419654-fd24-4f79-bc38-664d3dfb73a1,fa419654-fd24-4f79-bc38-664d3dfb73a1_1710902252983,117,United States,Rancho Cucamonga,16,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710902940208000,d2b54ad0-dda0-4fe2-aab9-4663f5e86b54,d2b54ad0-dda0-4fe2-aab9-4663f5e86b54_1710902938133,936,United States,Redwood City,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710903535921000,1d8f7753-c780-42c7-aed1-fd6cf81d1716,1d8f7753-c780-42c7-aed1-fd6cf81d1716_1710903534110,30,United States,Walnut,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710965282783000,c4fb7820-3a02-4ceb-a0ac-b56b2645cddd,c4fb7820-3a02-4ceb-a0ac-b56b2645cddd_1710965272849,3,Russia,Moscow,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710967634868000,c9a53bc6-dc26-401c-867a-953b6e277682,c9a53bc6-dc26-401c-867a-953b6e277682_1710967633674,32,United States,Atlanta,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710968210500000,c9a53bc6-dc26-401c-867a-953b6e277682,c9a53bc6-dc26-401c-867a-953b6e277682_1710968199804,1878,United States,Atlanta,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710966509616000,572e84f3-ce7d-4708-a7c2-8220341f3082,572e84f3-ce7d-4708-a7c2-8220341f3082_1710966504547,152,United States,Lehigh Acres,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710965406132000,4495403a-6ec0-4261-8c4f-89a1508a9fc9,4495403a-6ec0-4261-8c4f-89a1508a9fc9_1710965403844,17,United Kingdom,,16,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710256176283000,adfbd0b8-f29c-4c30-87b8-0b9f4bdf4797,adfbd0b8-f29c-4c30-87b8-0b9f4bdf4797_1710256174310,0,Romania,Sibiu,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710667081621000,adfbd0b8-f29c-4c30-87b8-0b9f4bdf4797,adfbd0b8-f29c-4c30-87b8-0b9f4bdf4797_1710667080118,2,Romania,Sibiu,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710961957763000,adfbd0b8-f29c-4c30-87b8-0b9f4bdf4797,adfbd0b8-f29c-4c30-87b8-0b9f4bdf4797_1710961954916,1,Romania,Sibiu,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710964968918000,adfbd0b8-f29c-4c30-87b8-0b9f4bdf4797,adfbd0b8-f29c-4c30-87b8-0b9f4bdf4797_1710964968892,0,Romania,Sibiu,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710965007327000,946c0fcf-5d87-428d-b039-a2c43064c035,946c0fcf-5d87-428d-b039-a2c43064c035_1710965005658,0,United States,Sacramento,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710966431825000,2b969b36-e4f8-4503-b70b-e99eaeed7cf4,2b969b36-e4f8-4503-b70b-e99eaeed7cf4_1710966422991,349,Kazakhstan,Almaty,16,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710967487720000,2b969b36-e4f8-4503-b70b-e99eaeed7cf4,2b969b36-e4f8-4503-b70b-e99eaeed7cf4_1710967380071,0,Kazakhstan,Almaty,16,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710965450411000,6a8c4e09-ba9c-4ebd-8eea-16e9c482290d,6a8c4e09-ba9c-4ebd-8eea-16e9c482290d_1710965448321,0,United Kingdom,Hamilton,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710965666626000,d0332af0-3800-4d1f-a485-d27d11babe86,d0332af0-3800-4d1f-a485-d27d11babe86_1710965657197,2,Australia,Sydney,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1709536487759000,66212d81-a56d-4c87-82d3-55fcea010e5c,66212d81-a56d-4c87-82d3-55fcea010e5c_1709536485090,0,Australia,Brisbane,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710965787222000,66212d81-a56d-4c87-82d3-55fcea010e5c,66212d81-a56d-4c87-82d3-55fcea010e5c_1710965783228,12,Australia,Brisbane,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710964811730000,9aec46d5-540b-4fbe-bcfd-48991bbc919b,9aec46d5-540b-4fbe-bcfd-48991bbc919b_1710964811706,38,United States,Birmingham,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710966825114000,5ebdbc5d-829f-439f-a6b4-6a6d2fe43e61,5ebdbc5d-829f-439f-a6b4-6a6d2fe43e61_1710966821846,0,Austria,Vienna,17,Apple iPhone XS,amplitude,,,2.22.0
+session_start,1710967142446000,cce91108-ada9-4234-9a49-debe756ae2ac,cce91108-ada9-4234-9a49-debe756ae2ac_1710967138711,29,Maldives,Male,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710967220437000,455c6cad-2d76-492f-b055-aca499189b80,455c6cad-2d76-492f-b055-aca499189b80_1710967197866,743,Netherlands,Utrecht,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710964859712000,db6ee406-c47f-4f41-8592-18555980e1d8,db6ee406-c47f-4f41-8592-18555980e1d8_1710964853572,96,Canada,Montreal,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710799203965000,e014b9f9-0373-470e-826a-ad57edebc568,e014b9f9-0373-470e-826a-ad57edebc568_1710799201408,0,Ecuador,Cuenca,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710964814557000,e014b9f9-0373-470e-826a-ad57edebc568,e014b9f9-0373-470e-826a-ad57edebc568_1710964813107,25,Ecuador,Cuenca,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1707252487987000,b09f281d-1233-462d-a589-8ff16b86ddff,b09f281d-1233-462d-a589-8ff16b86ddff_1707252485130,0,Norway,Ålesund,17,Apple iPhone XR,amplitude,,,2.22.0
+session_start,1710964985414000,b09f281d-1233-462d-a589-8ff16b86ddff,b09f281d-1233-462d-a589-8ff16b86ddff_1710964982718,0,Norway,Ålesund,17,Apple iPhone XR,amplitude,,,2.22.0
+session_start,1710966681186000,7202de4a-7198-435d-b8e5-2f00dd5660b3,7202de4a-7198-435d-b8e5-2f00dd5660b3_1710966673659,0,United States,Leander,15,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710966372327000,18d67cc0-187f-499c-ba65-9225f36b3955,18d67cc0-187f-499c-ba65-9225f36b3955_1710966370221,0,United States,San Bernardino,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710965050821000,5bf91be4-5042-4ffb-8155-6d6e91750769,5bf91be4-5042-4ffb-8155-6d6e91750769_1710965013978,24,United States,Tampa,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710967831600000,4cac7d62-63d1-4598-add0-64dddf0135f0,4cac7d62-63d1-4598-add0-64dddf0135f0_1710967829142,29,Spain,Marbella,16,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710964814837000,46746a4b-218a-4d4e-95f4-b26d71d4050c,46746a4b-218a-4d4e-95f4-b26d71d4050c_1710964811194,11,Argentina,Buenos Aires,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1709145782389000,b04fe8c9-5e06-44cf-a37f-b51ac4620a6d,b04fe8c9-5e06-44cf-a37f-b51ac4620a6d_1709145762895,0,United States,Corinth,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710964824369000,b04fe8c9-5e06-44cf-a37f-b51ac4620a6d,b04fe8c9-5e06-44cf-a37f-b51ac4620a6d_1710964823238,34,United States,Corinth,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710964831717000,d93b0728-91f6-4ebd-befc-4cb03c63ecc9,d93b0728-91f6-4ebd-befc-4cb03c63ecc9_1710964814674,16,United States,Los Angeles,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710964816316000,d3945c2d-3e1a-47cb-9f38-58a574f6ce52,d3945c2d-3e1a-47cb-9f38-58a574f6ce52_1710964815071,42,United States,Mesa,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710965232282000,0acf2fd2-0cff-4f6a-85ee-1f19824e91af,0acf2fd2-0cff-4f6a-85ee-1f19824e91af_1710965231052,123,United States,San Diego,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710295839542000,6b2c69e8-e130-4ee4-a42e-5883bd08532d,6b2c69e8-e130-4ee4-a42e-5883bd08532d_1710295820481,0,Canada,Toronto,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710967092778000,6b2c69e8-e130-4ee4-a42e-5883bd08532d,6b2c69e8-e130-4ee4-a42e-5883bd08532d_1710967091355,0,Canada,Toronto,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710965758461000,c9a30543-3e74-4ac6-8a3e-52963cf1e736,c9a30543-3e74-4ac6-8a3e-52963cf1e736_1710965751250,53,Netherlands,Amersfoort,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710966229617000,adb3069d-45bb-48b7-917b-0b74041415b7,adb3069d-45bb-48b7-917b-0b74041415b7_1710966194008,336,Indonesia,Denpasar,16,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710968129408000,d399bc0b-e5d4-42b4-a45d-ff7fbe350769,d399bc0b-e5d4-42b4-a45d-ff7fbe350769_1710968118875,6,Turkey,Istanbul,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710967487957000,a26cefc9-13c6-44e5-b436-dc3a40844eb0,a26cefc9-13c6-44e5-b436-dc3a40844eb0_1710967480730,1405,Australia,Melbourne,16,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710965058077000,928668f1-1810-430d-9f4a-774d90b03208,928668f1-1810-430d-9f4a-774d90b03208_1710965056344,337,United States,,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710965306079000,0b248327-5ffa-4e85-9dc5-cd0ba69f85b9,0b248327-5ffa-4e85-9dc5-cd0ba69f85b9_1710965304777,116,United States,Reading,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710965406711000,ea05cd28-2199-4434-8d12-111e717bdd4e,ea05cd28-2199-4434-8d12-111e717bdd4e_1710965404973,1485,United States,Lehighton,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710965664698000,ca5649b8-721f-43f4-82ab-0e849c0c3cb6,ca5649b8-721f-43f4-82ab-0e849c0c3cb6_1710965663409,245,United States,Charlotte,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710965805585000,3ba228ef-1ed4-48df-9ae7-c3df74edf878,3ba228ef-1ed4-48df-9ae7-c3df74edf878_1710965803197,111,Netherlands,Schiedam,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710965924959000,5442d238-a38c-4c72-a128-bdfb8ee1734f,5442d238-a38c-4c72-a128-bdfb8ee1734f_1710965922715,81,United States,Chagrin Falls,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710966031792000,df9628c5-d63a-43a5-8dfe-95dbcf1dbf47,df9628c5-d63a-43a5-8dfe-95dbcf1dbf47_1710966029583,141,Mexico,,16,Apple iPhone XS Max,amplitude,,,2.22.0
+session_start,1710966898307000,d2aa1270-ea72-4a2f-a074-6dd83bd73cb9,d2aa1270-ea72-4a2f-a074-6dd83bd73cb9_1710966895000,149,Paraguay,Asunción,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710967384656000,f4950df9-de8d-437a-8375-7061cbc23ca6,f4950df9-de8d-437a-8375-7061cbc23ca6_1710967371302,36,Israel,Tel Aviv,15,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710967680578000,7d0c2bd3-1a70-4849-93d8-4dcdd54057b5,7d0c2bd3-1a70-4849-93d8-4dcdd54057b5_1710967678466,25,United States,Washington,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710967693565000,e7ed50a7-0116-4e99-b657-1dc9e7151ffa,e7ed50a7-0116-4e99-b657-1dc9e7151ffa_1710967690977,255,France,Paris,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710967825803000,b27b8466-7c6e-42d0-b1e7-340f48334298,b27b8466-7c6e-42d0-b1e7-340f48334298_1710967824233,167,United States,Mount Airy,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710971354302000,d85ff0e7-d617-469a-b611-b1baba18ef58,d85ff0e7-d617-469a-b611-b1baba18ef58_1710971352095,2,Norway,Oslo,17,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710968417167000,51c6e4ac-40cc-43f2-89c8-95e2b116e8d2,51c6e4ac-40cc-43f2-89c8-95e2b116e8d2_1710968416147,13,United States,Philadelphia,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710971354031000,c9a53bc6-dc26-401c-867a-953b6e277682,c9a53bc6-dc26-401c-867a-953b6e277682_1710971351522,1,United States,Atlanta,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710971772400000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,576,United States,Bend,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710969726208000,c9c609e6-a10d-4dd3-99a3-cc94f756948d,c9c609e6-a10d-4dd3-99a3-cc94f756948d_1710969725014,2,United States,Milwaukee,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710971512429000,8ba7df92-3cc9-455b-8b87-e1919bdacd45,8ba7df92-3cc9-455b-8b87-e1919bdacd45_1710971497823,0,Canada,Calgary,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710969346016000,a72b322c-921a-4617-bfd8-1334a0d07a53,a72b322c-921a-4617-bfd8-1334a0d07a53_1710969343215,47,Netherlands,Margraten,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710971649757000,a2a5d85f-2979-4bf1-b890-666ff5a89123,a2a5d85f-2979-4bf1-b890-666ff5a89123_1710971645978,99,Spain,el Masnou,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710968831986000,5cda8b4b-6393-4de7-9071-d900b358886d,5cda8b4b-6393-4de7-9071-d900b358886d_1710968828916,0,United States,Grand Prairie,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710968414524000,136096fc-7d9b-4df4-9a74-dce9fa3e456f,136096fc-7d9b-4df4-9a74-dce9fa3e456f_1710968412381,4,French Polynesia,Papeete,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1708898866924000,a43fe591-5069-421e-bf3c-3c0a957e7567,a43fe591-5069-421e-bf3c-3c0a957e7567_1708898866175,1,United States,Bishop,17,Apple iPhone 13 Pro,amplitude,,,2.16.0
+session_start,1710968462625000,a43fe591-5069-421e-bf3c-3c0a957e7567,a43fe591-5069-421e-bf3c-3c0a957e7567_1710968462625,1,United States,Bishop,17,Apple iPhone 13 Pro,amplitude,,,2.16.0
+session_start,1710969322646000,41e53a76-7355-4445-866b-ae39f89319ec,41e53a76-7355-4445-866b-ae39f89319ec_1710969320530,99,United States,Pontiac,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710968415912000,898d2b22-b92c-4902-ab41-20325402f1aa,898d2b22-b92c-4902-ab41-20325402f1aa_1710968414882,18,United States,Jupiter,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710291138151000,601e177f-e0c8-4196-9faa-b78576a428bc,601e177f-e0c8-4196-9faa-b78576a428bc_1710291133199,138,Canada,Calgary,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710526694466000,601e177f-e0c8-4196-9faa-b78576a428bc,601e177f-e0c8-4196-9faa-b78576a428bc_1710526679010,1269,Canada,Calgary,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710971657747000,601e177f-e0c8-4196-9faa-b78576a428bc,601e177f-e0c8-4196-9faa-b78576a428bc_1710971637556,0,Canada,Calgary,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710969221136000,1d7e3fd1-c516-4409-84ba-a8754e1eb95c,1d7e3fd1-c516-4409-84ba-a8754e1eb95c_1710969218051,53,United States,Houston,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710970274222000,f22dfd0d-5510-433f-972b-752d3ad147d5,f22dfd0d-5510-433f-972b-752d3ad147d5_1710970271107,183,Netherlands,Rotterdam,17,Apple iPhone 13 Pro,amplitude,,,2.21.0
+session_start,1710970701313000,b0ac812e-c0c3-4ea6-bfc5-4e6df3284d02,b0ac812e-c0c3-4ea6-bfc5-4e6df3284d02_1710970695913,0,Norway,Gol,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1706517637032000,41e68189-c914-4e36-b72f-281309750f4f,41e68189-c914-4e36-b72f-281309750f4f_1706517635115,17,Croatia,Zagreb,17,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710971697573000,41e68189-c914-4e36-b72f-281309750f4f,41e68189-c914-4e36-b72f-281309750f4f_1710971695208,2,Croatia,Zagreb,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710971624288000,b4a8a84a-840e-4f74-a6c0-94f1e38287fe,b4a8a84a-840e-4f74-a6c0-94f1e38287fe_1710971619921,53,Spain,Rafal,17,Apple iPhone XR,amplitude,,,2.22.0
+session_start,1710970148037000,801424dc-b898-4f37-8cf8-f8095dff07cb,801424dc-b898-4f37-8cf8-f8095dff07cb_1710970147171,0,United States,North Liberty,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710969581535000,c5d9dcb2-2c3f-4b01-bc29-112268248dcb,c5d9dcb2-2c3f-4b01-bc29-112268248dcb_1710969580064,1,Netherlands,Breukelen,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1708790066149000,5394aa5d-e3a2-4f4b-86ca-93b84bfeb007,5394aa5d-e3a2-4f4b-86ca-93b84bfeb007_1708790044976,0,United Arab Emirates,Dubai,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710969812597000,5394aa5d-e3a2-4f4b-86ca-93b84bfeb007,5394aa5d-e3a2-4f4b-86ca-93b84bfeb007_1710969809386,0,United Arab Emirates,Dubai,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710969278920000,153d258a-3a89-4266-b829-cbbe65ba4518,153d258a-3a89-4266-b829-cbbe65ba4518_1710969273501,0,Poland,Katowice,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710968865446000,9eca2da3-ca9d-4d2d-a01f-02064ff2a9db,9eca2da3-ca9d-4d2d-a01f-02064ff2a9db_1710968864751,16,United States,Orlando,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710165665058000,d5f58615-fcf5-46ba-8016-6878ce4b1d1c,d5f58615-fcf5-46ba-8016-6878ce4b1d1c_1710165664227,1,United States,Fairfield,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710971895770000,d5f58615-fcf5-46ba-8016-6878ce4b1d1c,d5f58615-fcf5-46ba-8016-6878ce4b1d1c_1710971894759,0,United States,Fairfield,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710969631422000,ab2cbdeb-7a40-4fd4-a0d9-21b13c01011b,ab2cbdeb-7a40-4fd4-a0d9-21b13c01011b_1710969627784,736,Australia,Perth,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710969000595000,1cd6f652-f47c-4136-9259-962fd0efeb10,1cd6f652-f47c-4136-9259-962fd0efeb10_1710968999680,2,Canada,Toronto,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710968422393000,a9df4d1a-e276-4dad-a340-93dbd9f7294a,a9df4d1a-e276-4dad-a340-93dbd9f7294a_1710968416391,0,United States,Coos Bay,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710970608052000,1df649e8-fa60-4057-9ade-c3b6d2ce72e7,1df649e8-fa60-4057-9ade-c3b6d2ce72e7_1710970108477,1334,United States,Yakima,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710968419052000,542e1841-9483-4bdd-9844-76bd3b829ffa,542e1841-9483-4bdd-9844-76bd3b829ffa_1710968417994,0,United States,Brooklyn,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710969647955000,4328fc60-1c42-4483-84e9-cb6d585ae622,4328fc60-1c42-4483-84e9-cb6d585ae622_1710969411954,73,France,Acheres,17,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710971576522000,1b876427-2f30-4d3c-9bee-c7e1caf6c70f,1b876427-2f30-4d3c-9bee-c7e1caf6c70f_1710971569787,740,Sweden,Gothenburg,15,Apple iPhone 6s,amplitude,,,2.22.0
+session_start,1710971793598000,6147e37b-c430-4917-b708-648c90027c2d,6147e37b-c430-4917-b708-648c90027c2d_1710971788911,0,United States,Charlotte,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710905412278000,14e219c6-6f32-4b9c-993e-24c455fb48eb,14e219c6-6f32-4b9c-993e-24c455fb48eb_1710905409894,0,United States,Portland,16,Apple iPhone 8 Plus,amplitude,,,2.22.0
+session_start,1710968948847000,14e219c6-6f32-4b9c-993e-24c455fb48eb,14e219c6-6f32-4b9c-993e-24c455fb48eb_1710968944136,0,United States,Portland,16,Apple iPhone 8 Plus,amplitude,,,2.22.0
+session_start,1710968412876000,ef5cbd65-ec17-493b-962b-32cb7618d2a4,ef5cbd65-ec17-493b-962b-32cb7618d2a4_1710968411478,48,United States,Brooklyn,16,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710968420218000,79bec465-7cd9-434c-af63-82bc57ce54e6,79bec465-7cd9-434c-af63-82bc57ce54e6_1710968419408,0,United States,Nottingham,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710970505319000,a950db6b-f888-4f15-9aea-8f3b7a01a304,a950db6b-f888-4f15-9aea-8f3b7a01a304_1710970484191,8,United States,Brooklyn,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710970868784000,636df035-404a-4a59-828f-c49ea1bb35a0,636df035-404a-4a59-828f-c49ea1bb35a0_1710970866794,0,Germany,Berlin,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710969362926000,00800c0d-8507-4972-850a-c34485d8187f,00800c0d-8507-4972-850a-c34485d8187f_1710969360349,39,United States,Seattle,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710969338977000,928668f1-1810-430d-9f4a-774d90b03208,928668f1-1810-430d-9f4a-774d90b03208_1710969329574,428,United States,,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710968481680000,a60794ca-79b1-4ec7-87cc-16640749552c,a60794ca-79b1-4ec7-87cc-16640749552c_1710968479993,87,United States,Palm Coast,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710968845238000,faec4d66-82b0-445c-80be-51e1869d3f76,faec4d66-82b0-445c-80be-51e1869d3f76_1710968843889,315,United States,Malverne,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710969508369000,ea494e5f-c230-4ff0-a871-a3358ce15f20,ea494e5f-c230-4ff0-a871-a3358ce15f20_1710969505916,2305,Sweden,Stockholm,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710969722996000,9d210360-2f43-4729-b4a2-2c3833d3ed6b,9d210360-2f43-4729-b4a2-2c3833d3ed6b_1710969720428,94,United Kingdom,Yatton,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710969874178000,cba80920-95da-4972-aaa4-c65a4f2c97d3,cba80920-95da-4972-aaa4-c65a4f2c97d3_1710969871203,78,United States,Fresno,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710969891164000,812f88bd-1570-43fa-89c7-aba2067b73ae,812f88bd-1570-43fa-89c7-aba2067b73ae_1710969889710,141,United States,Hershey,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710970110817000,820e748e-9066-4ba4-ace2-6f4a124b3db3,820e748e-9066-4ba4-ace2-6f4a124b3db3_1710970108477,491,United States,Yakima,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710970682406000,53d00638-3c69-4bc6-b04f-a58c40ed4234,53d00638-3c69-4bc6-b04f-a58c40ed4234_1710970679850,0,United Kingdom,Lewisham,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710971100119000,a27ffb51-f90d-4247-8557-4ffae63b54d6,a27ffb51-f90d-4247-8557-4ffae63b54d6_1710971095751,111,Norway,Oslo,17,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710971630371000,d526c0c4-0ce8-4920-845f-5bad8b716ab5,d526c0c4-0ce8-4920-845f-5bad8b716ab5_1710971627499,234,France,Paris,16,Apple iPhone 8,amplitude,,,2.22.0
+session_start,1710972010186000,088a3376-017b-4a81-a3a9-b8fb63629775,088a3376-017b-4a81-a3a9-b8fb63629775_1710972009207,625,United States,Tampa,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710691223185000,2b01b676-45cd-46d5-bbef-2a4d52a9d436,2b01b676-45cd-46d5-bbef-2a4d52a9d436_1710691204355,0,United States,New Orleans,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710972010163000,2b01b676-45cd-46d5-bbef-2a4d52a9d436,2b01b676-45cd-46d5-bbef-2a4d52a9d436_1710972008952,0,United States,New Orleans,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710877690129000,0c7f62db-5670-4a8c-b93d-e4935ccd5710,0c7f62db-5670-4a8c-b93d-e4935ccd5710_1710877687265,8,Serbia,Belgrade,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710975311259000,0c7f62db-5670-4a8c-b93d-e4935ccd5710,0c7f62db-5670-4a8c-b93d-e4935ccd5710_1710975308352,2,Serbia,Belgrade,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710974454233000,3729cbfd-ce53-4cd7-8174-9e2b5cc3a77c,3729cbfd-ce53-4cd7-8174-9e2b5cc3a77c_1710974449694,501,United States,The Bronx,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710972022794000,6666f151-169b-4da5-9b9e-6519d0fadd52,6666f151-169b-4da5-9b9e-6519d0fadd52_1710972020740,14,United States,Los Angeles,17,Apple iPhone 13 Pro,amplitude,,,2.19.0
+session_start,1710974887171000,6ae2bbf0-ae49-4ddd-b17e-8415d6192b3a,6ae2bbf0-ae49-4ddd-b17e-8415d6192b3a_1710974884071,459,Netherlands,Rotterdam,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710973082689000,dfb3b975-eb2e-4153-921a-08f19c65604f,dfb3b975-eb2e-4153-921a-08f19c65604f_1710973081419,116,United States,Tucson,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710972398793000,87b6822b-ef04-4570-8a24-493762d51439,87b6822b-ef04-4570-8a24-493762d51439_1710972391136,0,Austria,Wiener Neudorf,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710975271958000,3101812c-84f3-4eca-a163-4f89f8c4fa8d,3101812c-84f3-4eca-a163-4f89f8c4fa8d_1710975269294,0,Poland,Krakow,15,Apple iPhone 7,amplitude,,,2.22.0
+session_start,1710972653166000,d0332af0-3800-4d1f-a485-d27d11babe86,d0332af0-3800-4d1f-a485-d27d11babe86_1710972645090,0,Australia,Sydney,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710972239867000,0016d467-5bf0-4256-b7bd-983aa0678cec,0016d467-5bf0-4256-b7bd-983aa0678cec_1710972237352,2,Australia,Gold Coast,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710975460456000,62e7d782-4a9f-4dc0-bd59-cb797fedec7e,62e7d782-4a9f-4dc0-bd59-cb797fedec7e_1710975455807,101,Austria,Vienna,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710974821675000,5c1587e9-d4c7-48f0-86af-1378da31ccc0,5c1587e9-d4c7-48f0-86af-1378da31ccc0_1710974817950,0,United States,Saratoga Springs,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710972996743000,0560c3f3-2461-4ed8-b90f-661a635bd6dc,0560c3f3-2461-4ed8-b90f-661a635bd6dc_1710972990128,8,Netherlands,Amsterdam,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710972698658000,0c252e46-c56e-4d7b-8e58-676d8b2f0e8b,0c252e46-c56e-4d7b-8e58-676d8b2f0e8b_1710972601247,29,United States,Honolulu,16,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710972015974000,d629c975-7e48-411a-b3ea-a750f6ac2377,d629c975-7e48-411a-b3ea-a750f6ac2377_1710972015108,148,United States,Round Rock,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710973834120000,b9364782-c63d-4b28-8957-d6a4a77bcf1d,b9364782-c63d-4b28-8957-d6a4a77bcf1d_1710973829114,17,United States,Fort Smith,17,Apple iPad Pro,amplitude,,,2.22.0
+session_start,1710972021685000,70ced8de-26a3-4504-aeb1-de26b9146113,70ced8de-26a3-4504-aeb1-de26b9146113_1710972020582,58,United States,Apache Junction,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710975038401000,4c85c5f0-2b15-483f-b927-f9fb6962bc91,4c85c5f0-2b15-483f-b927-f9fb6962bc91_1710975036024,87,United States,Holyoke,16,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710974463021000,702f2c5e-053b-440a-8969-f614822cc1c8,702f2c5e-053b-440a-8969-f614822cc1c8_1710974456676,0,Switzerland,Zurich,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710972020589000,07f63d71-7544-4e7f-ac2b-2baae2dac319,07f63d71-7544-4e7f-ac2b-2baae2dac319_1710972018251,1363,Australia,Sydney,17,Apple iPhone SE (3rd generation),amplitude,,,2.22.0
+session_start,1710972626160000,0a0c5d31-608c-45fd-9efa-c8e8dca1afba,0a0c5d31-608c-45fd-9efa-c8e8dca1afba_1710972623372,18,Poland,Sobotka,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710974340667000,3ec25d9f-669c-4993-a1a2-6c6efa810f7b,3ec25d9f-669c-4993-a1a2-6c6efa810f7b_1710974253833,27,United States,,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710972402597000,35760e7d-55f3-42dd-a211-f7ecefb1ae14,35760e7d-55f3-42dd-a211-f7ecefb1ae14_1710972399563,134,United Kingdom,Sale,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710973152544000,1b077d5a-522a-40b4-9c8f-bc61a1677992,1b077d5a-522a-40b4-9c8f-bc61a1677992_1710973143597,294,Australia,Hobart,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710972052730000,0acf2fd2-0cff-4f6a-85ee-1f19824e91af,0acf2fd2-0cff-4f6a-85ee-1f19824e91af_1710972051707,2,United States,San Diego,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710717605013000,a9e32682-6dba-493b-8753-d2954b276d29,a9e32682-6dba-493b-8753-d2954b276d29_1710717586760,0,United States,Florence,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710972453732000,a9e32682-6dba-493b-8753-d2954b276d29,a9e32682-6dba-493b-8753-d2954b276d29_1710972452933,6,United States,Florence,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710974402412000,a6049fda-8e0c-4883-bb13-33090c66a6a3,a6049fda-8e0c-4883-bb13-33090c66a6a3_1710974389906,154,New Zealand,Christchurch,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710972910710000,928668f1-1810-430d-9f4a-774d90b03208,928668f1-1810-430d-9f4a-774d90b03208_1710972875697,87,United States,,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710972229625000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710972226300,1942,Italy,Limena,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710974671491000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710974665994,426,Italy,Limena,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710972658537000,957503b2-869c-4a8a-a271-2027e18a616e,957503b2-869c-4a8a-a271-2027e18a616e_1710972656600,25,United States,Noblesville,15,Apple iPhone 7 Plus,amplitude,,,2.22.0
+session_start,1710972975404000,f76c5b6a-3da1-4b39-869a-12d388a7038a,f76c5b6a-3da1-4b39-869a-12d388a7038a_1710972973920,22,United States,Fort Worth,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710973066170000,c5f6b45e-9f8a-49ec-a1fe-a810e05abc75,c5f6b45e-9f8a-49ec-a1fe-a810e05abc75_1710973063724,221,France,Alençon,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710973490662000,ace23474-e60c-4d01-9b49-e806671eff69,ace23474-e60c-4d01-9b49-e806671eff69_1710973488965,104,United States,Mount Laurel,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710973553074000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,3152,Switzerland,Zurich,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710973701497000,e5710793-bf55-4041-a16d-e8959c9a9dfe,e5710793-bf55-4041-a16d-e8959c9a9dfe_1710973699186,149,United States,Missoula,16,Apple iPhone 8,amplitude,,,2.22.0
+session_start,1710974403791000,bc642cca-3eed-4b0e-911b-3948865229e2,bc642cca-3eed-4b0e-911b-3948865229e2_1710974401784,235,United States,Olympia,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710975344557000,5d3a1992-4990-46a6-b7d2-b3d06a79d190,5d3a1992-4990-46a6-b7d2-b3d06a79d190_1710975342572,288,United States,,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710978478278000,74467b22-bde4-4669-9bc3-05cbfd698de6,74467b22-bde4-4669-9bc3-05cbfd698de6_1710978475568,0,United States,Willow Grove,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710978543684000,b138d6a4-3fcb-49eb-9bd3-85f258935e3b_duplicate,b138d6a4-3fcb-49eb-9bd3-85f258935e3b_duplicate_1710978542207,29,United States,Brooklyn,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710976250714000,3101812c-84f3-4eca-a163-4f89f8c4fa8d,3101812c-84f3-4eca-a163-4f89f8c4fa8d_1710976248266,110,Poland,Krakow,15,Apple iPhone 7,amplitude,,,2.22.0
+session_start,1710975682546000,5dddb7a1-9343-4ff1-9b94-e18805cab90f,5dddb7a1-9343-4ff1-9b94-e18805cab90f_1710975679121,653,Canada,Pickering,17,Apple iPhone 15 Plus,amplitude,,,2.22.0
+session_start,1710976960380000,26b0f509-4293-4943-883b-d6be47965900,26b0f509-4293-4943-883b-d6be47965900_1710976957764,19,Romania,Bucharest,17,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710976643855000,9353fc75-f6e0-4a0f-b937-d2b5bb15147c,9353fc75-f6e0-4a0f-b937-d2b5bb15147c_1710976632830,0,Australia,Elimbah,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710977414964000,f6526e43-f28a-460b-a709-28b2b9cbba91,f6526e43-f28a-460b-a709-28b2b9cbba91_1710977410258,335,United States,Nashville,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710977914983000,5ebdbc5d-829f-439f-a6b4-6a6d2fe43e61,5ebdbc5d-829f-439f-a6b4-6a6d2fe43e61_1710977910238,0,Austria,Vienna,17,Apple iPhone XS,amplitude,,,2.22.0
+session_start,1710977744564000,0c252e46-c56e-4d7b-8e58-676d8b2f0e8b,0c252e46-c56e-4d7b-8e58-676d8b2f0e8b_1710977743241,17,United States,Honolulu,16,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710977570126000,c6323ccb-9d71-419b-a6f6-5087bb3f7de6,c6323ccb-9d71-419b-a6f6-5087bb3f7de6_1710977568309,30,United States,Hayward,17,Apple iPhone 12,amplitude,,,2.21.0
+session_start,1710976832793000,9575a463-88d3-4dd5-b7eb-41b245275f32,9575a463-88d3-4dd5-b7eb-41b245275f32_1710976828183,0,Bulgaria,Sofia,17,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710975621177000,255400e6-2941-4bd9-89e3-8f7e04ecdc68,255400e6-2941-4bd9-89e3-8f7e04ecdc68_1710975619292,1,Mexico,Salina Cruz,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710979051296000,0f7b35ed-80fd-403e-92f4-ca3634f503bd,0f7b35ed-80fd-403e-92f4-ca3634f503bd_1710979050456,1,United States,Miami,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1709583894110000,4811ed2b-4c9e-41fe-a73b-3ccd878d679f,4811ed2b-4c9e-41fe-a73b-3ccd878d679f_1709583861797,0,United States,Murfreesboro,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710899886579000,4811ed2b-4c9e-41fe-a73b-3ccd878d679f,4811ed2b-4c9e-41fe-a73b-3ccd878d679f_1710899885434,0,United States,Murfreesboro,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710977476290000,4811ed2b-4c9e-41fe-a73b-3ccd878d679f,4811ed2b-4c9e-41fe-a73b-3ccd878d679f_1710977475481,0,United States,Murfreesboro,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710976114709000,b40c4195-4dce-4f46-82be-f522108d3fd8,b40c4195-4dce-4f46-82be-f522108d3fd8_1710976113451,768,United States,Jasper,16,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710977208523000,9e816eef-6d69-4bc2-b51e-59562e2b6b54,9e816eef-6d69-4bc2-b51e-59562e2b6b54_1710977205044,14,Mexico,Guadalajara,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710975997689000,e10c479f-427f-4b8c-ad11-79423ce515e2,e10c479f-427f-4b8c-ad11-79423ce515e2_1710975994605,4,United States,Avon,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710978904933000,e10c479f-427f-4b8c-ad11-79423ce515e2,e10c479f-427f-4b8c-ad11-79423ce515e2_1710978783585,13,United States,Avon,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710976381116000,f67f2be2-b87c-44f3-a588-5d00821da46a,f67f2be2-b87c-44f3-a588-5d00821da46a_1710976371512,17,Australia,Brisbane,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710978578326000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710978572609,16,Switzerland,Zurich,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710979166673000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710979142155,26,Switzerland,Zurich,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710976608400000,5d3a1992-4990-46a6-b7d2-b3d06a79d190,5d3a1992-4990-46a6-b7d2-b3d06a79d190_1710976575071,2505,United States,,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710975695700000,16e3becf-3a61-4db3-ae03-d7d128a36511,16e3becf-3a61-4db3-ae03-d7d128a36511_1710975693201,246,Norway,Trondheim,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710976079058000,72eb0479-c46c-4b4a-ae17-bc4c1a7ebfea,72eb0479-c46c-4b4a-ae17-bc4c1a7ebfea_1710976077114,109,United States,New Orleans,16,Apple iPhone 11 Pro Max,amplitude,,,2.22.0
+session_start,1710976598292000,c78ed2af-4218-40aa-8b5f-4c4d4e48aeb2,c78ed2af-4218-40aa-8b5f-4c4d4e48aeb2_1710976597042,33,Canada,LaSalle,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710977206956000,066aec0d-9962-4a16-a31c-abebf824ca51,066aec0d-9962-4a16-a31c-abebf824ca51_1710977203070,495,Hong Kong,Central,16,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710977983943000,b30a659c-b474-459d-bb01-d9ad4b1a90b1,b30a659c-b474-459d-bb01-d9ad4b1a90b1_1710977981843,511,United States,Hayward,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710906269773000,d2100966-0b18-4eac-8c12-007e7ee04c0a,d2100966-0b18-4eac-8c12-007e7ee04c0a_1710906264226,0,Slovenia,Ljubljana,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710904752563000,c9c609e6-a10d-4dd3-99a3-cc94f756948d,c9c609e6-a10d-4dd3-99a3-cc94f756948d_1710904750552,582,United States,Milwaukee,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710903616021000,4bedb137-69bd-43bc-a40e-8181d55b6d91,4bedb137-69bd-43bc-a40e-8181d55b6d91_1710903610169,2,Portugal,Lisbon,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710903717580000,d4f39751-0c64-4733-9c51-c57818dcced4,d4f39751-0c64-4733-9c51-c57818dcced4_1710903715783,0,United States,Los Angeles,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710903614584000,038fd6e4-cf1e-44f8-82b8-5f309405de25,038fd6e4-cf1e-44f8-82b8-5f309405de25_1710903611537,10,Malaysia,Kuala Lumpur,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710905990609000,58d1187f-c7dd-414c-ac6e-c1b58bf1a000,58d1187f-c7dd-414c-ac6e-c1b58bf1a000_1710905983728,60,United States,Port Angeles,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710904846717000,313c8768-7f20-4ed8-8b0e-b366e1800044,313c8768-7f20-4ed8-8b0e-b366e1800044_1710904841178,56,Mexico,Hermosillo,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710904517938000,5c1587e9-d4c7-48f0-86af-1378da31ccc0,5c1587e9-d4c7-48f0-86af-1378da31ccc0_1710904501977,10,United States,Saratoga Springs,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710906644031000,f9ab6042-4be5-4fd7-abf2-e2adb270acbd,f9ab6042-4be5-4fd7-abf2-e2adb270acbd_1710906634803,23,Argentina,Buenos Aires,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710904031606000,94d510da-5896-48f6-ba47-1664af353116,94d510da-5896-48f6-ba47-1664af353116_1710904025566,0,Switzerland,Zurich,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710906324767000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710906320413,12,United States,Dawsonville,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710906263495000,c79c9a58-7443-4e46-9d02-d14eb20a3283,c79c9a58-7443-4e46-9d02-d14eb20a3283_1710906255348,0,South Korea,Gangnam-gu,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710905415816000,d4d6578c-6222-42a1-a333-02ca47bd567e,d4d6578c-6222-42a1-a333-02ca47bd567e_1710905413250,1,India,Mumbai,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710903778281000,4990c3ca-1449-42e7-ba78-6a467da4dbc8,4990c3ca-1449-42e7-ba78-6a467da4dbc8_1710903775203,7,United States,Powhatan,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710885617002000,e231836a-f34f-43cc-8d9b-f436abbd0acf,e231836a-f34f-43cc-8d9b-f436abbd0acf_1710885615843,0,United States,Bremerton,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710215304292000,29723199-a406-4971-a063-228daa92f3c9,29723199-a406-4971-a063-228daa92f3c9_1710215137901,43,New Zealand,Christchurch,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710904179317000,29723199-a406-4971-a063-228daa92f3c9,29723199-a406-4971-a063-228daa92f3c9_1710904173137,17,New Zealand,Christchurch,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710903914321000,47b4198c-a0dc-4b98-8862-470d4245d4dd,47b4198c-a0dc-4b98-8862-470d4245d4dd_1710903904617,16,United States,Sacramento,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710904605363000,16f75185-068f-48ce-8813-bcb68cd1e0dd,16f75185-068f-48ce-8813-bcb68cd1e0dd_1710904603425,0,United States,Hayward,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710904908546000,262cbe0a-6288-41e8-990b-ffd071fcba8f,262cbe0a-6288-41e8-990b-ffd071fcba8f_1710904905629,21,United States,West Hempstead,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710904061513000,6655d186-959b-44c4-afb2-c6d442d108c9,6655d186-959b-44c4-afb2-c6d442d108c9_1710903992545,90,Egypt,Cairo,17,Apple iPhone XS,amplitude,,,2.22.0
+session_start,1710904880868000,56901f83-55ed-468f-87a6-4cef78d4d0c1,56901f83-55ed-468f-87a6-4cef78d4d0c1_1710904879279,17,Canada,Calgary,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710905250387000,d22a06d4-81f9-4d04-867b-b38dff501460,d22a06d4-81f9-4d04-867b-b38dff501460_1710905247821,6,United States,Denver,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710906539246000,3ae1de33-0052-4fa4-8bf1-a1b13c426c2f,3ae1de33-0052-4fa4-8bf1-a1b13c426c2f_1710906537213,143,United States,Hollywood,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710853212913000,a1482e0d-0afd-48ba-8e94-63510a505cc5,a1482e0d-0afd-48ba-8e94-63510a505cc5_1710853210220,0,Russia,Izhevsk,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710908977735000,7a2e9d6e-a5b1-4a9f-a03d-06136fe6aee9,7a2e9d6e-a5b1-4a9f-a03d-06136fe6aee9_1710908967301,114,Portugal,Lisbon,17,Apple iPad 6,amplitude,,,2.22.0
+session_start,1710907508358000,02443677-8227-4e17-b076-5e9c9940ba3d,02443677-8227-4e17-b076-5e9c9940ba3d_1710907506397,0,United States,Katy,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710910408981000,07d88afb-5887-496d-84e2-d02238e9c94e,07d88afb-5887-496d-84e2-d02238e9c94e_1710910407693,135,United States,Los Angeles,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710910571521000,1733b1b5-a0e5-434b-aac1-3f5b9d793b93,1733b1b5-a0e5-434b-aac1-3f5b9d793b93_1710910551629,0,Canada,Montreal,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710909674813000,cba3a7c2-1e28-4235-99a0-682f5e8280eb,cba3a7c2-1e28-4235-99a0-682f5e8280eb_1710909670545,0,Mexico,Mexico City,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710908347709000,3047c30b-09de-46b9-b127-06598d0815bf,3047c30b-09de-46b9-b127-06598d0815bf_1710908346968,0,United States,Philadelphia,16,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710910689208000,9098b645-e6b2-40f9-946b-76ea9b7738cf,9098b645-e6b2-40f9-946b-76ea9b7738cf_1710910636003,9,Indonesia,Jakarta,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710907230328000,1ee68721-2519-4c3e-b480-f35f17c07b29,1ee68721-2519-4c3e-b480-f35f17c07b29_1710907227071,163,Thailand,Bangkok,16,Apple iPhone 8 Plus,amplitude,,,2.22.0
+session_start,1710907537615000,5c1587e9-d4c7-48f0-86af-1378da31ccc0,5c1587e9-d4c7-48f0-86af-1378da31ccc0_1710907532980,168,United States,Saratoga Springs,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710908954615000,dfa5420b-7317-43c4-bc6c-dc66aa799360,dfa5420b-7317-43c4-bc6c-dc66aa799360_1710908953201,5,Canada,Guelph,16,Apple iPhone 11 Pro Max,amplitude,,,2.22.0
+session_start,1710907841856000,b63a1cb6-b865-4e01-bea7-4443f1bced87,b63a1cb6-b865-4e01-bea7-4443f1bced87_1710907839433,37,Kazakhstan,Astana,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710910035620000,7b450da8-85b1-4613-aaba-d9a20b315469,7b450da8-85b1-4613-aaba-d9a20b315469_1710910029342,9,Turkey,Ankara,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710909768472000,582a88d5-e55f-4c0e-ab14-cd36a2671cb3,582a88d5-e55f-4c0e-ab14-cd36a2671cb3_1710909765736,18,India,Hyderabad,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1708493466354000,fa59cf0c-1845-4f3c-9601-81e7c84ca766,fa59cf0c-1845-4f3c-9601-81e7c84ca766_1708493387362,0,Canada,London,17,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710910574185000,fa59cf0c-1845-4f3c-9601-81e7c84ca766,fa59cf0c-1845-4f3c-9601-81e7c84ca766_1710910573119,17,Canada,London,17,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710907427498000,540a8a57-48ab-4b57-90eb-103da4d5ea5b,540a8a57-48ab-4b57-90eb-103da4d5ea5b_1710907427402,0,Australia,Sydney,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710909710482000,d93b0728-91f6-4ebd-befc-4cb03c63ecc9,d93b0728-91f6-4ebd-befc-4cb03c63ecc9_1710909706103,258,United States,Los Angeles,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710908516913000,8fa46858-ed2b-4f2e-b331-a8c0d1ea1ded,8fa46858-ed2b-4f2e-b331-a8c0d1ea1ded_1710908514942,134,United States,Terrebonne,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710910676254000,9be29f0a-b5df-455c-b825-270edc4e6b55,9be29f0a-b5df-455c-b825-270edc4e6b55_1710910675434,26,United States,Ashburn,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710909943106000,3f84843e-63b2-43e8-a275-05b1f738dbc6,3f84843e-63b2-43e8-a275-05b1f738dbc6_1710909939902,0,United States,Waipahu,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710910108871000,7908b704-474b-4d16-b588-0668e61ce769,7908b704-474b-4d16-b588-0668e61ce769_1710910106684,0,United States,Dallas,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710907280403000,00800c0d-8507-4972-850a-c34485d8187f,00800c0d-8507-4972-850a-c34485d8187f_1710907274750,171,United States,Seattle,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710907195427000,de28641b-3654-4ced-8b2c-55e37f72fbfb,de28641b-3654-4ced-8b2c-55e37f72fbfb_1710907193509,135,United States,North Hollywood,16,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710907419133000,418f8041-0e92-4f3e-82ad-beb6b1abcd0c,418f8041-0e92-4f3e-82ad-beb6b1abcd0c_1710907417643,134,United States,Queens,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710907675753000,15bfd903-dc63-408c-aed9-249b6939f617,15bfd903-dc63-408c-aed9-249b6939f617_1710907673903,1460,United States,Escondido,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710908779698000,e3b78c32-f959-48f3-a41c-19fc8642f1f9,e3b78c32-f959-48f3-a41c-19fc8642f1f9_1710908777711,136,Canada,Calgary,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710908826696000,2228b6f6-149b-4285-bfa6-76634edecfc5,2228b6f6-149b-4285-bfa6-76634edecfc5_1710908824805,932,United States,Delray Beach,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710908893251000,deb2a365-f7e2-4453-81f3-307be50145f3,deb2a365-f7e2-4453-81f3-307be50145f3_1710908888259,201,United States,Los Angeles,17,Apple iPhone SE (3rd generation),amplitude,,,2.22.0
+session_start,1710909503447000,615b370e-53a9-48b2-8c42-0ac50c79aa37,615b370e-53a9-48b2-8c42-0ac50c79aa37_1710909499228,285,Sweden,Malmo,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710910542724000,6d3fc37f-996e-4b04-baed-712d87c818a3,6d3fc37f-996e-4b04-baed-712d87c818a3_1710910540537,139,United States,Oakland,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710911232123000,d0332af0-3800-4d1f-a485-d27d11babe86,d0332af0-3800-4d1f-a485-d27d11babe86_1710911222839,3,Australia,Sydney,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710898380656000,fb09ea80-bf43-4748-b8a4-d5fcfa9d486c,fb09ea80-bf43-4748-b8a4-d5fcfa9d486c_1710898380191,14,Singapore,Singapore,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710912621150000,fb09ea80-bf43-4748-b8a4-d5fcfa9d486c,fb09ea80-bf43-4748-b8a4-d5fcfa9d486c_1710912611806,5,Singapore,Singapore,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710832508133000,bd12cc8d-f6d7-40bd-8f14-62b0a2bdb13d,bd12cc8d-f6d7-40bd-8f14-62b0a2bdb13d_1710832506858,0,United States,Washington,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710913939251000,bd12cc8d-f6d7-40bd-8f14-62b0a2bdb13d,bd12cc8d-f6d7-40bd-8f14-62b0a2bdb13d_1710913938275,60,United States,Washington,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710911144615000,7501ef58-7263-4887-8bb7-c60fef565c40,7501ef58-7263-4887-8bb7-c60fef565c40_1710911143507,38,United States,Pinellas Park,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710913078525000,150d1354-1993-4c2f-b2cf-40d19b026094,150d1354-1993-4c2f-b2cf-40d19b026094_1710913063899,80,France,Chateauneuf-sur-Isere,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710913674334000,29ed6cdc-9d24-4390-b6f4-f1e3c3134554,29ed6cdc-9d24-4390-b6f4-f1e3c3134554_1710913672312,1,Germany,Munich,17,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710913927385000,7ed9ea06-078c-4a20-9a62-b783224084c5,7ed9ea06-078c-4a20-9a62-b783224084c5_1710913920831,0,Philippines,Taguig,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710913400201000,a76c541a-f967-451d-8fad-0712b6456b2b,a76c541a-f967-451d-8fad-0712b6456b2b_1710913398086,208,United States,Troy,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710914056386000,1070b689-898d-4691-b612-65a26f1ac2b7,1070b689-898d-4691-b612-65a26f1ac2b7_1710914054141,0,Denmark,Copenhagen,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710910876852000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,1368,Costa Rica,Heredia,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710910810078000,72d2dc03-e96a-4943-af58-18dc7a8f9db8,72d2dc03-e96a-4943-af58-18dc7a8f9db8_1710910807482,0,United Arab Emirates,Dubai,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710912520355000,d4f3a9fe-5309-41f5-b855-1d8a8102419c,d4f3a9fe-5309-41f5-b855-1d8a8102419c_1710912516216,512,United States,Brookline,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710912894176000,612d2222-68e0-4f00-a13d-d0d1ee6824f1,612d2222-68e0-4f00-a13d-d0d1ee6824f1_1710912890670,0,New Zealand,Auckland,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710914052009000,612d2222-68e0-4f00-a13d-d0d1ee6824f1,612d2222-68e0-4f00-a13d-d0d1ee6824f1_1710913807581,0,New Zealand,Auckland,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710913103814000,0bd4ea03-76b0-491a-b982-9602f12720bb,0bd4ea03-76b0-491a-b982-9602f12720bb_1710913082306,0,Philippines,Cebu City,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710869276736000,34e8433e-9153-45c3-bab9-637feedfd937,34e8433e-9153-45c3-bab9-637feedfd937_1710869046530,0,Netherlands,Rosmalen,16,Apple iPhone 8,amplitude,,,2.22.0
+session_start,1710914104367000,34e8433e-9153-45c3-bab9-637feedfd937,34e8433e-9153-45c3-bab9-637feedfd937_1710914086880,149,Netherlands,Rosmalen,16,Apple iPhone 8,amplitude,,,2.22.0
+session_start,1710914163344000,2228b6f6-149b-4285-bfa6-76634edecfc5,2228b6f6-149b-4285-bfa6-76634edecfc5_1710914156355,19,United States,Delray Beach,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710911128075000,c0524085-9b27-4888-b7b2-ad64e93da43d,c0524085-9b27-4888-b7b2-ad64e93da43d_1710911126516,92,United States,Austin,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710913471687000,42208f1c-bdc9-4a83-89c3-801263b5743f,42208f1c-bdc9-4a83-89c3-801263b5743f_1710913467356,170,Australia,Sydney,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710915558908000,9c7dec7a-8fae-4ede-8046-b2c50e56307a,9c7dec7a-8fae-4ede-8046-b2c50e56307a_1710915556571,12,Finland,Helsinki,17,Apple iPhone 11 Pro,amplitude,,,2.22.0
+session_start,1710914779307000,df1f1346-4fb9-406a-89a3-c2d8da3fa6f5,df1f1346-4fb9-406a-89a3-c2d8da3fa6f5_1710914777754,42,United States,Phoenix,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710915134240000,4586c4b3-92ad-4c39-9baa-6433cc805ec7,4586c4b3-92ad-4c39-9baa-6433cc805ec7_1710915114603,66,Guatemala,Guatemala City,16,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710917797759000,be1440dd-c010-4c25-97e9-1434d0030f4c,be1440dd-c010-4c25-97e9-1434d0030f4c_1710917786330,1834,Czech Republic,Prague,17,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710915643880000,3f47b4a3-c4bc-4038-92b1-07c8a2e6d7ca,3f47b4a3-c4bc-4038-92b1-07c8a2e6d7ca_1710915642199,88,Italy,Cagliari,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710917931725000,c9eb6bd2-245a-4bb8-909a-1c323590a9ab,c9eb6bd2-245a-4bb8-909a-1c323590a9ab_1710917929414,54,Switzerland,Merenschwand,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710914426186000,48647c61-7a34-4d95-9d38-326487896bd9,48647c61-7a34-4d95-9d38-326487896bd9_1710914418316,0,Turkey,Istanbul,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710917006967000,a72b322c-921a-4617-bfd8-1334a0d07a53,a72b322c-921a-4617-bfd8-1334a0d07a53_1710917005800,34,Netherlands,Margraten,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710914738262000,dad33d45-6f35-475a-abb9-7a1e9920d9f8,dad33d45-6f35-475a-abb9-7a1e9920d9f8_1710914734735,0,Israel,Jerusalem,17,Apple iPhone 11 Pro Max,amplitude,,,2.22.0
+session_start,1710915383835000,4366c0f8-9426-4162-89d3-7fa935dfebfc,4366c0f8-9426-4162-89d3-7fa935dfebfc_1710915380080,11,New Zealand,New Plymouth,17,Apple iPhone SE (3rd generation),amplitude,,,2.22.0
+session_start,1710914544034000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,1311,Latvia,Riga,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710917010906000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,743,Latvia,Riga,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710917248166000,c7b65f53-1b61-4896-88ba-a21ebd10ed32,c7b65f53-1b61-4896-88ba-a21ebd10ed32_1710917243459,0,Russia,St Petersburg,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710915680018000,c1238419-f3d0-445f-a45f-be7fc7a36202,c1238419-f3d0-445f-a45f-be7fc7a36202_1710915671917,27,Sweden,Stockholm,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710917710934000,9575a463-88d3-4dd5-b7eb-41b245275f32,9575a463-88d3-4dd5-b7eb-41b245275f32_1710917708082,0,Bulgaria,Sofia,17,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710916663365000,29723199-a406-4971-a063-228daa92f3c9,29723199-a406-4971-a063-228daa92f3c9_1710916659554,342,New Zealand,Christchurch,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1709496364069000,0a0c5d31-608c-45fd-9efa-c8e8dca1afba,0a0c5d31-608c-45fd-9efa-c8e8dca1afba_1709496361286,0,Poland,Sobotka,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710915904497000,0a0c5d31-608c-45fd-9efa-c8e8dca1afba,0a0c5d31-608c-45fd-9efa-c8e8dca1afba_1710915902325,485,Poland,Sobotka,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710916152335000,17aa38d2-724a-434f-8000-b86ebd4a7fe1,17aa38d2-724a-434f-8000-b86ebd4a7fe1_1710916139124,9,Russia,St Petersburg,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710915457700000,6f9b1ffc-af77-42ec-8dc8-cd0932969e32,6f9b1ffc-af77-42ec-8dc8-cd0932969e32_1710915450780,902,Mexico,Mexico City,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710914418526000,17be91dc-213f-4864-a2e0-30f92498c387,17be91dc-213f-4864-a2e0-30f92498c387_1710914414968,4,Thailand,Bangkok,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710914391798000,a5ec369b-6894-438a-8aa4-cf0a6c9fa0c7,a5ec369b-6894-438a-8aa4-cf0a6c9fa0c7_1710914390586,17,United States,Wichita,17,Apple iPhone SE (3rd generation),amplitude,,,2.22.0
+session_start,1710915973857000,a5ec369b-6894-438a-8aa4-cf0a6c9fa0c7,a5ec369b-6894-438a-8aa4-cf0a6c9fa0c7_1710915971992,20,United States,Wichita,17,Apple iPhone SE (3rd generation),amplitude,,,2.22.0
+session_start,1710914564153000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,3217,United States,Redwood City,16,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710914830578000,a395c4e0-b082-4656-ab48-234e464d0dec,a395c4e0-b082-4656-ab48-234e464d0dec_1710914827056,171,Israel,Tel Aviv,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710915859905000,a395c4e0-b082-4656-ab48-234e464d0dec,a395c4e0-b082-4656-ab48-234e464d0dec_1710915858401,23,Israel,Tel Aviv,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710915360295000,99a054e5-7140-4840-b7e5-2f009c52f9fb,99a054e5-7140-4840-b7e5-2f009c52f9fb_1710915359071,3,United States,East Lansing,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710915548242000,7e88d7f7-5345-4a5e-9995-313cdaef2b1a,7e88d7f7-5345-4a5e-9995-313cdaef2b1a_1710915543064,163,Australia,Sydney,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710916474545000,7e88d7f7-5345-4a5e-9995-313cdaef2b1a,7e88d7f7-5345-4a5e-9995-313cdaef2b1a_1710916470372,42,Australia,Sydney,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710915887420000,c6b7a3b4-ad5b-4a0a-992b-ca05663788cd,c6b7a3b4-ad5b-4a0a-992b-ca05663788cd_1710915884491,154,Turkey,Istanbul,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710916545841000,f9e34803-0565-4026-8076-5fbc06588294,f9e34803-0565-4026-8076-5fbc06588294_1710916543629,19,United States,Glendale,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710917007505000,7b41e0ef-59cb-408d-881e-8c9c9211a032,7b41e0ef-59cb-408d-881e-8c9c9211a032_1710917005676,91,United States,Ossining,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710917398261000,19639099-324f-4fb0-94a5-56419ca5969e,19639099-324f-4fb0-94a5-56419ca5969e_1710917394695,107,New Zealand,Christchurch,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710919799166000,118cbc53-d620-4730-a8d2-22183a977aeb,118cbc53-d620-4730-a8d2-22183a977aeb_1710919793044,12,Australia,Perth,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710920416298000,888d1f6f-91fe-4718-81e8-0ba29d8b0b49,888d1f6f-91fe-4718-81e8-0ba29d8b0b49_1710920405560,14,Spain,,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710309900151000,a88e76e4-d3c1-495d-b320-88d687952d2a,a88e76e4-d3c1-495d-b320-88d687952d2a_1710309879170,0,United States,Providence,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710920453863000,a88e76e4-d3c1-495d-b320-88d687952d2a,a88e76e4-d3c1-495d-b320-88d687952d2a_1710920452795,12,United States,Providence,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710918020561000,f846eb56-92c0-4824-840f-761f85e366bd,f846eb56-92c0-4824-840f-761f85e366bd_1710918017583,0,South Africa,Johannesburg,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710918019974000,4e274642-e440-4c63-8aa8-da2af577b012,4e274642-e440-4c63-8aa8-da2af577b012_1710918018596,1,Estonia,Tallinn,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710920265970000,347aac13-8829-4566-bed7-a0c271ef71e8,347aac13-8829-4566-bed7-a0c271ef71e8_1710920262088,0,Singapore,Jurong West,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710920122517000,a72b322c-921a-4617-bfd8-1334a0d07a53,a72b322c-921a-4617-bfd8-1334a0d07a53_1710920121389,36,Netherlands,Margraten,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710918017809000,a0f22d3e-1ad0-476c-8c5c-d481cb9d293d,a0f22d3e-1ad0-476c-8c5c-d481cb9d293d_1710918014236,2,South Africa,Johannesburg,15,Apple iPhone 7,amplitude,,,2.20.0
+session_start,1710920858561000,fb09ea80-bf43-4748-b8a4-d5fcfa9d486c,fb09ea80-bf43-4748-b8a4-d5fcfa9d486c_1710920847112,4,Singapore,Singapore,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710920093184000,eacab673-4c24-4219-96ac-d9b9a9b49f72,eacab673-4c24-4219-96ac-d9b9a9b49f72_1710919975274,154,Thailand,Bangkok,16,Apple iPad Pro 11 inch 2nd Gen,amplitude,,,2.22.0
+session_start,1710920774637000,eacab673-4c24-4219-96ac-d9b9a9b49f72,eacab673-4c24-4219-96ac-d9b9a9b49f72_1710920772437,55,Thailand,Bangkok,16,Apple iPad Pro 11 inch 2nd Gen,amplitude,,,2.22.0
+session_start,1710918797142000,0560c3f3-2461-4ed8-b90f-661a635bd6dc,0560c3f3-2461-4ed8-b90f-661a635bd6dc_1710918787707,113,Netherlands,Amsterdam,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710918663271000,e456ba01-d8a6-4171-948f-7d42cbb379ee,e456ba01-d8a6-4171-948f-7d42cbb379ee_1710918661711,0,Denmark,Vanløse,16,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710920201027000,bf6cb90f-b1d0-48f4-9a8b-06fdb434a591,bf6cb90f-b1d0-48f4-9a8b-06fdb434a591_1710920198396,11,Romania,Bucharest,15,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710919724082000,0c252e46-c56e-4d7b-8e58-676d8b2f0e8b,0c252e46-c56e-4d7b-8e58-676d8b2f0e8b_1710919719266,17,United States,Honolulu,16,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710919722676000,654be444-6cbc-4d58-b227-225b27db2996,654be444-6cbc-4d58-b227-225b27db2996_1710919698641,260,Germany,Wuppertal,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710918029470000,269af40e-9fe5-44a7-b0b3-7045386ebc1c,269af40e-9fe5-44a7-b0b3-7045386ebc1c_1710918026766,100,Israel,Tel Aviv,17,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710919784265000,5be05576-136e-49cb-8c6d-bab6972986d2,5be05576-136e-49cb-8c6d-bab6972986d2_1710919774549,20,United States,Seattle,16,Apple iPhone 8 Plus,amplitude,,,2.22.0
+session_start,1710814395522000,34622e44-b297-4871-9a53-e4bd7fee2348,34622e44-b297-4871-9a53-e4bd7fee2348_1710814287338,0,Japan,Koga,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710918402318000,34622e44-b297-4871-9a53-e4bd7fee2348,34622e44-b297-4871-9a53-e4bd7fee2348_1710918393743,7,Japan,Koga,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710667613327000,331197d3-8f61-4689-988f-acf6f3fe7efd,331197d3-8f61-4689-988f-acf6f3fe7efd_1710667611679,0,United States,,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710920762023000,331197d3-8f61-4689-988f-acf6f3fe7efd,331197d3-8f61-4689-988f-acf6f3fe7efd_1710920760801,0,United States,,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710580165267000,3bfae10b-e73b-4635-904e-c0729ab7016e,3bfae10b-e73b-4635-904e-c0729ab7016e_1710580163732,1,Israel,Giv‘atayim,16,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710918107467000,3bfae10b-e73b-4635-904e-c0729ab7016e,3bfae10b-e73b-4635-904e-c0729ab7016e_1710918105156,18,Israel,Giv‘atayim,16,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710919981163000,9575a463-88d3-4dd5-b7eb-41b245275f32,9575a463-88d3-4dd5-b7eb-41b245275f32_1710919976104,0,Bulgaria,Sofia,17,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710918599783000,1b876427-2f30-4d3c-9bee-c7e1caf6c70f,1b876427-2f30-4d3c-9bee-c7e1caf6c70f_1710918594129,243,Sweden,Gothenburg,15,Apple iPhone 6s,amplitude,,,2.22.0
+session_start,1710918019730000,b45ce4e3-048e-46ec-92d9-168bb239e29f,b45ce4e3-048e-46ec-92d9-168bb239e29f_1710918016804,0,Israel,Herzliya,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710921051708000,eb3cd259-fa9b-4a0a-a0de-500e37b92fe2,eb3cd259-fa9b-4a0a-a0de-500e37b92fe2_1710921030276,48,Germany,Stuttgart,17,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710920058525000,17aa38d2-724a-434f-8000-b86ebd4a7fe1,17aa38d2-724a-434f-8000-b86ebd4a7fe1_1710920053778,201,Russia,St Petersburg,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710918541174000,99a6bfdc-dcc4-480d-b17a-88ad59336bc3,99a6bfdc-dcc4-480d-b17a-88ad59336bc3_1710918529492,4,Croatia,Zagreb,122,,amplitude,,,2.19.0
+session_start,1710866952630000,4034ee97-d706-48f2-8e38-45f3c7924dfb,4034ee97-d706-48f2-8e38-45f3c7924dfb_1710866951290,0,United Kingdom,East Grinstead,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710919080160000,9e5261c5-3c2f-44ed-81ff-3f12cc20df38,9e5261c5-3c2f-44ed-81ff-3f12cc20df38_1710919072271,41,Ukraine,Sambir,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710918638790000,7e88d7f7-5345-4a5e-9995-313cdaef2b1a,7e88d7f7-5345-4a5e-9995-313cdaef2b1a_1710918635127,3,Australia,Sydney,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710918565630000,a6293b05-8010-4675-8067-5a9ebc3a8c6f,a6293b05-8010-4675-8067-5a9ebc3a8c6f_1710918564165,241,United States,Evansville,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710919979835000,c9b30b5c-be57-4fb5-ad10-da077f4dcbad,c9b30b5c-be57-4fb5-ad10-da077f4dcbad_1710919975274,101,Thailand,Bangkok,16,Apple iPad Pro 11 inch 2nd Gen,amplitude,,,2.22.0
+session_start,1710921625258000,ca37a4ee-2639-471c-9dfe-9d466abb504b,ca37a4ee-2639-471c-9dfe-9d466abb504b_1710921625079,0,Belarus,Minsk,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710921814124000,6b6eaed1-383e-4fa8-a14e-8ef9f7cb43b6,6b6eaed1-383e-4fa8-a14e-8ef9f7cb43b6_1710921812536,76,Norway,Bergen,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710923035947000,092e9021-255e-4e53-bff4-1a8c9d63037b,092e9021-255e-4e53-bff4-1a8c9d63037b_1710923028745,50,Portugal,Oeiras,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710924161511000,46401858-c3c2-43b4-9dda-28f554c6a417,46401858-c3c2-43b4-9dda-28f554c6a417_1710924159526,17,United Kingdom,North Shields,16,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710922379647000,5e5eec70-24d8-4f55-b668-42ebf9a8974e,5e5eec70-24d8-4f55-b668-42ebf9a8974e_1710922375437,0,Norway,Bergen,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710922434200000,be1e8410-e9f2-4d31-bda5-d58753f892e4,be1e8410-e9f2-4d31-bda5-d58753f892e4_1710922423238,506,Netherlands,Amsterdam,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710923908135000,d2100966-0b18-4eac-8c12-007e7ee04c0a,d2100966-0b18-4eac-8c12-007e7ee04c0a_1710923905568,38,Slovenia,Ljubljana,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710921615599000,8e7d8652-a7cc-41b0-b74f-a265d5c92579,8e7d8652-a7cc-41b0-b74f-a265d5c92579_1710921613638,1,Switzerland,Zurich,17,Apple iPhone 12 Pro,amplitude,,,2.22.0
+session_start,1710922519596000,a39aad82-ec6c-4da4-ab1b-ead28a571f7a,a39aad82-ec6c-4da4-ab1b-ead28a571f7a_1710922514499,6,Belgium,Mol,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710765126081000,5636b84e-de8a-4c61-9ff1-303e7874e056,5636b84e-de8a-4c61-9ff1-303e7874e056_1710765118747,17,Netherlands,Rotterdam,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710856975783000,5636b84e-de8a-4c61-9ff1-303e7874e056,5636b84e-de8a-4c61-9ff1-303e7874e056_1710856973276,3,Netherlands,Rotterdam,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710923679923000,5636b84e-de8a-4c61-9ff1-303e7874e056,5636b84e-de8a-4c61-9ff1-303e7874e056_1710923677696,239,Netherlands,Rotterdam,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710923644184000,0d98e185-dd38-44d2-ac76-6f1bf92f650c,0d98e185-dd38-44d2-ac76-6f1bf92f650c_1710923640507,17,Estonia,Tallinn,17,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710924819473000,6fda53a9-385c-4704-9737-3cb575ec4c2c,6fda53a9-385c-4704-9737-3cb575ec4c2c_1710924816305,43,South Africa,Brits,16,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710922090555000,130451ad-7b27-4045-904e-865f7e7a4c28,130451ad-7b27-4045-904e-865f7e7a4c28_1710922088645,0,Belgium,Roeselare,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710921611214000,1892e1fa-8d90-4d85-8a0e-1886aca67df0,1892e1fa-8d90-4d85-8a0e-1886aca67df0_1710921608858,5,Switzerland,Estavayer-le-Lac,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710925119326000,35b09107-4bc9-47b8-be9d-3acfadf549f2,35b09107-4bc9-47b8-be9d-3acfadf549f2_1710925117138,1819,Germany,Waiblingen,15,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710921633486000,45797e1f-0353-439a-979d-d72e871a2560,45797e1f-0353-439a-979d-d72e871a2560_1710921631836,0,Netherlands,Amsterdam,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1708696951889000,cb8843ee-fc8c-4bc6-9cee-eb22f556ed8a,cb8843ee-fc8c-4bc6-9cee-eb22f556ed8a_1708696950429,0,France,Neuilly-sur-Seine,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710921682995000,cb8843ee-fc8c-4bc6-9cee-eb22f556ed8a,cb8843ee-fc8c-4bc6-9cee-eb22f556ed8a_1710921680979,52,France,Neuilly-sur-Seine,17,Apple iPhone 11,amplitude,,,2.22.0
+session_start,1710921725640000,eaba1ae1-1159-4db9-95de-99ee859f4c3f,eaba1ae1-1159-4db9-95de-99ee859f4c3f_1710921724245,0,Norway,Oslo,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1710921614791000,cb77f9c4-6015-4226-848c-6b736439a2e4,cb77f9c4-6015-4226-848c-6b736439a2e4_1710921613232,3,Switzerland,Wattwil,17,Apple iPhone 11 Pro Max,amplitude,,,2.22.0
+session_start,1710923265428000,b0ac812e-c0c3-4ea6-bfc5-4e6df3284d02,b0ac812e-c0c3-4ea6-bfc5-4e6df3284d02_1710923264052,0,Norway,Gol,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710924440615000,b4a8a84a-840e-4f74-a6c0-94f1e38287fe,b4a8a84a-840e-4f74-a6c0-94f1e38287fe_1710924436912,42,United Kingdom,Southwark,17,Apple iPhone XR,amplitude,,,2.22.0
+session_start,1710921607009000,a757f031-2597-43fa-a629-a3983b5cf1bb,a757f031-2597-43fa-a629-a3983b5cf1bb_1710921605522,0,Spain,Vic,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710921797342000,08c55ffb-895a-4e2c-ba97-d8ab0d72468d,08c55ffb-895a-4e2c-ba97-d8ab0d72468d_1710921796075,0,Netherlands,Rotterdam,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710924320990000,9575a463-88d3-4dd5-b7eb-41b245275f32,9575a463-88d3-4dd5-b7eb-41b245275f32_1710924318095,0,Bulgaria,Sofia,17,Apple iPhone SE 2nd Gen,amplitude,,,2.22.0
+session_start,1710922485768000,540a8a57-48ab-4b57-90eb-103da4d5ea5b,540a8a57-48ab-4b57-90eb-103da4d5ea5b_1710922479318,96,Australia,Sydney,17,Apple iPhone 14,amplitude,,,2.22.0
+session_start,1710922574794000,0a0c5d31-608c-45fd-9efa-c8e8dca1afba,0a0c5d31-608c-45fd-9efa-c8e8dca1afba_1710922572279,199,Poland,Sobotka,17,Apple iPhone 15 Pro,amplitude,,,2.22.0
+session_start,1710921707542000,63f7f5d2-19d2-4557-ae1b-0b2f312b396f,63f7f5d2-19d2-4557-ae1b-0b2f312b396f_1710921706129,0,Germany,Berlin,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710922782762000,0546d5f4-088c-4d07-8104-0eb7e3fee0a6,0546d5f4-088c-4d07-8104-0eb7e3fee0a6_1710922777951,101,Germany,Stuttgart,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710921638482000,1b63ea8c-91b7-4149-9ee6-f85eff6c3168,1b63ea8c-91b7-4149-9ee6-f85eff6c3168_1710921637386,4,Sweden,Kristianstad,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710922158739000,1b63ea8c-91b7-4149-9ee6-f85eff6c3168,1b63ea8c-91b7-4149-9ee6-f85eff6c3168_1710922147800,6,Sweden,Kristianstad,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710923130232000,1b63ea8c-91b7-4149-9ee6-f85eff6c3168,1b63ea8c-91b7-4149-9ee6-f85eff6c3168_1710922593470,7,Sweden,Kristianstad,17,Apple iPhone 13 mini,amplitude,,,2.22.0
+session_start,1710890597555000,989b616c-2c48-41ee-ab25-794ee3559e2a,989b616c-2c48-41ee-ab25-794ee3559e2a_1710890595434,0,Sweden,Trelleborg,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710924510011000,989b616c-2c48-41ee-ab25-794ee3559e2a,989b616c-2c48-41ee-ab25-794ee3559e2a_1710924507073,0,Sweden,Trelleborg,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710921617067000,59a27ced-36e0-4267-8599-4cc4850ab307,59a27ced-36e0-4267-8599-4cc4850ab307_1710921615695,0,Spain,Barcelona,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710923642686000,12f1489b-6afa-45b7-ac1c-00c6ca1979aa,12f1489b-6afa-45b7-ac1c-00c6ca1979aa_1710923637547,0,Italy,Reggio Emilia,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710921967505000,e718af67-9e89-4ae0-aade-a01236b07f2c,e718af67-9e89-4ae0-aade-a01236b07f2c_1710921967469,0,Germany,Düsseldorf,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710923059692000,de9aac96-7e17-4168-9fac-0d8047867b1e,de9aac96-7e17-4168-9fac-0d8047867b1e_1710923051281,1125,Switzerland,Widnau,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710924548195000,e7e66103-0bd7-407d-9088-ac075604b556,e7e66103-0bd7-407d-9088-ac075604b556_1710924545533,425,Italy,Milan,17,Apple iPhone 11 Pro Max,amplitude,,,2.22.0
+session_start,1710923320075000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710923311844,3716,United States,Redwood City,16,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710922600996000,9d824d4e-61e4-420f-8190-589e2820254e,9d824d4e-61e4-420f-8190-589e2820254e_1710922597253,220,Australia,Melbourne,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710922887806000,a6049fda-8e0c-4883-bb13-33090c66a6a3,a6049fda-8e0c-4883-bb13-33090c66a6a3_1710922884177,1082,New Zealand,Auckland,17,Apple iPhone 14 Plus,amplitude,,,2.22.0
+session_start,1710927298632000,855220a1-225a-44f9-b5e8-797383be3bec,855220a1-225a-44f9-b5e8-797383be3bec_1710927284985,39,Israel,Tel Aviv,16,Apple iPad 5,amplitude,,,2.22.0
+session_start,1710925206332000,092e9021-255e-4e53-bff4-1a8c9d63037b,092e9021-255e-4e53-bff4-1a8c9d63037b_1710925204890,0,Portugal,Lisbon,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710925227345000,bd88cd5d-17e7-4e66-9645-7cffcdbcce7e,bd88cd5d-17e7-4e66-9645-7cffcdbcce7e_1710925223298,0,Croatia,Zagreb,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1709647331887000,6ede42c0-2857-452f-abda-b0e0bdc073e1,6ede42c0-2857-452f-abda-b0e0bdc073e1_1709647328549,0,Norway,Randaberg,15,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710927050284000,6ede42c0-2857-452f-abda-b0e0bdc073e1,6ede42c0-2857-452f-abda-b0e0bdc073e1_1710927046523,20,Norway,Randaberg,15,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710926584945000,3182935d-a995-4bf0-979b-f7626bc66452,3182935d-a995-4bf0-979b-f7626bc66452_1710926583353,2,Austria,Vienna,16,Apple iPhone 12,amplitude,,,2.22.0
+session_start,1708404588602000,7f982a14-328b-4db0-9606-af55ca05efac,7f982a14-328b-4db0-9606-af55ca05efac_1708404191749,0,Germany,Dresden,16,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1709805670365000,7f982a14-328b-4db0-9606-af55ca05efac,7f982a14-328b-4db0-9606-af55ca05efac_1709805668600,8,Germany,Dresden,16,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1709891264856000,7f982a14-328b-4db0-9606-af55ca05efac,7f982a14-328b-4db0-9606-af55ca05efac_1709891263051,0,Germany,Dresden,16,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710822879821000,7f982a14-328b-4db0-9606-af55ca05efac,7f982a14-328b-4db0-9606-af55ca05efac_1710822878041,0,Germany,Dresden,16,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710922520858000,7f982a14-328b-4db0-9606-af55ca05efac,7f982a14-328b-4db0-9606-af55ca05efac_1710922518898,0,Germany,Dresden,16,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710926213118000,7f982a14-328b-4db0-9606-af55ca05efac,7f982a14-328b-4db0-9606-af55ca05efac_1710926211300,0,Germany,Dresden,16,Apple iPhone 12 Mini,amplitude,,,2.22.0
+session_start,1710925231528000,daef8c28-7eca-459e-a4e8-30824742d67d,daef8c28-7eca-459e-a4e8-30824742d67d_1710925222445,149,Zimbabwe,Harare,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710835115512000,0bc838ee-3279-47ee-85e4-cd351d759011,0bc838ee-3279-47ee-85e4-cd351d759011_1710834998697,0,United Kingdom,Nottingham,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710927129224000,0bc838ee-3279-47ee-85e4-cd351d759011,0bc838ee-3279-47ee-85e4-cd351d759011_1710927127619,0,United Kingdom,Nottingham,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710870099420000,39dc36ff-40af-411d-82fc-0f49900138a2,39dc36ff-40af-411d-82fc-0f49900138a2_1710870029576,11,Norway,Oslo,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710927651028000,39dc36ff-40af-411d-82fc-0f49900138a2,39dc36ff-40af-411d-82fc-0f49900138a2_1710927645928,48,Norway,Oslo,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710928143013000,39dc36ff-40af-411d-82fc-0f49900138a2,39dc36ff-40af-411d-82fc-0f49900138a2_1710928138348,0,Norway,Oslo,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1706662899434000,e2853d9f-3080-427b-aa88-f23153240fb0,e2853d9f-3080-427b-aa88-f23153240fb0_1706662897275,18,Philippines,Quezon City,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1709629209628000,e2853d9f-3080-427b-aa88-f23153240fb0,e2853d9f-3080-427b-aa88-f23153240fb0_1709629207206,1,Philippines,Quezon City,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710925726452000,5ebdbc5d-829f-439f-a6b4-6a6d2fe43e61,5ebdbc5d-829f-439f-a6b4-6a6d2fe43e61_1710925723569,0,Austria,Vienna,17,Apple iPhone XS,amplitude,,,2.22.0
+session_start,1709184330497000,6e05b20e-1571-413f-a894-6810087cb3f5,6e05b20e-1571-413f-a894-6810087cb3f5_1709184310656,0,Taiwan,Kaohsiung City,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710927450479000,6e05b20e-1571-413f-a894-6810087cb3f5,6e05b20e-1571-413f-a894-6810087cb3f5_1710927448170,18,Taiwan,Kaohsiung City,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710925807218000,791d1eb6-06af-443b-9440-23b0e2d7cf69,791d1eb6-06af-443b-9440-23b0e2d7cf69_1710925805956,0,United Kingdom,City of Westminster,16,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710905146830000,e231836a-f34f-43cc-8d9b-f436abbd0acf,e231836a-f34f-43cc-8d9b-f436abbd0acf_1710905143898,0,United States,Bremerton,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710926668090000,ab2cbdeb-7a40-4fd4-a0d9-21b13c01011b,ab2cbdeb-7a40-4fd4-a0d9-21b13c01011b_1710926663223,2,Australia,Perth,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710780773533000,57b3f849-a844-4b02-bf8a-dc67914a8cf8,57b3f849-a844-4b02-bf8a-dc67914a8cf8_1710780745368,0,United States,Hope Mills,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710835283310000,57b3f849-a844-4b02-bf8a-dc67914a8cf8,57b3f849-a844-4b02-bf8a-dc67914a8cf8_1710835280350,0,United States,Hope Mills,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710926399314000,57b3f849-a844-4b02-bf8a-dc67914a8cf8,57b3f849-a844-4b02-bf8a-dc67914a8cf8_1710926395464,0,United States,Hope Mills,17,Apple iPhone 13 Pro Max,amplitude,,,2.22.0
+session_start,1710925352347000,079bcc5d-cc69-4b33-bf63-2bc0ed02a9cc,079bcc5d-cc69-4b33-bf63-2bc0ed02a9cc_1710925351108,4,Portugal,Viana do Castelo,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710926897500000,57666e37-478b-453e-8663-77c98f718542,57666e37-478b-453e-8663-77c98f718542_1710926890304,12,Sweden,Landvetter,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710927484911000,72d2dc03-e96a-4943-af58-18dc7a8f9db8,72d2dc03-e96a-4943-af58-18dc7a8f9db8_1710927481610,42,United Arab Emirates,Dubai,17,Apple iPhone 14 Pro,amplitude,,,2.22.0
+session_start,1710927389244000,93862eae-9958-4a61-919d-e2918561cb32,93862eae-9958-4a61-919d-e2918561cb32_1710927386760,120,Turkey,Istanbul,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710925215446000,3421c85b-ea98-478f-a1a9-e6b68382b2f1,3421c85b-ea98-478f-a1a9-e6b68382b2f1_1710925214247,0,United Kingdom,Edgware,17,Apple iPhone 15,amplitude,,,2.22.0
+session_start,1710927140129000,6b000cb2-f6ac-4fff-9a7f-d99dcd03d4c8,6b000cb2-f6ac-4fff-9a7f-d99dcd03d4c8_1710927138746,0,United States,Tampa,17,Apple iPhone 15 Pro Max,amplitude,,,2.22.0
+session_start,1710927404288000,63dd3e3f-d187-4e79-8cbb-cabb233b8947,63dd3e3f-d187-4e79-8cbb-cabb233b8947_1710927402086,108,United States,Jefferson,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710845028193000,6cdba527-e4fb-4fbc-af11-dc2ce88af020,6cdba527-e4fb-4fbc-af11-dc2ce88af020_1710845024007,17,Indonesia,Bogor,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710927923724000,6cdba527-e4fb-4fbc-af11-dc2ce88af020,6cdba527-e4fb-4fbc-af11-dc2ce88af020_1710927919758,0,Indonesia,Bogor,17,Apple iPhone 13 Pro,amplitude,,,2.22.0
+session_start,1710925484776000,e3e12a08-26f4-49aa-953b-8cf13ef50008,e3e12a08-26f4-49aa-953b-8cf13ef50008_1710925474749,70,United States,Homestead,17,Apple iPhone 14 Pro Max,amplitude,,,2.22.0
+session_start,1710927039427000,9d824d4e-61e4-420f-8190-589e2820254e,9d824d4e-61e4-420f-8190-589e2820254e_1710927028431,5,Australia,Melbourne,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710927575527000,9d824d4e-61e4-420f-8190-589e2820254e,9d824d4e-61e4-420f-8190-589e2820254e_1710927570616,19,Australia,Melbourne,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710926306567000,a5d20810-d556-4a99-a30b-bf6d8183439f,a5d20810-d556-4a99-a30b-bf6d8183439f_1710926302099,117,Thailand,Phuket,17,Apple iPhone 12 Pro Max,amplitude,,,2.22.0
+session_start,1710926660919000,d1654425-5fc6-4e1a-9ac7-8697a3224dd1,d1654425-5fc6-4e1a-9ac7-8697a3224dd1_1710926658318,130,United States,,17,Apple iPhone 13,amplitude,,,2.22.0
+session_start,1710928194126000,3703b218-d44e-4a3c-9d4e-ea013e835494,3703b218-d44e-4a3c-9d4e-ea013e835494_1710928192402,146,Canada,Surrey,17,Apple iPhone 15 Pro,amplitude,,,2.22.0

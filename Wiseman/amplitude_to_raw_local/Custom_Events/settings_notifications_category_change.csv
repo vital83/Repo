@@ -1,0 +1,7 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled,event_properties.category_title,event_properties.category,event_properties.enabled
+settings_notifications_category_change,1710942930881000,53c34f9f-8103-40da-9a29-8f3793c18200,53c34f9f-8103-40da-9a29-8f3793c18200_1710942911004,/,subscribed,yearly_t_2,en,True,False,Stories,1.0,False
+settings_notifications_category_change,1710942932007000,53c34f9f-8103-40da-9a29-8f3793c18200,53c34f9f-8103-40da-9a29-8f3793c18200_1710942911004,/,subscribed,yearly_t_2,en,True,False,New content,2.0,False
+settings_notifications_category_change,1710942932774000,53c34f9f-8103-40da-9a29-8f3793c18200,53c34f9f-8103-40da-9a29-8f3793c18200_1710942911004,/,subscribed,yearly_t_2,en,True,False,Daily transits,3.0,False
+settings_notifications_category_change,1710961251923000,07cc2b03-92ca-4c7a-8406-6659020bda60,07cc2b03-92ca-4c7a-8406-6659020bda60_1710961242981,/,subscribed,yearly_t_2,en,True,False,Stories,1.0,False
+settings_notifications_category_change,1710961252307000,07cc2b03-92ca-4c7a-8406-6659020bda60,07cc2b03-92ca-4c7a-8406-6659020bda60_1710961242981,/,subscribed,yearly_t_2,en,True,False,New content,2.0,False
+settings_notifications_category_change,1710961252723000,07cc2b03-92ca-4c7a-8406-6659020bda60,07cc2b03-92ca-4c7a-8406-6659020bda60_1710961242981,/,subscribed,yearly_t_2,en,True,False,Daily transits,3.0,False

@@ -1,0 +1,167 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled,event_properties.id,event_properties.title
+bodygraph_gates_open,1710895966103000,a98684e1-6ff5-452f-bd2b-42c31fc125ca,a98684e1-6ff5-452f-bd2b-42c31fc125ca_1710895583684,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,6,The Gate of Friction
+bodygraph_gates_open,1710895975095000,a98684e1-6ff5-452f-bd2b-42c31fc125ca,a98684e1-6ff5-452f-bd2b-42c31fc125ca_1710895583684,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,6,The Gate of Friction
+bodygraph_gates_open,1710896811418000,a98684e1-6ff5-452f-bd2b-42c31fc125ca,a98684e1-6ff5-452f-bd2b-42c31fc125ca_1710896707788,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,8,The Gate of Contribution
+bodygraph_gates_open,1710937344139000,5a8ee028-07a8-47d0-a875-fc08e07f45b9,5a8ee028-07a8-47d0-a875-fc08e07f45b9_1710936446440,/,subscribed,weekly_3,en,False,False,59,The Gate of Sexuality
+bodygraph_gates_open,1710937412232000,5a8ee028-07a8-47d0-a875-fc08e07f45b9,5a8ee028-07a8-47d0-a875-fc08e07f45b9_1710936446440,/,subscribed,weekly_3,en,False,False,59,The Gate of Sexuality
+bodygraph_gates_open,1710940130523000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710939811478,/,subscribed,yearly_t_2,en,False,False,1,The Gate of Self-Expression
+bodygraph_gates_open,1710940164552000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710939811478,/,subscribed,yearly_t_2,en,False,False,51,The Gate of Shock
+bodygraph_gates_open,1710945722923000,d2100966-0b18-4eac-8c12-007e7ee04c0a,d2100966-0b18-4eac-8c12-007e7ee04c0a_1710945704631,/,subscribed,yearly_t_2,en,False,False,19,The Gate of Wanting
+bodygraph_gates_open,1710943450237000,b45ce4e3-048e-46ec-92d9-168bb239e29f,b45ce4e3-048e-46ec-92d9-168bb239e29f_1710941538694,/,subscribed,yearly_t_2,en,False,False,5,The Gate of Fixed Rhythms
+bodygraph_gates_open,1710945760672000,e4d967f7-a907-4b27-896f-606de88180aa,e4d967f7-a907-4b27-896f-606de88180aa_1710945391253,/,subscribed,yearly_t_2,en,False,False,5,The Gate of Fixed Rhythms
+bodygraph_gates_open,1710945790795000,e4d967f7-a907-4b27-896f-606de88180aa,e4d967f7-a907-4b27-896f-606de88180aa_1710945391253,/,subscribed,yearly_t_2,en,False,False,16,The Gate of Skills
+bodygraph_gates_open,1710945844492000,e4d967f7-a907-4b27-896f-606de88180aa,e4d967f7-a907-4b27-896f-606de88180aa_1710945391253,/,subscribed,yearly_t_2,en,False,False,17,The Gate of Opinions
+bodygraph_gates_open,1710945903707000,e4d967f7-a907-4b27-896f-606de88180aa,e4d967f7-a907-4b27-896f-606de88180aa_1710945391253,/,subscribed,yearly_t_2,en,False,False,25,The Gate of the Spirit of the Self
+bodygraph_gates_open,1710945973011000,e4d967f7-a907-4b27-896f-606de88180aa,e4d967f7-a907-4b27-896f-606de88180aa_1710945391253,/,subscribed,yearly_t_2,en,False,False,42,The Gate of Growth
+bodygraph_gates_open,1710945994461000,e4d967f7-a907-4b27-896f-606de88180aa,e4d967f7-a907-4b27-896f-606de88180aa_1710945391253,/,subscribed,yearly_t_2,en,False,False,44,The Gate of Alertness
+bodygraph_gates_open,1710946058706000,e4d967f7-a907-4b27-896f-606de88180aa,e4d967f7-a907-4b27-896f-606de88180aa_1710945391253,/,subscribed,yearly_t_2,en,False,False,48,The Gate of Depth
+bodygraph_gates_open,1710953190066000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,1,The Gate of Self-Expression
+bodygraph_gates_open,1710953221197000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,11,The Gate of Ideas
+bodygraph_gates_open,1710953248071000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,16,The Gate of Skills
+bodygraph_gates_open,1710953294278000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,17,The Gate of Opinions
+bodygraph_gates_open,1710953305097000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,17,The Gate of Opinions
+bodygraph_gates_open,1710953336685000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,18,The Gate of Correction
+bodygraph_gates_open,1710953364301000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,20,The Gate of the Now
+bodygraph_gates_open,1710953397665000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,25,The Gate of the Spirit of the Self
+bodygraph_gates_open,1710953432474000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,25,The Gate of the Spirit of the Self
+bodygraph_gates_open,1710953439020000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,38,The Gate of the Fighter
+bodygraph_gates_open,1710953484061000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,55,The Gate of Spirit
+bodygraph_gates_open,1710953557464000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,58,The Gate of Aliveness
+bodygraph_gates_open,1710953582944000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,59,The Gate of Sexuality
+bodygraph_gates_open,1710953621260000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,59,The Gate of Sexuality
+bodygraph_gates_open,1710953713959000,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4,3a5f7fe7-4864-42cf-8ba5-e1a0df547bc4_1710953026640,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,42,The Gate of Growth
+bodygraph_gates_open,1710961124239000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,4,The Gate of Formulization
+bodygraph_gates_open,1710961141702000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,7,The Gate of the Role of the Self
+bodygraph_gates_open,1710961154837000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,9,The Gate of Focus
+bodygraph_gates_open,1710961160617000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,11,The Gate of Ideas
+bodygraph_gates_open,1710961166951000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,15,The Gate of Extremes
+bodygraph_gates_open,1710961174016000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,16,The Gate of Skills
+bodygraph_gates_open,1710961181817000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,16,The Gate of Skills
+bodygraph_gates_open,1710961185675000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,15,The Gate of Extremes
+bodygraph_gates_open,1710958447070000,edb1880a-d89c-4a48-8b77-1711182bd917,edb1880a-d89c-4a48-8b77-1711182bd917_1710957860501,/,subscribed,6month_1_1999,en,False,False,2,The Gate of Higher Knowledge
+bodygraph_gates_open,1710961205569000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,30,The Gate of the Recognition of Feelings
+bodygraph_gates_open,1710961214382000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,30,The Gate of the Recognition of Feelings
+bodygraph_gates_open,1710961223312000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,37,The Gate of Friendship
+bodygraph_gates_open,1710961229801000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,40,The Gate of Aloneness
+bodygraph_gates_open,1710961238312000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,41,The Gate of Contraction
+bodygraph_gates_open,1710961244400000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,42,The Gate of Growth
+bodygraph_gates_open,1710961251868000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,44,The Gate of Alertness
+bodygraph_gates_open,1710961258484000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,55,The Gate of Spirit
+bodygraph_gates_open,1710961263776000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,59,The Gate of Sexuality
+bodygraph_gates_open,1710961278073000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,60,The Gate of Acceptance
+bodygraph_gates_open,1710961285741000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,61,The Gate of Mystery
+bodygraph_gates_open,1710961296197000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,61,The Gate of Mystery
+bodygraph_gates_open,1710961301917000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,63,The Gate of Doubt
+bodygraph_gates_open,1710961308235000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,64,The Gate of Confusion
+bodygraph_gates_open,1710961877240000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,4,The Gate of Formulization
+bodygraph_gates_open,1710961884084000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,4,The Gate of Formulization
+bodygraph_gates_open,1710961893155000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,7,The Gate of the Role of the Self
+bodygraph_gates_open,1710961907048000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,15,The Gate of Extremes
+bodygraph_gates_open,1710961978883000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,7,The Gate of the Role of the Self
+bodygraph_gates_open,1710961991329000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,9,The Gate of Focus
+bodygraph_gates_open,1710961998078000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,11,The Gate of Ideas
+bodygraph_gates_open,1710962004274000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,15,The Gate of Extremes
+bodygraph_gates_open,1710962011746000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,15,The Gate of Extremes
+bodygraph_gates_open,1710962017642000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,16,The Gate of Skills
+bodygraph_gates_open,1710962024422000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,41,The Gate of Contraction
+bodygraph_gates_open,1710962030413000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,42,The Gate of Growth
+bodygraph_gates_open,1710962036756000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,44,The Gate of Alertness
+bodygraph_gates_open,1710962045388000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,44,The Gate of Alertness
+bodygraph_gates_open,1710962052849000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,59,The Gate of Sexuality
+bodygraph_gates_open,1710962056847000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,55,The Gate of Spirit
+bodygraph_gates_open,1710962085350000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,59,The Gate of Sexuality
+bodygraph_gates_open,1710962113210000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,59,The Gate of Sexuality
+bodygraph_gates_open,1710962134672000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,60,The Gate of Acceptance
+bodygraph_gates_open,1710962572380000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710962567553,/,subscribed,Yearly_30_b_var3,en,True,False,4,The Gate of Formulization
+bodygraph_gates_open,1710964429588000,2b969b36-e4f8-4503-b70b-e99eaeed7cf4,2b969b36-e4f8-4503-b70b-e99eaeed7cf4_1710964121382,/,subscribed,weekly_1299_intro_promo_discount,ru,False,False,20,Ворота Сейчас
+bodygraph_gates_open,1710964492104000,2b969b36-e4f8-4503-b70b-e99eaeed7cf4,2b969b36-e4f8-4503-b70b-e99eaeed7cf4_1710964121382,/,subscribed,weekly_1299_intro_promo_discount,ru,False,False,20,Ворота Сейчас
+bodygraph_gates_open,1710964499107000,2b969b36-e4f8-4503-b70b-e99eaeed7cf4,2b969b36-e4f8-4503-b70b-e99eaeed7cf4_1710964121382,/,subscribed,weekly_1299_intro_promo_discount,ru,False,False,16,Ворота Умений
+bodygraph_gates_open,1710964529246000,2b969b36-e4f8-4503-b70b-e99eaeed7cf4,2b969b36-e4f8-4503-b70b-e99eaeed7cf4_1710964121382,/,subscribed,weekly_1299_intro_promo_discount,ru,False,False,39,Ворота Провокатора
+bodygraph_gates_open,1710962852047000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710962845357,/,subscribed,yearly_t_2,es,False,False,52,La Puerta de la Inacción
+bodygraph_gates_open,1710962908980000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710962845357,/,subscribed,yearly_t_2,es,False,False,58,La Puerta de Vitalidad
+bodygraph_gates_open,1710962968010000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710962845357,/,subscribed,yearly_t_2,es,False,False,61,La Puerta del Misterio
+bodygraph_gates_open,1710963065766000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710962845357,/,subscribed,yearly_t_2,es,False,False,63,La Puerta de la Duda
+bodygraph_gates_open,1710901800921000,9a874124-8bf1-4070-8cca-68a006a36a37,9a874124-8bf1-4070-8cca-68a006a36a37_1710900966657,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,1,The Gate of Self-Expression
+bodygraph_gates_open,1710966688989000,2b969b36-e4f8-4503-b70b-e99eaeed7cf4,2b969b36-e4f8-4503-b70b-e99eaeed7cf4_1710966422991,/,subscribed,weekly_1299_intro_promo_discount,ru,False,False,1,Ворота Самовыражения
+bodygraph_gates_open,1710966780390000,2b969b36-e4f8-4503-b70b-e99eaeed7cf4,2b969b36-e4f8-4503-b70b-e99eaeed7cf4_1710966422991,/,subscribed,weekly_1299_intro_promo_discount,ru,False,False,4,Ворота Формулизации
+bodygraph_gates_open,1710970088394000,c9a53bc6-dc26-401c-867a-953b6e277682,c9a53bc6-dc26-401c-867a-953b6e277682_1710968199804,/,subscribed,monthly_t_2,en,False,False,40,The Gate of Aloneness
+bodygraph_gates_open,1710971355648000,c9a53bc6-dc26-401c-867a-953b6e277682,c9a53bc6-dc26-401c-867a-953b6e277682_1710971351522,/,subscribed,monthly_t_2,en,False,False,40,The Gate of Aloneness
+bodygraph_gates_open,1710971790491000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,4,The Gate of Formulization
+bodygraph_gates_open,1710971801075000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,7,The Gate of the Role of the Self
+bodygraph_gates_open,1710971840404000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,9,The Gate of Focus
+bodygraph_gates_open,1710971880897000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,11,The Gate of Ideas
+bodygraph_gates_open,1710971934548000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,15,The Gate of Extremes
+bodygraph_gates_open,1710971485420000,ea494e5f-c230-4ff0-a871-a3358ce15f20,ea494e5f-c230-4ff0-a871-a3358ce15f20_1710969505916,/,subscribed,6month_1_1999,en,False,False,26,The Gate of the Egoist
+bodygraph_gates_open,1710971725919000,ea494e5f-c230-4ff0-a871-a3358ce15f20,ea494e5f-c230-4ff0-a871-a3358ce15f20_1710969505916,/,subscribed,6month_1_1999,en,False,False,13,The Gate of the Listener
+bodygraph_gates_open,1710971983808000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,16,The Gate of Skills
+bodygraph_gates_open,1710972026339000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,30,The Gate of the Recognition of Feelings
+bodygraph_gates_open,1710972058046000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,37,The Gate of Friendship
+bodygraph_gates_open,1710972095969000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,40,The Gate of Aloneness
+bodygraph_gates_open,1710972135520000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,40,The Gate of Aloneness
+bodygraph_gates_open,1710972140545000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,42,The Gate of Growth
+bodygraph_gates_open,1710972174635000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,41,The Gate of Contraction
+bodygraph_gates_open,1710972201677000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,42,The Gate of Growth
+bodygraph_gates_open,1710972206074000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,44,The Gate of Alertness
+bodygraph_gates_open,1710972253286000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,44,The Gate of Alertness
+bodygraph_gates_open,1710972256938000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,55,The Gate of Spirit
+bodygraph_gates_open,1710972292721000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710971770192,/,subscribed,Yearly_30_b_var3,en,True,False,59,The Gate of Sexuality
+bodygraph_gates_open,1710972569229000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710972226300,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,22,The Gate of Openness
+bodygraph_gates_open,1710973471704000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710972226300,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,22,The Gate of Openness
+bodygraph_gates_open,1710974724292000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710974665994,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,6,The Gate of Friction
+bodygraph_gates_open,1710974824377000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710974665994,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,6,The Gate of Friction
+bodygraph_gates_open,1710974845312000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710974665994,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,6,The Gate of Friction
+bodygraph_gates_open,1710974849874000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710974665994,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,19,The Gate of Wanting
+bodygraph_gates_open,1710974918757000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710974665994,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,19,The Gate of Wanting
+bodygraph_gates_open,1710974930673000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710974665994,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,22,The Gate of Openness
+bodygraph_gates_open,1710974943148000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710974665994,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,26,The Gate of the Egoist
+bodygraph_gates_open,1710974981342000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710974665994,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,28,The Gate of the Game Player
+bodygraph_gates_open,1710975038104000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710974665994,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,55,The Gate of Spirit
+bodygraph_gates_open,1710975078758000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710974665994,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,62,The Gate of Detail
+bodygraph_gates_open,1710975086164000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710974665994,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,28,The Gate of the Game Player
+bodygraph_gates_open,1710975097549000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710974665994,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,47,The Gate of Realization
+bodygraph_gates_open,1710907306123000,1ee68721-2519-4c3e-b480-f35f17c07b29,1ee68721-2519-4c3e-b480-f35f17c07b29_1710907227071,/,subscribed,yearly_t_2,en,True,False,31,The Gate of Leading
+bodygraph_gates_open,1710907393097000,1ee68721-2519-4c3e-b480-f35f17c07b29,1ee68721-2519-4c3e-b480-f35f17c07b29_1710907227071,/,subscribed,yearly_t_2,en,True,False,7,The Gate of the Role of the Self
+bodygraph_gates_open,1710911571539000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,3,La Puerta de Orden
+bodygraph_gates_open,1710911614418000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,5,La Puerta de los Ritmos Fijos
+bodygraph_gates_open,1710911696263000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,7,La Puerta del Rol del Ser
+bodygraph_gates_open,1710911791906000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,11,La Puerta de las Ideas
+bodygraph_gates_open,1710911881664000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,23,La Puerta de la Asimilación
+bodygraph_gates_open,1710911943824000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,44,La Puerta de estar Alerta
+bodygraph_gates_open,1710912004183000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,49,La Puerta de los Principios
+bodygraph_gates_open,1710912062859000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,48,La Puerta de la Profundidad
+bodygraph_gates_open,1710912067313000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,44,La Puerta de estar Alerta
+bodygraph_gates_open,1710912071049000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,48,La Puerta de la Profundidad
+bodygraph_gates_open,1710912107048000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,49,La Puerta de los Principios
+bodygraph_gates_open,1710912122151000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,50,La Puerta de Valores
+bodygraph_gates_open,1710912192911000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,52,La Puerta de la Inacción
+bodygraph_gates_open,1710912244619000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,58,La Puerta de Vitalidad
+bodygraph_gates_open,1710914253632000,34e8433e-9153-45c3-bab9-637feedfd937,34e8433e-9153-45c3-bab9-637feedfd937_1710914086880,/,subscribed,yearly_t_2,en,False,False,19,The Gate of Wanting
+bodygraph_gates_open,1710915150208000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,11,The Gate of Ideas
+bodygraph_gates_open,1710915195893000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,18,The Gate of Correction
+bodygraph_gates_open,1710915251481000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,19,The Gate of Wanting
+bodygraph_gates_open,1710915317493000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,21,The Gate of the Hunter/Huntress
+bodygraph_gates_open,1710915368324000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,28,The Gate of the Game Player
+bodygraph_gates_open,1710915507488000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,32,The Gate of Continuity
+bodygraph_gates_open,1710915554921000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,34,The Gate of Power
+bodygraph_gates_open,1710915617329000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,38,The Gate of the Fighter
+bodygraph_gates_open,1710915667214000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,39,The Gate of the Provocateur
+bodygraph_gates_open,1710915723012000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,50,The Gate of Values
+bodygraph_gates_open,1710915755967000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,61,The Gate of Mystery
+bodygraph_gates_open,1710915789885000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,62,The Gate of Detail
+bodygraph_gates_open,1710917067972000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,/,subscribed,yearly_t_2,en,False,False,11,The Gate of Ideas
+bodygraph_gates_open,1710917158583000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,/,subscribed,yearly_t_2,en,False,False,15,The Gate of Extremes
+bodygraph_gates_open,1710917220114000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,/,subscribed,yearly_t_2,en,False,False,15,The Gate of Extremes
+bodygraph_gates_open,1710917226246000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,/,subscribed,yearly_t_2,en,False,False,21,The Gate of the Hunter/Huntress
+bodygraph_gates_open,1710917261397000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,/,subscribed,yearly_t_2,en,False,False,25,The Gate of the Spirit of the Self
+bodygraph_gates_open,1710917310727000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,/,subscribed,yearly_t_2,en,False,False,32,The Gate of Continuity
+bodygraph_gates_open,1710917323527000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,/,subscribed,yearly_t_2,en,False,False,34,The Gate of Power
+bodygraph_gates_open,1710917362956000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,/,subscribed,yearly_t_2,en,False,False,44,The Gate of Alertness
+bodygraph_gates_open,1710917414547000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,/,subscribed,yearly_t_2,en,False,False,48,The Gate of Depth
+bodygraph_gates_open,1710917451117000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,/,subscribed,yearly_t_2,en,False,False,49,The Gate of Principles
+bodygraph_gates_open,1710917499278000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,/,subscribed,yearly_t_2,en,False,False,53,The Gate of Beginnings
+bodygraph_gates_open,1710917599287000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,/,subscribed,yearly_t_2,en,False,False,54,The Gate of Ambition
+bodygraph_gates_open,1710917693935000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,/,subscribed,yearly_t_2,en,False,False,57,The Gate of Intuitive Insight
+bodygraph_gates_open,1710926542113000,35b09107-4bc9-47b8-be9d-3acfadf549f2,35b09107-4bc9-47b8-be9d-3acfadf549f2_1710925117138,/,subscribed,yearly_t_2,es,True,False,58,La Puerta de Vitalidad
+bodygraph_gates_open,1710926600177000,35b09107-4bc9-47b8-be9d-3acfadf549f2,35b09107-4bc9-47b8-be9d-3acfadf549f2_1710925117138,/,subscribed,yearly_t_2,es,True,False,40,La Puerta de la Soledad
+bodygraph_gates_open,1710926671158000,35b09107-4bc9-47b8-be9d-3acfadf549f2,35b09107-4bc9-47b8-be9d-3acfadf549f2_1710925117138,/,subscribed,yearly_t_2,es,True,False,37,La Puerta de la Amistad
+bodygraph_gates_open,1710926709972000,35b09107-4bc9-47b8-be9d-3acfadf549f2,35b09107-4bc9-47b8-be9d-3acfadf549f2_1710925117138,/,subscribed,yearly_t_2,es,True,False,10,La Puerta de Comportamiento del Ser

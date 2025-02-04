@@ -1,0 +1,7 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled,event_properties.type
+bodygraph_info_open,1710945573714000,e4d967f7-a907-4b27-896f-606de88180aa,e4d967f7-a907-4b27-896f-606de88180aa_1710945391253,/,subscribed,yearly_t_2,en,False,False,chart
+bodygraph_info_open,1710946102719000,e4d967f7-a907-4b27-896f-606de88180aa,e4d967f7-a907-4b27-896f-606de88180aa_1710945391253,/,subscribed,yearly_t_2,en,False,False,design
+bodygraph_info_open,1710952946511000,455c6cad-2d76-492f-b055-aca499189b80,455c6cad-2d76-492f-b055-aca499189b80_1710952710580,/,subscribed,yearly_t_2,en,True,False,chart
+bodygraph_info_open,1710961421617000,48cafcc3-23fc-49cd-8e8c-834382ee7858,48cafcc3-23fc-49cd-8e8c-834382ee7858_1710961408387,/,subscribed,yearly_v4_introdiscount,en,False,False,chart
+bodygraph_info_open,1710900970664000,cfdf94d2-9bbe-4cfd-b9e2-c8dde91c065f,cfdf94d2-9bbe-4cfd-b9e2-c8dde91c065f_1710900961405,/,subscribed,yearly_t_2,en,False,False,chart
+bodygraph_info_open,1710910994361000,13df49f6-21d0-4b83-b9ce-0450d727a746,13df49f6-21d0-4b83-b9ce-0450d727a746_1710910873889,/,subscribed,yearly_t_2,es,False,False,design

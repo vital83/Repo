@@ -1,0 +1,22 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled,event_properties.id,event_properties.title
+comp_open,1710936759269000,32693f54-f62e-44a9-94c1-6babcf9f6eb9,32693f54-f62e-44a9-94c1-6babcf9f6eb9_1710936665383,/,subscribed,yearly_t_2,en,False,False,15,Get to Know Your Personality Better
+comp_open,1710954645932000,70facd3e-c6b7-4678-97e8-c449d1c970ce,70facd3e-c6b7-4678-97e8-c449d1c970ce_1710954444106,/,subscribed,yearly_t_2,en,False,False,4,The Manifestor. Who am I?
+comp_open,1710957798273000,a6d42d8c-2c39-4c79-a375-135a28eb2702,a6d42d8c-2c39-4c79-a375-135a28eb2702_1710957695752,/,subscribed,yearly_t_2,en,False,False,27,Something new for you
+comp_open,1710969929950000,ab2cbdeb-7a40-4fd4-a0d9-21b13c01011b,ab2cbdeb-7a40-4fd4-a0d9-21b13c01011b_1710969627784,/,subscribed,yearly_t_2,en,False,False,5,The Projector. Who am I?
+comp_open,1710969990375000,ab2cbdeb-7a40-4fd4-a0d9-21b13c01011b,ab2cbdeb-7a40-4fd4-a0d9-21b13c01011b_1710969627784,/,subscribed,yearly_t_2,en,False,False,5,The Projector. Who am I?
+comp_open,1710972471151000,35760e7d-55f3-42dd-a211-f7ecefb1ae14,35760e7d-55f3-42dd-a211-f7ecefb1ae14_1710972399563,/,subscribed,yearly_t_2,en,False,False,28,Are We Good Together?
+comp_open,1710972531148000,35760e7d-55f3-42dd-a211-f7ecefb1ae14,35760e7d-55f3-42dd-a211-f7ecefb1ae14_1710972399563,/,subscribed,yearly_t_2,en,False,False,28,Are We Good Together?
+comp_open,1710973879553000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710972226300,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,28,Are We Good Together?
+comp_open,1710973904608000,76bf5647-6434-45f9-9b4a-7c1fc1acba50,76bf5647-6434-45f9-9b4a-7c1fc1acba50_1710972226300,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,28,Are We Good Together?
+comp_open,1710976035473000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,subscribed,yearly_t_2,en,False,False,30,HD: Course for beginners
+comp_open,1710976053272000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,subscribed,yearly_t_2,en,False,False,30,HD: Course for beginners
+comp_open,1710976319419000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,subscribed,yearly_t_2,en,False,False,15,Get to Know Your Personality Better
+comp_open,1710976466002000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,subscribed,yearly_t_2,en,False,False,15,Get to Know Your Personality Better
+comp_open,1710976486042000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,subscribed,yearly_t_2,en,False,False,28,Are We Good Together?
+comp_open,1710976592928000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,subscribed,yearly_t_2,en,False,False,28,Are We Good Together?
+comp_open,1710979166673000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710979142155,/,subscribed,yearly_t_2,en,False,False,27,Something new for you
+comp_open,1710979192357000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710979142155,/,subscribed,yearly_t_2,en,False,False,27,Something new for you
+comp_open,1710918623486000,be1440dd-c010-4c25-97e9-1434d0030f4c,be1440dd-c010-4c25-97e9-1434d0030f4c_1710917786330,/,subscribed,yearly_t_2,en,True,False,27,Something new for you
+comp_open,1710923930952000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710923311844,/,subscribed,yearly_t_2,en,False,False,4,The Manifestor. Who am I?
+comp_open,1710924068382000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710923311844,/,subscribed,yearly_t_2,en,False,False,4,The Manifestor. Who am I?
+comp_open,1710924306378000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710923311844,/,subscribed,yearly_t_2,en,False,False,4,The Manifestor. Who am I?

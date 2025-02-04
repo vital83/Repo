@@ -1,0 +1,4 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled
+settings_notifications_open,1710942927221000,53c34f9f-8103-40da-9a29-8f3793c18200,53c34f9f-8103-40da-9a29-8f3793c18200_1710942911004,/,subscribed,yearly_t_2,en,True,False
+settings_notifications_open,1710954151224000,77b5ce9f-ba22-4f38-a5de-8c18f5c31e4d,77b5ce9f-ba22-4f38-a5de-8c18f5c31e4d_1710954036716,/,subscribed,6month_1_1999,en,False,False
+settings_notifications_open,1710961249575000,07cc2b03-92ca-4c7a-8406-6659020bda60,07cc2b03-92ca-4c7a-8406-6659020bda60_1710961242981,/,subscribed,yearly_t_2,en,True,False

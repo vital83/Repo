@@ -1,0 +1,2 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,data.user_properties_updated,user_properties.subscription_state,user_properties.subscription_product,event_properties.id
+main_dailytip_openID,1710956102634000,891d9c83-e803-43bd-916b-bb097d571354,891d9c83-e803-43bd-916b-bb097d571354_1710956099189,/,True,subscribed,yearly_1_3999_nt,27

@@ -1,0 +1,66 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled,event_properties.id,event_properties.title
+bodygraph_centers_open,1710895993404000,a98684e1-6ff5-452f-bd2b-42c31fc125ca,a98684e1-6ff5-452f-bd2b-42c31fc125ca_1710895583684,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,6,The Spleen Center
+bodygraph_centers_open,1710896009402000,a98684e1-6ff5-452f-bd2b-42c31fc125ca,a98684e1-6ff5-452f-bd2b-42c31fc125ca_1710895583684,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,9,The Root Center
+bodygraph_centers_open,1710896072891000,a98684e1-6ff5-452f-bd2b-42c31fc125ca,a98684e1-6ff5-452f-bd2b-42c31fc125ca_1710895583684,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,4,The G Center
+bodygraph_centers_open,1710896392805000,2c636e63-a890-46f3-a5d8-6b5a92792e73,2c636e63-a890-46f3-a5d8-6b5a92792e73_1710896388473,/,subscribed,yearly_t_2,ru,False,False,4,Центр Джи
+bodygraph_centers_open,1710936736416000,a26cefc9-13c6-44e5-b436-dc3a40844eb0,a26cefc9-13c6-44e5-b436-dc3a40844eb0_1710936351431,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,3,The Throat Center
+bodygraph_centers_open,1710940050658000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710939811478,/,subscribed,yearly_t_2,en,False,False,8,The Sacral Center
+bodygraph_centers_open,1710940057015000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710939811478,/,subscribed,yearly_t_2,en,False,False,4,The G Center
+bodygraph_centers_open,1710940059609000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710939811478,/,subscribed,yearly_t_2,en,False,False,3,The Throat Center
+bodygraph_centers_open,1710940063474000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710939811478,/,subscribed,yearly_t_2,en,False,False,2,The Ajna Mind Center
+bodygraph_centers_open,1710940067221000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710939811478,/,subscribed,yearly_t_2,en,False,False,1,The Crown Center
+bodygraph_centers_open,1710940075396000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710939811478,/,subscribed,yearly_t_2,en,False,False,1,The Crown Center
+bodygraph_centers_open,1710940080921000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710939811478,/,subscribed,yearly_t_2,en,False,False,2,The Ajna Mind Center
+bodygraph_centers_open,1710940085034000,3688eaf1-9d32-47d0-a98c-b67ed4453fdd,3688eaf1-9d32-47d0-a98c-b67ed4453fdd_1710939811478,/,subscribed,yearly_t_2,en,False,False,8,The Sacral Center
+bodygraph_centers_open,1710940133647000,bde11df2-5a64-4a4c-b1ea-5b6b6baa4989,bde11df2-5a64-4a4c-b1ea-5b6b6baa4989_1710939902822,/,subscribed,weekly_3,en,False,False,3,The Throat Center
+bodygraph_centers_open,1710946914077000,7ea7bfe8-7d6a-4e08-88a9-aa38a44d0780,7ea7bfe8-7d6a-4e08-88a9-aa38a44d0780_1710946828845,/,subscribed,yearly_t_2,en,False,False,8,The Sacral Center
+bodygraph_centers_open,1710947006820000,7ea7bfe8-7d6a-4e08-88a9-aa38a44d0780,7ea7bfe8-7d6a-4e08-88a9-aa38a44d0780_1710946828845,/,subscribed,yearly_t_2,en,False,False,9,The Root Center
+bodygraph_centers_open,1710947096871000,7ea7bfe8-7d6a-4e08-88a9-aa38a44d0780,7ea7bfe8-7d6a-4e08-88a9-aa38a44d0780_1710946828845,/,subscribed,yearly_t_2,en,False,False,9,The Root Center
+bodygraph_centers_open,1710951921670000,358d98b2-a21b-48d6-b185-e7cb0ac47381,358d98b2-a21b-48d6-b185-e7cb0ac47381_1710951587735,/,subscribed,6month_1_1999,en,False,False,1,The Crown Center
+bodygraph_centers_open,1710951929756000,358d98b2-a21b-48d6-b185-e7cb0ac47381,358d98b2-a21b-48d6-b185-e7cb0ac47381_1710951587735,/,subscribed,6month_1_1999,en,False,False,8,The Sacral Center
+bodygraph_centers_open,1710954664557000,70facd3e-c6b7-4678-97e8-c449d1c970ce,70facd3e-c6b7-4678-97e8-c449d1c970ce_1710954444106,/,subscribed,yearly_t_2,en,False,False,6,The Spleen Center
+bodygraph_centers_open,1710960933376000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,2,The Ajna Mind Center
+bodygraph_centers_open,1710960961293000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,9,The Root Center
+bodygraph_centers_open,1710960990027000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,1,The Crown Center
+bodygraph_centers_open,1710961017758000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,1,The Crown Center
+bodygraph_centers_open,1710961043826000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,5,The Ego/Heart Center
+bodygraph_centers_open,1710961079343000,a962ae49-4e32-41fd-aa0c-d6221cfa6149,a962ae49-4e32-41fd-aa0c-d6221cfa6149_1710958577455,/,subscribed,Yearly_30_b_var3,en,True,False,7,The Emotional/Solar Plexus Center
+bodygraph_centers_open,1710960661458000,08d0be44-a87a-43ae-9a20-e5834c163172,08d0be44-a87a-43ae-9a20-e5834c163172_1710960636107,/,subscribed,yearly_t_2,en,False,False,2,The Ajna Mind Center
+bodygraph_centers_open,1710960740940000,08d0be44-a87a-43ae-9a20-e5834c163172,08d0be44-a87a-43ae-9a20-e5834c163172_1710960636107,/,subscribed,yearly_t_2,en,False,False,8,The Sacral Center
+bodygraph_centers_open,1710964333291000,2b969b36-e4f8-4503-b70b-e99eaeed7cf4,2b969b36-e4f8-4503-b70b-e99eaeed7cf4_1710964121382,/,subscribed,weekly_1299_intro_promo_discount,ru,False,False,4,Центр Джи
+bodygraph_centers_open,1710901036271000,5484c2b5-d1c3-42c3-8c04-0db14acf80c7,5484c2b5-d1c3-42c3-8c04-0db14acf80c7_1710901010293,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,2,The Ajna Mind Center
+bodygraph_centers_open,1710901918467000,9a874124-8bf1-4070-8cca-68a006a36a37,9a874124-8bf1-4070-8cca-68a006a36a37_1710900966657,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,2,The Ajna Mind Center
+bodygraph_centers_open,1710968240171000,c9a53bc6-dc26-401c-867a-953b6e277682,c9a53bc6-dc26-401c-867a-953b6e277682_1710968199804,/,subscribed,monthly_t_2,en,False,False,5,The Ego/Heart Center
+bodygraph_centers_open,1710968848364000,c9a53bc6-dc26-401c-867a-953b6e277682,c9a53bc6-dc26-401c-867a-953b6e277682_1710968199804,/,subscribed,monthly_t_2,en,False,False,5,The Ego/Heart Center
+bodygraph_centers_open,1710971679500000,a2a5d85f-2979-4bf1-b890-666ff5a89123,a2a5d85f-2979-4bf1-b890-666ff5a89123_1710971645978,/,subscribed,yearly_t_2,en,True,False,8,The Sacral Center
+bodygraph_centers_open,1710971698437000,a2a5d85f-2979-4bf1-b890-666ff5a89123,a2a5d85f-2979-4bf1-b890-666ff5a89123_1710971645978,/,subscribed,yearly_t_2,en,True,False,8,The Sacral Center
+bodygraph_centers_open,1710526700048000,601e177f-e0c8-4196-9faa-b78576a428bc,601e177f-e0c8-4196-9faa-b78576a428bc_1710526679010,/,subscribed,yearly_t_2,en,False,False,8,The Sacral Center
+bodygraph_centers_open,1710968583821000,a26cefc9-13c6-44e5-b436-dc3a40844eb0,a26cefc9-13c6-44e5-b436-dc3a40844eb0_1710967480730,/,subscribed,weekly_1299_intro_promo_discount,en,False,False,9,The Root Center
+bodygraph_centers_open,1710971282455000,ea494e5f-c230-4ff0-a871-a3358ce15f20,ea494e5f-c230-4ff0-a871-a3358ce15f20_1710969505916,/,subscribed,6month_1_1999,en,False,False,1,The Crown Center
+bodygraph_centers_open,1710971357210000,ea494e5f-c230-4ff0-a871-a3358ce15f20,ea494e5f-c230-4ff0-a871-a3358ce15f20_1710969505916,/,subscribed,6month_1_1999,en,False,False,6,The Spleen Center
+bodygraph_centers_open,1710971397547000,ea494e5f-c230-4ff0-a871-a3358ce15f20,ea494e5f-c230-4ff0-a871-a3358ce15f20_1710969505916,/,subscribed,6month_1_1999,en,False,False,5,The Ego/Heart Center
+bodygraph_centers_open,1710971559450000,ea494e5f-c230-4ff0-a871-a3358ce15f20,ea494e5f-c230-4ff0-a871-a3358ce15f20_1710969505916,/,subscribed,6month_1_1999,en,False,False,2,The Ajna Mind Center
+bodygraph_centers_open,1710971597876000,ea494e5f-c230-4ff0-a871-a3358ce15f20,ea494e5f-c230-4ff0-a871-a3358ce15f20_1710969505916,/,subscribed,6month_1_1999,en,False,False,3,The Throat Center
+bodygraph_centers_open,1710974541073000,3729cbfd-ce53-4cd7-8174-9e2b5cc3a77c,3729cbfd-ce53-4cd7-8174-9e2b5cc3a77c_1710974449694,/,subscribed,yearly_t_2,en,False,False,3,The Throat Center
+bodygraph_centers_open,1710974748290000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,subscribed,yearly_t_2,en,False,False,2,The Ajna Mind Center
+bodygraph_centers_open,1710974865820000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,subscribed,yearly_t_2,en,False,False,3,The Throat Center
+bodygraph_centers_open,1710978986262000,5d3a1992-4990-46a6-b7d2-b3d06a79d190,5d3a1992-4990-46a6-b7d2-b3d06a79d190_1710976575071,/,subscribed,weekly_3,en,False,False,1,The Crown Center
+bodygraph_centers_open,1710979054586000,5d3a1992-4990-46a6-b7d2-b3d06a79d190,5d3a1992-4990-46a6-b7d2-b3d06a79d190_1710976575071,/,subscribed,weekly_3,en,False,False,2,The Ajna Mind Center
+bodygraph_centers_open,1710979113239000,5d3a1992-4990-46a6-b7d2-b3d06a79d190,5d3a1992-4990-46a6-b7d2-b3d06a79d190_1710976575071,/,subscribed,weekly_3,en,False,False,3,The Throat Center
+bodygraph_centers_open,1710914928518000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,9,The Root Center
+bodygraph_centers_open,1710915044470000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,6,The Spleen Center
+bodygraph_centers_open,1710915835617000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,8,The Sacral Center
+bodygraph_centers_open,1710915855922000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710914541500,/,subscribed,yearly_t_2,en,False,False,8,The Sacral Center
+bodygraph_centers_open,1710917010906000,147d732a-eeab-416b-85b5-45b55ebab8b0,147d732a-eeab-416b-85b5-45b55ebab8b0_1710916938840,/,subscribed,yearly_t_2,en,False,False,6,The Spleen Center
+bodygraph_centers_open,1710920110302000,17aa38d2-724a-434f-8000-b86ebd4a7fe1,17aa38d2-724a-434f-8000-b86ebd4a7fe1_1710920053778,/,subscribed,6month_1_1999,ru,False,False,3,Горловой центр
+bodygraph_centers_open,1710920171291000,17aa38d2-724a-434f-8000-b86ebd4a7fe1,17aa38d2-724a-434f-8000-b86ebd4a7fe1_1710920053778,/,subscribed,6month_1_1999,ru,False,False,3,Горловой центр
+bodygraph_centers_open,1710920190935000,17aa38d2-724a-434f-8000-b86ebd4a7fe1,17aa38d2-724a-434f-8000-b86ebd4a7fe1_1710920053778,/,subscribed,6month_1_1999,ru,False,False,7,Эмоциональный центр
+bodygraph_centers_open,1710920240455000,17aa38d2-724a-434f-8000-b86ebd4a7fe1,17aa38d2-724a-434f-8000-b86ebd4a7fe1_1710920053778,/,subscribed,6month_1_1999,ru,False,False,3,Горловой центр
+bodygraph_centers_open,1710925237186000,35b09107-4bc9-47b8-be9d-3acfadf549f2,35b09107-4bc9-47b8-be9d-3acfadf549f2_1710925117138,/,subscribed,yearly_t_2,es,True,False,9,El Centro Raíz
+bodygraph_centers_open,1710925604345000,35b09107-4bc9-47b8-be9d-3acfadf549f2,35b09107-4bc9-47b8-be9d-3acfadf549f2_1710925117138,/,subscribed,yearly_t_2,es,True,False,8,El Centro Sacral
+bodygraph_centers_open,1710925631629000,35b09107-4bc9-47b8-be9d-3acfadf549f2,35b09107-4bc9-47b8-be9d-3acfadf549f2_1710925117138,/,subscribed,yearly_t_2,es,True,False,5,El Centro Ego/Corazón
+bodygraph_centers_open,1710925690403000,35b09107-4bc9-47b8-be9d-3acfadf549f2,35b09107-4bc9-47b8-be9d-3acfadf549f2_1710925117138,/,subscribed,yearly_t_2,es,True,False,5,El Centro Ego/Corazón
+bodygraph_centers_open,1710925727829000,35b09107-4bc9-47b8-be9d-3acfadf549f2,35b09107-4bc9-47b8-be9d-3acfadf549f2_1710925117138,/,subscribed,yearly_t_2,es,True,False,5,El Centro Ego/Corazón
+bodygraph_centers_open,1710925825438000,35b09107-4bc9-47b8-be9d-3acfadf549f2,35b09107-4bc9-47b8-be9d-3acfadf549f2_1710925117138,/,subscribed,yearly_t_2,es,True,False,1,El Centro Corona
+bodygraph_centers_open,1710925942468000,35b09107-4bc9-47b8-be9d-3acfadf549f2,35b09107-4bc9-47b8-be9d-3acfadf549f2_1710925117138,/,subscribed,yearly_t_2,es,True,False,2,El Centro Ajna Mind
+bodygraph_centers_open,1710925972149000,35b09107-4bc9-47b8-be9d-3acfadf549f2,35b09107-4bc9-47b8-be9d-3acfadf549f2_1710925117138,/,subscribed,yearly_t_2,es,True,False,3,El Centro de la Garganta

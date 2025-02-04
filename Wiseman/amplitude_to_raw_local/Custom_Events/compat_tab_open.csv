@@ -1,0 +1,5 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.ab_tooltips_enabled,event_properties.tab,event_properties.type
+compat_tab_open,1710943198717000,78214edb-0ca8-4b34-a514-bdcba88efe77,78214edb-0ca8-4b34-a514-bdcba88efe77_1710942970599,/,subscribed,Yearly_30_b_var3,False,partner,love
+compat_tab_open,1710943229769000,78214edb-0ca8-4b34-a514-bdcba88efe77,78214edb-0ca8-4b34-a514-bdcba88efe77_1710942970599,/,subscribed,Yearly_30_b_var3,False,partner,love
+compat_tab_open,1710943249662000,78214edb-0ca8-4b34-a514-bdcba88efe77,78214edb-0ca8-4b34-a514-bdcba88efe77_1710942970599,/,subscribed,Yearly_30_b_var3,False,partner,family
+compat_tab_open,1710963652561000,d429f7aa-1bdf-4318-a70c-8a6850394f7c,d429f7aa-1bdf-4318-a70c-8a6850394f7c_1710963236740,/,subscribed,yearly_t_2,False,partner,love

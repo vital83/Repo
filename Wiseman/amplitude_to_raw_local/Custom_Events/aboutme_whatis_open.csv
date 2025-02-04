@@ -1,0 +1,3 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled,event_properties.type
+aboutme_whatis_open,1710924347090000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710923311844,/,subscribed,yearly_t_2,en,False,False,authority
+aboutme_whatis_open,1710924565866000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710923311844,/,subscribed,yearly_t_2,en,False,False,strategy

@@ -1,0 +1,2 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled,user_properties.level
+onb2_tutorial_4,1710918042252000,269af40e-9fe5-44a7-b0b3-7045386ebc1c,269af40e-9fe5-44a7-b0b3-7045386ebc1c_1710918026766,/,en,True,False,well

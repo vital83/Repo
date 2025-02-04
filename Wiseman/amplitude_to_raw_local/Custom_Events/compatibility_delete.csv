@@ -1,0 +1,13 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled,event_properties.type
+compatibility_delete,1710561968989000,1f8654b9-8e75-4723-bd54-242492c3ef62,1f8654b9-8e75-4723-bd54-242492c3ef62_1710561536760,/,subscribed,yearly_t_2,en,False,False,love_and_friendship
+compatibility_delete,1710290491528000,2041f020-2e3e-440f-af4e-e52f1334580a,2041f020-2e3e-440f-af4e-e52f1334580a_1710290449332,/,subscribed,6month_1_1999,en,True,False,love_and_friendship
+compatibility_delete,1710936233593000,672cf249-7a7c-4af9-890f-6d1581e2c35e,672cf249-7a7c-4af9-890f-6d1581e2c35e_1710936140714,/,subscribed,yearly_t_2,en,False,False,family_relations
+compatibility_delete,1710950498535000,29a8f462-a088-4424-9a70-1f623e23b332,29a8f462-a088-4424-9a70-1f623e23b332_1710950408044,/,subscribed,yearly_t_2,es,True,False,love_and_friendship
+compatibility_delete,1710950504228000,29a8f462-a088-4424-9a70-1f623e23b332,29a8f462-a088-4424-9a70-1f623e23b332_1710950408044,/,subscribed,yearly_t_2,es,True,False,love_and_friendship
+compatibility_delete,1710954660140000,9463ea66-a85a-48d4-b0ee-f5645a24f913,9463ea66-a85a-48d4-b0ee-f5645a24f913_1710954358364,/,subscribed,yearly_t_2,en,False,False,love_and_friendship
+compatibility_delete,1710959959043000,545b4924-81c5-4ea4-be94-ac41790c6707,545b4924-81c5-4ea4-be94-ac41790c6707_1710959885219,/,subscribed,yearly_t_2,en,False,False,love_and_friendship
+compatibility_delete,1710960533595000,545b4924-81c5-4ea4-be94-ac41790c6707,545b4924-81c5-4ea4-be94-ac41790c6707_1710959885219,/,subscribed,yearly_t_2,en,False,False,love_and_friendship
+compatibility_delete,1710909083281000,7a2e9d6e-a5b1-4a9f-a03d-06136fe6aee9,7a2e9d6e-a5b1-4a9f-a03d-06136fe6aee9_1710908967301,/,subscribed,6month_1_1999,en,True,False,love_and_friendship
+compatibility_delete,1710909090391000,7a2e9d6e-a5b1-4a9f-a03d-06136fe6aee9,7a2e9d6e-a5b1-4a9f-a03d-06136fe6aee9_1710908967301,/,subscribed,6month_1_1999,en,True,False,love_and_friendship
+compatibility_delete,1710870109986000,39dc36ff-40af-411d-82fc-0f49900138a2,39dc36ff-40af-411d-82fc-0f49900138a2_1710870029576,/,subscribed,monthly_1_999_nt,en,True,False,casual_and_social
+compatibility_delete,1710927510374000,63dd3e3f-d187-4e79-8cbb-cabb233b8947,63dd3e3f-d187-4e79-8cbb-cabb233b8947_1710927402086,/,subscribed,6month_1_1999,en,False,False,love_and_friendship

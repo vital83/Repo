@@ -1,0 +1,2 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled
+transits_info_open,1710892880406000,c9f3b2d3-4580-4cad-a68a-6f6c5225791d,c9f3b2d3-4580-4cad-a68a-6f6c5225791d_1710892821137,/,auto_renew_off,yearly_t_2,en,False,False

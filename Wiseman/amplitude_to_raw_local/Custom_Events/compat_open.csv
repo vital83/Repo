@@ -1,0 +1,4 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.ab_tooltips_enabled
+compat_open,1710943193579000,78214edb-0ca8-4b34-a514-bdcba88efe77,78214edb-0ca8-4b34-a514-bdcba88efe77_1710942970599,/,subscribed,Yearly_30_b_var3,False
+compat_open,1710963424464000,d429f7aa-1bdf-4318-a70c-8a6850394f7c,d429f7aa-1bdf-4318-a70c-8a6850394f7c_1710963236740,/,subscribed,yearly_t_2,False
+compat_open,1710970292545000,f22dfd0d-5510-433f-972b-752d3ad147d5,f22dfd0d-5510-433f-972b-752d3ad147d5_1710970271107,/,subscribed,yearly_t_2,False

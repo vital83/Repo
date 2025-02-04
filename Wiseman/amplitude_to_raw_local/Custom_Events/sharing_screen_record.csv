@@ -1,0 +1,2 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled,event_properties.url
+sharing_screen_record,1710918817913000,0560c3f3-2461-4ed8-b90f-661a635bd6dc,0560c3f3-2461-4ed8-b90f-661a635bd6dc_1710918787707,/,subscribed,yearly_t_2,en,False,False,/home/tabs/compatibility

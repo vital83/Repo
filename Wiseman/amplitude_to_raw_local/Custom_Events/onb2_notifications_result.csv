@@ -1,0 +1,2 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled,user_properties.level,event_properties.time,event_properties.granted
+onb2_notifications_result,1710959025108000,7a284a01-cde8-49ae-a8a8-41e4b5418c3f,7a284a01-cde8-49ae-a8a8-41e4b5418c3f_1710958883897,/,en,True,False,expert,evening,False

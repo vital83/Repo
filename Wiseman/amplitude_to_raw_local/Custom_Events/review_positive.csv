@@ -1,0 +1,6 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.subscription_state,user_properties.subscription_product,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled
+review_positive,1710936070566000,8dde66e1-cf11-4fb9-8773-afd6156f3fff,8dde66e1-cf11-4fb9-8773-afd6156f3fff_1710936061125,/,subscribed,yearly_t_2,es,False,False
+review_positive,1710943695411000,e1d7ee59-4d30-45e0-8d38-de49a10fd876,e1d7ee59-4d30-45e0-8d38-de49a10fd876_1710943686463,/,subscribed,yearly_t_2,en,False,False
+review_positive,1710952525603000,71e72f3d-ca37-4a6d-aba8-35c9c970411c,71e72f3d-ca37-4a6d-aba8-35c9c970411c_1710952514883,/,subscribed,yearly_t_2,en,False,False
+review_positive,1710908650473000,8fa46858-ed2b-4f2e-b331-a8c0d1ea1ded,8fa46858-ed2b-4f2e-b331-a8c0d1ea1ded_1710908514942,/,subscribed,yearly_t_2,en,False,False
+review_positive,1710916003818000,0a0c5d31-608c-45fd-9efa-c8e8dca1afba,0a0c5d31-608c-45fd-9efa-c8e8dca1afba_1710915902325,/,subscribed,weekly_1299_intro_promo_discount,en,False,False

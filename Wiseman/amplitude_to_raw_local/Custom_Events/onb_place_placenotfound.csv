@@ -1,0 +1,118 @@
+event_name,event_timestamp,user_pseudo_id,unique_session_id,data.path,user_properties.app_language,user_properties.feature_new_onboarding,user_properties.ab_tooltips_enabled,event_properties.city,event_properties.lang
+onb_place_placenotfound,1710899356086000,1dfc6c10-9903-41ce-8306-73a2879b1651,1dfc6c10-9903-41ce-8306-73a2879b1651_1710899298329,/,en,True,False,Port st licie,en
+onb_place_placenotfound,1710899358655000,1dfc6c10-9903-41ce-8306-73a2879b1651,1dfc6c10-9903-41ce-8306-73a2879b1651_1710899298329,/,en,True,False,Port st licie,en
+onb_place_placenotfound,1710899498388000,28802c69-ad26-4184-acda-239f1349835d,28802c69-ad26-4184-acda-239f1349835d_1710899443108,/,en,False,False,Stracuse,en
+onb_place_placenotfound,1710934718241000,1527105e-e51c-49fa-872e-5bca784bf02c,1527105e-e51c-49fa-872e-5bca784bf02c_1710934685459,/,en,False,False,Connetic,en
+onb_place_placenotfound,1710934725408000,1527105e-e51c-49fa-872e-5bca784bf02c,1527105e-e51c-49fa-872e-5bca784bf02c_1710934685459,/,en,False,False,Conneticu,en
+onb_place_placenotfound,1710934727454000,1527105e-e51c-49fa-872e-5bca784bf02c,1527105e-e51c-49fa-872e-5bca784bf02c_1710934685459,/,en,False,False,Connecticut,en
+onb_place_placenotfound,1710933208213000,a6fa30ba-57ca-49f6-9881-52b578b429bb,a6fa30ba-57ca-49f6-9881-52b578b429bb_1710933144806,/,en,False,False,Malaysia,en
+onb_place_placenotfound,1710933215890000,a6fa30ba-57ca-49f6-9881-52b578b429bb,a6fa30ba-57ca-49f6-9881-52b578b429bb_1710933144806,/,en,False,False,Perak,en
+onb_place_placenotfound,1710934570066000,1ce593c6-706a-444e-91e5-0da090e74df9,1ce593c6-706a-444e-91e5-0da090e74df9_1710934316471,/,en,False,False,Kocasinan,en
+onb_place_placenotfound,1710934927110000,a50b014a-fc50-4e03-b381-4485d6139735,a50b014a-fc50-4e03-b381-4485d6139735_1710934854687,/,en,False,False,Eotherham,en
+onb_place_placenotfound,1710940926345000,1937fb7e-ee0c-47da-a453-88033334f288,1937fb7e-ee0c-47da-a453-88033334f288_1710940759574,/,en,False,False,Dallas texas,en
+onb_place_placenotfound,1710940927298000,1937fb7e-ee0c-47da-a453-88033334f288,1937fb7e-ee0c-47da-a453-88033334f288_1710940759574,/,en,False,False,Dallas Texas,en
+onb_place_placenotfound,1710941501671000,0237bc6a-6200-4bcd-99a7-2f706f258e2d,0237bc6a-6200-4bcd-99a7-2f706f258e2d_1710941338299,/,en,False,False,Hackney,en
+onb_place_placenotfound,1710941506278000,0237bc6a-6200-4bcd-99a7-2f706f258e2d,0237bc6a-6200-4bcd-99a7-2f706f258e2d_1710941338299,/,en,False,False,Hackney,en
+onb_place_placenotfound,1710941779887000,46efba3b-0644-4b7b-b79c-927eccd17ef1,46efba3b-0644-4b7b-b79c-927eccd17ef1_1710941698396,/,en,False,False,Gainsville,en
+onb_place_placenotfound,1710941782293000,46efba3b-0644-4b7b-b79c-927eccd17ef1,46efba3b-0644-4b7b-b79c-927eccd17ef1_1710941698396,/,en,False,False,Gainsville Florida,en
+onb_place_placenotfound,1710941786074000,46efba3b-0644-4b7b-b79c-927eccd17ef1,46efba3b-0644-4b7b-b79c-927eccd17ef1_1710941698396,/,en,False,False,Gainsvill,en
+onb_place_placenotfound,1710941787179000,46efba3b-0644-4b7b-b79c-927eccd17ef1,46efba3b-0644-4b7b-b79c-927eccd17ef1_1710941698396,/,en,False,False,Gainsville,en
+onb_place_placenotfound,1710941796414000,46efba3b-0644-4b7b-b79c-927eccd17ef1,46efba3b-0644-4b7b-b79c-927eccd17ef1_1710941698396,/,en,False,False,Gainsville,en
+onb_place_placenotfound,1710941849202000,46efba3b-0644-4b7b-b79c-927eccd17ef1,46efba3b-0644-4b7b-b79c-927eccd17ef1_1710941698396,/,en,False,False,Gainsville,en
+onb_place_placenotfound,1710947011033000,f353cbc4-f5b7-4497-8018-8a7c30a350bc,f353cbc4-f5b7-4497-8018-8a7c30a350bc_1710946935644,/,en,False,False,Bangor maine,en
+onb_place_placenotfound,1710947012083000,f353cbc4-f5b7-4497-8018-8a7c30a350bc,f353cbc4-f5b7-4497-8018-8a7c30a350bc_1710946935644,/,en,False,False,Bangor Maine,en
+onb_place_placenotfound,1710952267383000,19283dae-93d8-4e00-8ff8-b13033fb6e9b,19283dae-93d8-4e00-8ff8-b13033fb6e9b_1710952135087,/,en,False,False,"Charlotte, North Carolina",en
+onb_place_placenotfound,1710955441943000,17aa38d2-724a-434f-8000-b86ebd4a7fe1,17aa38d2-724a-434f-8000-b86ebd4a7fe1_1710955335512,/,ru,False,False,Кустанай,ru
+onb_place_placenotfound,1710955450302000,17aa38d2-724a-434f-8000-b86ebd4a7fe1,17aa38d2-724a-434f-8000-b86ebd4a7fe1_1710955335512,/,ru,False,False,Казахстан,ru
+onb_place_placenotfound,1710955452618000,17aa38d2-724a-434f-8000-b86ebd4a7fe1,17aa38d2-724a-434f-8000-b86ebd4a7fe1_1710955335512,/,ru,False,False,"Казахстан,",ru
+onb_place_placenotfound,1710955455286000,17aa38d2-724a-434f-8000-b86ebd4a7fe1,17aa38d2-724a-434f-8000-b86ebd4a7fe1_1710955335512,/,ru,False,False,Казах,ru
+onb_place_placenotfound,1710957377920000,613a4ec3-2747-40a7-a67d-dd6f11fde728,613a4ec3-2747-40a7-a67d-dd6f11fde728_1710957294121,/,en,False,False,New Jersey,en
+onb_place_placenotfound,1710957383245000,613a4ec3-2747-40a7-a67d-dd6f11fde728,613a4ec3-2747-40a7-a67d-dd6f11fde728_1710957294121,/,en,False,False,New Jersey city,en
+onb_place_placenotfound,1710957392152000,613a4ec3-2747-40a7-a67d-dd6f11fde728,613a4ec3-2747-40a7-a67d-dd6f11fde728_1710957294121,/,en,False,False,New Jersey,en
+onb_place_placenotfound,1710957396961000,613a4ec3-2747-40a7-a67d-dd6f11fde728,613a4ec3-2747-40a7-a67d-dd6f11fde728_1710957294121,/,en,False,False,New Jersey Hudson,en
+onb_place_placenotfound,1710957406073000,613a4ec3-2747-40a7-a67d-dd6f11fde728,613a4ec3-2747-40a7-a67d-dd6f11fde728_1710957294121,/,en,False,False,New Jersey,en
+onb_place_placenotfound,1710957438942000,613a4ec3-2747-40a7-a67d-dd6f11fde728,613a4ec3-2747-40a7-a67d-dd6f11fde728_1710957294121,/,en,False,False,Medical new,en
+onb_place_placenotfound,1710957443345000,613a4ec3-2747-40a7-a67d-dd6f11fde728,613a4ec3-2747-40a7-a67d-dd6f11fde728_1710957294121,/,en,False,False,Medical new hersey,en
+onb_place_placenotfound,1710957445907000,613a4ec3-2747-40a7-a67d-dd6f11fde728,613a4ec3-2747-40a7-a67d-dd6f11fde728_1710957294121,/,en,False,False,Medical new,en
+onb_place_placenotfound,1710957449185000,613a4ec3-2747-40a7-a67d-dd6f11fde728,613a4ec3-2747-40a7-a67d-dd6f11fde728_1710957294121,/,en,False,False,Medical New Jersey,en
+onb_place_placenotfound,1710957451392000,613a4ec3-2747-40a7-a67d-dd6f11fde728,613a4ec3-2747-40a7-a67d-dd6f11fde728_1710957294121,/,en,False,False,Medical New Jersey city,en
+onb_place_placenotfound,1710959246278000,fafe17ba-083d-4b4d-9502-634ab6418447,fafe17ba-083d-4b4d-9502-634ab6418447_1710959188542,/,ru,False,False,Shym,ru
+onb_place_placenotfound,1710960072598000,f13ce10b-9919-4305-b4c6-6be9869ea6f2,f13ce10b-9919-4305-b4c6-6be9869ea6f2_1710959960291,/,en,False,False,"Jackson,",en
+onb_place_placenotfound,1710960076498000,f13ce10b-9919-4305-b4c6-6be9869ea6f2,f13ce10b-9919-4305-b4c6-6be9869ea6f2_1710959960291,/,en,False,False,Jackson mi,en
+onb_place_placenotfound,1710960078402000,f13ce10b-9919-4305-b4c6-6be9869ea6f2,f13ce10b-9919-4305-b4c6-6be9869ea6f2_1710959960291,/,en,False,False,Jackson mich,en
+onb_place_placenotfound,1710960079988000,f13ce10b-9919-4305-b4c6-6be9869ea6f2,f13ce10b-9919-4305-b4c6-6be9869ea6f2_1710959960291,/,en,False,False,Jackson mi,en
+onb_place_placenotfound,1710960099327000,f13ce10b-9919-4305-b4c6-6be9869ea6f2,f13ce10b-9919-4305-b4c6-6be9869ea6f2_1710959960291,/,en,False,False,Michigan jackson,en
+onb_place_placenotfound,1710901467134000,47906572-0bea-42fb-a516-ad379f3bac30,47906572-0bea-42fb-a516-ad379f3bac30_1710901377274,/,en,False,False,Managua nicara,en
+onb_place_placenotfound,1710901468225000,47906572-0bea-42fb-a516-ad379f3bac30,47906572-0bea-42fb-a516-ad379f3bac30_1710901377274,/,en,False,False,Managua Nicaragua,en
+onb_place_placenotfound,1710965125137000,928668f1-1810-430d-9f4a-774d90b03208,928668f1-1810-430d-9f4a-774d90b03208_1710965056344,/,en,False,False,Willimantic CT,en
+onb_place_placenotfound,1710965143839000,928668f1-1810-430d-9f4a-774d90b03208,928668f1-1810-430d-9f4a-774d90b03208_1710965056344,/,en,False,False,NCT,en
+onb_place_placenotfound,1710965148320000,928668f1-1810-430d-9f4a-774d90b03208,928668f1-1810-430d-9f4a-774d90b03208_1710965056344,/,en,False,False,NoCT,en
+onb_place_placenotfound,1710965152159000,928668f1-1810-430d-9f4a-774d90b03208,928668f1-1810-430d-9f4a-774d90b03208_1710965056344,/,en,False,False,Norwich CT,en
+onb_place_placenotfound,1710965158877000,928668f1-1810-430d-9f4a-774d90b03208,928668f1-1810-430d-9f4a-774d90b03208_1710965056344,/,en,False,False,Hartford CT,en
+onb_place_placenotfound,1710965340575000,928668f1-1810-430d-9f4a-774d90b03208,928668f1-1810-430d-9f4a-774d90b03208_1710965056344,/,en,False,False,CT,en
+onb_place_placenotfound,1710965346827000,928668f1-1810-430d-9f4a-774d90b03208,928668f1-1810-430d-9f4a-774d90b03208_1710965056344,/,en,False,False,New yprk,en
+onb_place_placenotfound,1710965773328000,ca5649b8-721f-43f4-82ab-0e849c0c3cb6,ca5649b8-721f-43f4-82ab-0e849c0c3cb6_1710965663409,/,en,False,False,Medellín col,en
+onb_place_placenotfound,1710967895584000,b27b8466-7c6e-42d0-b1e7-340f48334298,b27b8466-7c6e-42d0-b1e7-340f48334298_1710967824233,/,en,False,False,Winston salem nc,en
+onb_place_placenotfound,1710968535309000,a60794ca-79b1-4ec7-87cc-16640749552c,a60794ca-79b1-4ec7-87cc-16640749552c_1710968479993,/,en,False,False,Bergen coun,en
+onb_place_placenotfound,1710969793879000,9d210360-2f43-4729-b4a2-2c3833d3ed6b,9d210360-2f43-4729-b4a2-2c3833d3ed6b_1710969720428,/,en,False,False,Woc,en
+onb_place_placenotfound,1710969799162000,9d210360-2f43-4729-b4a2-2c3833d3ed6b,9d210360-2f43-4729-b4a2-2c3833d3ed6b_1710969720428,/,en,False,False,Woc,en
+onb_place_placenotfound,1710969809537000,9d210360-2f43-4729-b4a2-2c3833d3ed6b,9d210360-2f43-4729-b4a2-2c3833d3ed6b_1710969720428,/,en,False,False,Wocstshire,en
+onb_place_placenotfound,1710969816220000,9d210360-2f43-4729-b4a2-2c3833d3ed6b,9d210360-2f43-4729-b4a2-2c3833d3ed6b_1710969720428,/,en,False,False,Woster,en
+onb_place_placenotfound,1710969939444000,812f88bd-1570-43fa-89c7-aba2067b73ae,812f88bd-1570-43fa-89c7-aba2067b73ae_1710969889710,/,en,False,False,"Harrisburg,",en
+onb_place_placenotfound,1710969944049000,812f88bd-1570-43fa-89c7-aba2067b73ae,812f88bd-1570-43fa-89c7-aba2067b73ae_1710969889710,/,en,False,False,"Harrisburg, Pennsylvania",en
+onb_place_placenotfound,1710969945688000,812f88bd-1570-43fa-89c7-aba2067b73ae,812f88bd-1570-43fa-89c7-aba2067b73ae_1710969889710,/,en,False,False,"Harrisburg, Pennsylvania,",en
+onb_place_placenotfound,1710970283476000,820e748e-9066-4ba4-ace2-6f4a124b3db3,820e748e-9066-4ba4-ace2-6f4a124b3db3_1710970108477,/,es,False,False,Pericos sinaloa,es
+onb_place_placenotfound,1710970300575000,820e748e-9066-4ba4-ace2-6f4a124b3db3,820e748e-9066-4ba4-ace2-6f4a124b3db3_1710970108477,/,es,False,False,Crucero badi,es
+onb_place_placenotfound,1710970302520000,820e748e-9066-4ba4-ace2-6f4a124b3db3,820e748e-9066-4ba4-ace2-6f4a124b3db3_1710970108477,/,es,False,False,Crucero badira,es
+onb_place_placenotfound,1710970336309000,820e748e-9066-4ba4-ace2-6f4a124b3db3,820e748e-9066-4ba4-ace2-6f4a124b3db3_1710970108477,/,es,False,False,Los mezcales,es
+onb_place_placenotfound,1710970351790000,820e748e-9066-4ba4-ace2-6f4a124b3db3,820e748e-9066-4ba4-ace2-6f4a124b3db3_1710970108477,/,es,False,False,Retes,es
+onb_place_placenotfound,1710970362236000,820e748e-9066-4ba4-ace2-6f4a124b3db3,820e748e-9066-4ba4-ace2-6f4a124b3db3_1710970108477,/,es,False,False,El guamu,es
+onb_place_placenotfound,1710970364058000,820e748e-9066-4ba4-ace2-6f4a124b3db3,820e748e-9066-4ba4-ace2-6f4a124b3db3_1710970108477,/,es,False,False,El guamuc,es
+onb_place_placenotfound,1710970366929000,820e748e-9066-4ba4-ace2-6f4a124b3db3,820e748e-9066-4ba4-ace2-6f4a124b3db3_1710970108477,/,es,False,False,El guamuchil,es
+onb_place_placenotfound,1710970404302000,820e748e-9066-4ba4-ace2-6f4a124b3db3,820e748e-9066-4ba4-ace2-6f4a124b3db3_1710970108477,/,es,False,False,El guadare,es
+onb_place_placenotfound,1710972136534000,1b876427-2f30-4d3c-9bee-c7e1caf6c70f,1b876427-2f30-4d3c-9bee-c7e1caf6c70f_1710971569787,/,en,False,False,Fosi,en
+onb_place_placenotfound,1710972144524000,1b876427-2f30-4d3c-9bee-c7e1caf6c70f,1b876427-2f30-4d3c-9bee-c7e1caf6c70f_1710971569787,/,en,False,False,Makmo,en
+onb_place_placenotfound,1710972921984000,928668f1-1810-430d-9f4a-774d90b03208,928668f1-1810-430d-9f4a-774d90b03208_1710972875697,/,en,False,False,Warren Ph,en
+onb_place_placenotfound,1710972926891000,928668f1-1810-430d-9f4a-774d90b03208,928668f1-1810-430d-9f4a-774d90b03208_1710972875697,/,en,False,False,Warren O,en
+onb_place_placenotfound,1710972928624000,928668f1-1810-430d-9f4a-774d90b03208,928668f1-1810-430d-9f4a-774d90b03208_1710972875697,/,en,False,False,Warren OHio,en
+onb_place_placenotfound,1710975021164000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,en,False,False,paso pereira,en
+onb_place_placenotfound,1710975036212000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,en,False,False,"uruguay,",en
+onb_place_placenotfound,1710975037749000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,en,False,False,"uruguay, p",en
+onb_place_placenotfound,1710975039537000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,en,False,False,"uruguay, paso",en
+onb_place_placenotfound,1710975058028000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,en,False,False,paso pere,en
+onb_place_placenotfound,1710975059978000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,en,False,False,paso per,en
+onb_place_placenotfound,1710975061824000,db2e9515-1e72-4c80-ba86-8ba946438e2f,db2e9515-1e72-4c80-ba86-8ba946438e2f_1710973550537,/,en,False,False,paso pe,en
+onb_place_placenotfound,1710975476437000,5d3a1992-4990-46a6-b7d2-b3d06a79d190,5d3a1992-4990-46a6-b7d2-b3d06a79d190_1710975342572,/,en,False,False,"Deer Park,",en
+onb_place_placenotfound,1710975483315000,5d3a1992-4990-46a6-b7d2-b3d06a79d190,5d3a1992-4990-46a6-b7d2-b3d06a79d190_1710975342572,/,en,False,False,"Deer Park, California",en
+onb_place_placenotfound,1710975527129000,5d3a1992-4990-46a6-b7d2-b3d06a79d190,5d3a1992-4990-46a6-b7d2-b3d06a79d190_1710975342572,/,en,False,False,Saint helena,en
+onb_place_placenotfound,1710975787187000,16e3becf-3a61-4db3-ae03-d7d128a36511,16e3becf-3a61-4db3-ae03-d7d128a36511_1710975693201,/,en,False,False,Krostian,en
+onb_place_placenotfound,1710975812964000,16e3becf-3a61-4db3-ae03-d7d128a36511,16e3becf-3a61-4db3-ae03-d7d128a36511_1710975693201,/,en,False,False,Norway k,en
+onb_place_placenotfound,1710975855608000,16e3becf-3a61-4db3-ae03-d7d128a36511,16e3becf-3a61-4db3-ae03-d7d128a36511_1710975693201,/,en,False,False,Krostian,en
+onb_place_placenotfound,1710975864419000,16e3becf-3a61-4db3-ae03-d7d128a36511,16e3becf-3a61-4db3-ae03-d7d128a36511_1710975693201,/,en,False,False,Krostiansund,en
+onb_place_placenotfound,1710907462221000,418f8041-0e92-4f3e-82ad-beb6b1abcd0c,418f8041-0e92-4f3e-82ad-beb6b1abcd0c_1710907417643,/,en,False,False,the bronc,en
+onb_place_placenotfound,1710908888179000,2228b6f6-149b-4285-bfa6-76634edecfc5,2228b6f6-149b-4285-bfa6-76634edecfc5_1710908824805,/,en,False,False,Santa Cruz cal,en
+onb_place_placenotfound,1710908892399000,2228b6f6-149b-4285-bfa6-76634edecfc5,2228b6f6-149b-4285-bfa6-76634edecfc5_1710908824805,/,en,False,False,"Santa Cruz,",en
+onb_place_placenotfound,1710908896908000,2228b6f6-149b-4285-bfa6-76634edecfc5,2228b6f6-149b-4285-bfa6-76634edecfc5_1710908824805,/,en,False,False,"Santa Cruz, cali",en
+onb_place_placenotfound,1710908898083000,2228b6f6-149b-4285-bfa6-76634edecfc5,2228b6f6-149b-4285-bfa6-76634edecfc5_1710908824805,/,en,False,False,"Santa Cruz, Cali",en
+onb_place_placenotfound,1710908907454000,2228b6f6-149b-4285-bfa6-76634edecfc5,2228b6f6-149b-4285-bfa6-76634edecfc5_1710908824805,/,en,False,False,"Santa Cruz,",en
+onb_place_placenotfound,1710908914416000,2228b6f6-149b-4285-bfa6-76634edecfc5,2228b6f6-149b-4285-bfa6-76634edecfc5_1710908824805,/,en,False,False,Santa Cruz cali,en
+onb_place_placenotfound,1710908916974000,2228b6f6-149b-4285-bfa6-76634edecfc5,2228b6f6-149b-4285-bfa6-76634edecfc5_1710908824805,/,en,False,False,Santa Cruz calii,en
+onb_place_placenotfound,1710908919126000,2228b6f6-149b-4285-bfa6-76634edecfc5,2228b6f6-149b-4285-bfa6-76634edecfc5_1710908824805,/,en,False,False,Santa Cruz California,en
+onb_place_placenotfound,1710909116351000,2228b6f6-149b-4285-bfa6-76634edecfc5,2228b6f6-149b-4285-bfa6-76634edecfc5_1710908824805,/,en,False,False,Durhan,en
+onb_place_placenotfound,1710912561166000,d4f3a9fe-5309-41f5-b855-1d8a8102419c,d4f3a9fe-5309-41f5-b855-1d8a8102419c_1710912516216,/,en,False,False,Alberq,en
+onb_place_placenotfound,1710912565980000,d4f3a9fe-5309-41f5-b855-1d8a8102419c,d4f3a9fe-5309-41f5-b855-1d8a8102419c_1710912516216,/,en,False,False,Alberqer,en
+onb_place_placenotfound,1710912573041000,d4f3a9fe-5309-41f5-b855-1d8a8102419c,d4f3a9fe-5309-41f5-b855-1d8a8102419c_1710912516216,/,en,False,False,New me,en
+onb_place_placenotfound,1710912575629000,d4f3a9fe-5309-41f5-b855-1d8a8102419c,d4f3a9fe-5309-41f5-b855-1d8a8102419c_1710912516216,/,en,False,False,New mexico,en
+onb_place_placenotfound,1710914656641000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,en,False,False,"El Salvador,",en
+onb_place_placenotfound,1710914660019000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,en,False,False,"El Salvador, San",en
+onb_place_placenotfound,1710914665240000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,en,False,False,"El Salvador, San Salvador",en
+onb_place_placenotfound,1710914676399000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,en,False,False,San El Salvador,en
+onb_place_placenotfound,1710914680295000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,en,False,False,San SalvadorEl Salvador,en
+onb_place_placenotfound,1710914681517000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,en,False,False,"San Salvador, El Salvador",en
+onb_place_placenotfound,1710914684318000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,en,False,False,San SalvadorEl Salvador,en
+onb_place_placenotfound,1710914685316000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,en,False,False,San Salvador El Salvador,en
+onb_place_placenotfound,1710914706714000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,en,False,False,"El Salvador,",en
+onb_place_placenotfound,1710914714783000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710914562230,/,en,False,False,"El Salvador, San Salvador",en
+onb_place_placenotfound,1710926210677000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710923311844,/,en,False,False,"Stanford,",en
+onb_place_placenotfound,1710926217227000,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f,2dc59de3-c0b0-4636-8ba0-61c4c2cdbb2f_1710923311844,/,en,False,False,"Stanford, california",en
+onb_place_placenotfound,1710928246382000,3703b218-d44e-4a3c-9d4e-ea013e835494,3703b218-d44e-4a3c-9d4e-ea013e835494_1710928192402,/,en,False,False,Robtak,en
