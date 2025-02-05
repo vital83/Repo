@@ -1,0 +1,39 @@
+C:\Documents and Settings\Sokolov\Мои документы\Visual Studio 2005\Projects\PickupBases\PickupBases\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sokolov\Мои документы\Visual Studio 2005\Projects\PickupBases\PickupBases\bin\Debug\PickupBases.exe
+C:\Documents and Settings\Sokolov\Мои документы\Visual Studio 2005\Projects\PickupBases\PickupBases\bin\Debug\PickupBases.pdb
+C:\Documents and Settings\Sokolov\Мои документы\Visual Studio 2005\Projects\PickupBases\PickupBases\obj\Debug\PickupBases.exe
+C:\Documents and Settings\Sokolov\Мои документы\Visual Studio 2005\Projects\PickupBases\PickupBases\obj\Debug\PickupBases.pdb
+c:\Репозиторий2\PickupBases\PickupBases\obj\Debug\PickupBases.exe
+c:\Репозиторий2\PickupBases\PickupBases\bin\Release\PickupBases.exe
+c:\Репозиторий2\PickupBases\PickupBases\bin\Release\PickupBases.pdb
+c:\Репозиторий2\PickupBases\PickupBases\bin\Release\MySql.Data.dll
+c:\Репозиторий2\PickupBases\PickupBases\obj\Release\ResolveAssemblyReference.cache
+c:\Репозиторий2\PickupBases\PickupBases\obj\Release\PickupBases.exe
+c:\Репозиторий2\PickupBases\PickupBases\obj\Release\PickupBases.pdb
+C:\Repositoriy\pickup\PickupBases\obj\Release\ResolveAssemblyReference.cache
+C:\Repositoriy\pickup\PickupBases\bin\Release\PickupBases.exe
+C:\Repositoriy\pickup\PickupBases\bin\Release\PickupBases.pdb
+C:\Repositoriy\pickup\PickupBases\bin\Release\MySql.Data.dll
+C:\Repositoriy\pickup\PickupBases\obj\Release\PickupBases.exe
+C:\Repositoriy\pickup\PickupBases\obj\Release\PickupBases.pdb
+C:\Repositoriy\pickup\PickupBases\bin\Debug\PickupBases.exe
+C:\Repositoriy\pickup\PickupBases\bin\Debug\PickupBases.pdb
+C:\Repositoriy\pickup\PickupBases\bin\Debug\MySql.Data.dll
+C:\Repositoriy\pickup\PickupBases\obj\Debug\ResolveAssemblyReference.cache
+C:\Repositoriy\pickup\PickupBases\obj\Debug\PickupBases.exe
+C:\Repositoriy\pickup\PickupBases\obj\Debug\PickupBases.pdb
+C:\Репозиторий2\PickupBases\trunc\PickupBases\obj\Debug\PickupBases.exe
+C:\Репозиторий2\PickupBases\trunc\PickupBases\bin\Debug\PickupBases.exe
+C:\Репозиторий2\PickupBases\trunc\PickupBases\bin\Debug\PickupBases.pdb
+C:\Репозиторий2\PickupBases\trunc\PickupBases\obj\Debug\ResolveAssemblyReference.cache
+C:\Репозиторий2\PickupBases\trunc\PickupBases\obj\Debug\PickupBases.pdb
+C:\Репозиторий2\PickupBases\trunc\PickupBases\bin\Release\PickupBases.exe
+C:\Репозиторий2\PickupBases\trunc\PickupBases\bin\Release\PickupBases.pdb
+C:\Репозиторий2\PickupBases\trunc\PickupBases\obj\Release\ResolveAssemblyReference.cache
+C:\Репозиторий2\PickupBases\trunc\PickupBases\obj\Release\PickupBases.exe
+C:\Репозиторий2\PickupBases\trunc\PickupBases\obj\Release\PickupBases.pdb
+D:\Repository\PickupBases\branches\SverkaGibdd\PickupBases\obj\Release\ResolveAssemblyReference.cache
+D:\Repository\PickupBases\branches\SverkaGibdd\PickupBases\bin\Release\PickupBases.exe
+D:\Repository\PickupBases\branches\SverkaGibdd\PickupBases\bin\Release\PickupBases.pdb
+D:\Repository\PickupBases\branches\SverkaGibdd\PickupBases\obj\Release\PickupBases.exe
+D:\Repository\PickupBases\branches\SverkaGibdd\PickupBases\obj\Release\PickupBases.pdb

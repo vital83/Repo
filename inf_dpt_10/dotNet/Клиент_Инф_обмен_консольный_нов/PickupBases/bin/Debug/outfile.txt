@@ -1,0 +1,4 @@
+Server=192.168.1.1;Database=arb_jurlitz;Uid=pksp;Pwd=labutkin;CharSet=utf8;
+C:\Dolgniki\files
+dolgniki.txt
+dolgniki.txt.act

@@ -1,0 +1,3 @@
+jdbc:ucanaccess://D:/Repository/java/mdb2dbf/data/PrRoz.mdb
+d:\Repository\java\mdb2dbf\data\prroz.dbf
+mdb2dbf.log

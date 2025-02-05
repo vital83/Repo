@@ -1,0 +1,5 @@
+D:\Repository\SverkaGibdd_old\PickupBases\bin\Release\PickupBases.exe
+D:\Repository\SverkaGibdd_old\PickupBases\bin\Release\PickupBases.pdb
+D:\Repository\SverkaGibdd_old\PickupBases\obj\Release\ResolveAssemblyReference.cache
+D:\Repository\SverkaGibdd_old\PickupBases\obj\Release\PickupBases.exe
+D:\Repository\SverkaGibdd_old\PickupBases\obj\Release\PickupBases.pdb

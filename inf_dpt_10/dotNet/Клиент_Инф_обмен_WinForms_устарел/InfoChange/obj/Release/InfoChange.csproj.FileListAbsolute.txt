@@ -1,0 +1,3 @@
+D:\Repository\Клиент_Инф_обмен_новый\trunc\InfoChange\bin\Release\InfoChange.exe.config
+D:\Repository\Клиент_Инф_обмен_новый\trunc\InfoChange\obj\Release\InfoChange.exe
+D:\Repository\Клиент_Инф_обмен_новый\trunc\InfoChange\obj\Release\InfoChange.pdb

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ru.gov.fssp.r10.jmdb2dbf:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ru_gov_fssp_r10_jmdb2dbf_jar</output-path>
+    <root id="archive" name="ru.gov.fssp.r10.jmdb2dbf.jar">
+      <element id="module-output" name="ru.gov.fssp.r10.jmdb2dbf" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-lang3-3.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/hsqldb-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jackcess-3.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/ucanaccess-5.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/javadbf-1.13.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

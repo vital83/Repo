@@ -1,0 +1,4 @@
+Provider=LCPI.IBProvider.3;Data Source=rdb-petr1/3051;Persist Security Info=True;Password=*******;User ID=SYSDBA;Location=rdb-bel/3051:ncore-fssp;dbclient_library=C:\ibexpert\!gds32\rdb25\fbclient.dll;ctype=win1251
+Provider=LCPI.IBProvider.3;Data Source=rdb-petr1/3051;Persist Security Info=True;Password=*******;User ID=SYSDBA;Location=rdb-bel/3051:/opt/pkosp/db/ufssprk-tools.rdb;dbclient_library=C:\ibexpert\!gds32\rdb25\fbclient.dll;ctype=win1251
+86200999999015
+sverka_gibdd.log

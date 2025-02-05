@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="InfoChange">
+</Property><Property Name="Solution File" Value="D:\Repository\Клиент_Инф_обмен_новый\trunc\InfoChange.sln">
+</Property><Property Name="Date" Value="13 января 2016 г.">
+</Property><Property Name="Time" Value="9:27">
+</Property></Properties><Event ErrorLevel="0" Project="InfoChange" Source="InfoChange\InfoChange.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="InfoChange" Source="InfoChange\InfoChange.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="InfoChange.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="InfoChange.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="InfoChange" Source="InfoChange\InfoChange.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
